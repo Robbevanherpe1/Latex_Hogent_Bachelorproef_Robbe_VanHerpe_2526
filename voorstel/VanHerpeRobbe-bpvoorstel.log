@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  26 DEC 2025 11:44
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  29 DEC 2025 14:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1177,7 +1177,7 @@ Package mdframed Info: mdframed inside a box
  (./voorstel-inhoud.tex
 
 
-Overfull \hbox (7.16235pt too wide) in paragraph at lines 45--46
+Overfull \hbox (7.16235pt too wide) in paragraph at lines 46--47
 []\TU/Montserrat(2)/m/n/10 de probleemstelling en (centrale) onderzoeks-
  []
 
@@ -1190,7 +1190,16 @@ File: ../graphics/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 
 ]
 
-)
+
+Overfull \hbox (7.86903pt too wide) in paragraph at lines 107--109
+[]\TU/Montserrat(2)/m/n/10 Voor deze onderdelen heb ik dan ook een shema
+ []
+
+
+
+File: ../graphics/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
+<../graphics/HOGENT_Logo_Pos_rgb.png>
+[2])
 LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
 (Font)              scaled to size 10.00107pt on input line 67.
 LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
@@ -1205,9 +1214,13 @@ LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
 (Font)              scaled to size 5.79938pt on input line 67.
 
 
+
+
 File: ../graphics/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 <../graphics/HOGENT_Logo_Pos_rgb.png>
-[2] 
+[3
+
+] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./VanHerpeRobbe-bpvoorstel.aux)
  ***********
@@ -1223,10 +1236,10 @@ Package logreq Info: Writing requests to 'VanHerpeRobbe-bpvoorstel.run.xml'.
 Here is how much of TeX's memory you used:
  27849 strings out of 473832
  529262 string characters out of 5729480
- 1613397 words of memory out of 5000000
+ 1614397 words of memory out of 5000000
  50544 multiletter control sequences out of 15000+600000
  562503 words of font info for 105 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  101i,12n,121p,778b,5594s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on VanHerpeRobbe-bpvoorstel.pdf (2 pages).
+Output written on VanHerpeRobbe-bpvoorstel.pdf (3 pages).
