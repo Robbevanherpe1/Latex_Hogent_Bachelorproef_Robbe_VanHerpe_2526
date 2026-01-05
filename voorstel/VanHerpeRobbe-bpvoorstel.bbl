@@ -19,6 +19,207 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{ibm_z_sysadmin_level1}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IBM Training}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Focused on foundational z/OS system administration skills}
+      \field{title}{IBM Z Systems Administrator - Level 1 Competency Framework}
+      \field{type}{techreport}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.ibm.com/training/credentials
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/training/credentials
+      \endverb
+    \endentry
+    \entry{ibm_z_sysadmin_level2}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IBM Training}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Focused on advanced z/OS system administration and configuration}
+      \field{title}{IBM Z Systems Administrator - Level 2 Competency Framework}
+      \field{type}{techreport}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.ibm.com/training/credentials
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/training/credentials
+      \endverb
+    \endentry
+    \entry{ibm_mainframe_apprentice_2023}{manual}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {International Business Machines (IBM)}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{3}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{note}{The occupational standards include the competency framework that outlines technical and professional competencies}
+      \field{title}{Mainframe System Administrator Apprentice Framework}
+      \field{urlday}{5}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ibm.com/downloads/cas/EBXQ9JDE
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/downloads/cas/EBXQ9JDE
+      \endverb
+    \endentry
+    \entry{ibm_app_dev_z_2023}{manual}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=130de66f8e3034fdc83bdfc32fb278ee}{%
+           family={{IBM Apprenticeship Program}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {International Business Machines (IBM)}%
+      }
+      \strng{namehash}{130de66f8e3034fdc83bdfc32fb278ee}
+      \strng{fullhash}{130de66f8e3034fdc83bdfc32fb278ee}
+      \strng{fullhashraw}{130de66f8e3034fdc83bdfc32fb278ee}
+      \strng{bibnamehash}{130de66f8e3034fdc83bdfc32fb278ee}
+      \strng{authorbibnamehash}{130de66f8e3034fdc83bdfc32fb278ee}
+      \strng{authornamehash}{130de66f8e3034fdc83bdfc32fb278ee}
+      \strng{authorfullhash}{130de66f8e3034fdc83bdfc32fb278ee}
+      \strng{authorfullhashraw}{130de66f8e3034fdc83bdfc32fb278ee}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{note}{O*NET CODE: 15-1132.00 (Software Developers, Application). Open source standard for apprenticeship and work-based learning programs.}
+      \field{title}{Application Developer on IBM Z: Competency Framework}
+      \field{urlday}{5}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://community.ibm.com/zsystems/uploads/document/slider/ujdg9js84fj.pdf
+      \endverb
+      \verb{url}
+      \verb https://community.ibm.com/zsystems/uploads/document/slider/ujdg9js84fj.pdf
+      \endverb
+    \endentry
+    \entry{NgoYe2018TeachingMainframeSkills}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=50578ce4ef9e7c3f86be4c88fa289aa2}{%
+           family={Ngo-Ye},
+           familyi={N\bibinithyphendelim Y\bibinitperiod},
+           given={Thomas\bibnamedelima L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96202c8baa4cfbe2e05e8ffa6977482c}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Jae},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Atlanta, GA, USA}%
+      }
+      \strng{namehash}{344d8b5f6dbf420ece60739f78e908a0}
+      \strng{fullhash}{344d8b5f6dbf420ece60739f78e908a0}
+      \strng{fullhashraw}{344d8b5f6dbf420ece60739f78e908a0}
+      \strng{bibnamehash}{344d8b5f6dbf420ece60739f78e908a0}
+      \strng{authorbibnamehash}{344d8b5f6dbf420ece60739f78e908a0}
+      \strng{authornamehash}{344d8b5f6dbf420ece60739f78e908a0}
+      \strng{authorfullhash}{344d8b5f6dbf420ece60739f78e908a0}
+      \strng{authorfullhashraw}{344d8b5f6dbf420ece60739f78e908a0}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Southern Association for Information Systems Conference}
+      \field{note}{Het onderzoekt het tekort aan mainframe-skills bij studenten en de noodzaak tot mainframe-onderwijs.}
+      \field{title}{Teaching Students Mainframe Skills for the Niche Market: An Exploratory Proposal}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \verb{urlraw}
+      \verb https://aisel.aisnet.org/sais2018/
+      \endverb
+      \verb{url}
+      \verb https://aisel.aisnet.org/sais2018/
+      \endverb
+      \keyw{mainframe education,IS curriculum,skill shortage}
+    \endentry
     \entry{Phillips2013Mainframe}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=8ec1f210025b42fc2fe6b8bedf32dbc9}{%
@@ -89,8 +290,255 @@
       \endverb
       \keyw{motivation,mainframes,legacy systems}
     \endentry
+    \entry{Sharma2011TeachOrNotTeach}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=be19dd034d32e46b77204ecf73279330}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Aditya},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=473f3fd12509f0bdb0194110d509bd97}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Marianne\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bb9db14ea488eb6adc5247577f1d1300}
+      \strng{fullhash}{bb9db14ea488eb6adc5247577f1d1300}
+      \strng{fullhashraw}{bb9db14ea488eb6adc5247577f1d1300}
+      \strng{bibnamehash}{bb9db14ea488eb6adc5247577f1d1300}
+      \strng{authorbibnamehash}{bb9db14ea488eb6adc5247577f1d1300}
+      \strng{authornamehash}{bb9db14ea488eb6adc5247577f1d1300}
+      \strng{authorfullhash}{bb9db14ea488eb6adc5247577f1d1300}
+      \strng{authorfullhashraw}{bb9db14ea488eb6adc5247577f1d1300}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information Systems Education Journal}
+      \field{note}{Analyseert het onderwijs in grote systemen (inclusief mainframes) en de aansluiting op marktbehoeften.}
+      \field{number}{4}
+      \field{title}{Teach or No Teach: Is Large System Education Resurging?}
+      \field{volume}{9}
+      \field{year}{2011}
+      \field{pages}{11\bibrangedash 20}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb https://files.eric.ed.gov/fulltext/EJ1145482.pdf
+      \endverb
+      \verb{url}
+      \verb https://files.eric.ed.gov/fulltext/EJ1145482.pdf
+      \endverb
+      \keyw{mainframe education,curriculum,workforce}
+    \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
+    \entry{ibm_z_sysadmin_level1}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IBM Training}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Focused on foundational z/OS system administration skills}
+      \field{title}{IBM Z Systems Administrator - Level 1 Competency Framework}
+      \field{type}{techreport}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.ibm.com/training/credentials
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/training/credentials
+      \endverb
+    \endentry
+    \entry{ibm_z_sysadmin_level2}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IBM Training}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Focused on advanced z/OS system administration and configuration}
+      \field{title}{IBM Z Systems Administrator - Level 2 Competency Framework}
+      \field{type}{techreport}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.ibm.com/training/credentials
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/training/credentials
+      \endverb
+    \endentry
+    \entry{ibm_mainframe_apprentice_2023}{manual}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {International Business Machines (IBM)}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{extraname}{3}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{note}{The occupational standards include the competency framework that outlines technical and professional competencies}
+      \field{title}{Mainframe System Administrator Apprentice Framework}
+      \field{urlday}{5}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ibm.com/downloads/cas/EBXQ9JDE
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/downloads/cas/EBXQ9JDE
+      \endverb
+    \endentry
+    \entry{ibm_app_dev_z_2023}{manual}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=130de66f8e3034fdc83bdfc32fb278ee}{%
+           family={{IBM Apprenticeship Program}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {International Business Machines (IBM)}%
+      }
+      \strng{namehash}{130de66f8e3034fdc83bdfc32fb278ee}
+      \strng{fullhash}{130de66f8e3034fdc83bdfc32fb278ee}
+      \strng{fullhashraw}{130de66f8e3034fdc83bdfc32fb278ee}
+      \strng{bibnamehash}{130de66f8e3034fdc83bdfc32fb278ee}
+      \strng{authorbibnamehash}{130de66f8e3034fdc83bdfc32fb278ee}
+      \strng{authornamehash}{130de66f8e3034fdc83bdfc32fb278ee}
+      \strng{authorfullhash}{130de66f8e3034fdc83bdfc32fb278ee}
+      \strng{authorfullhashraw}{130de66f8e3034fdc83bdfc32fb278ee}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{note}{O*NET CODE: 15-1132.00 (Software Developers, Application). Open source standard for apprenticeship and work-based learning programs.}
+      \field{title}{Application Developer on IBM Z: Competency Framework}
+      \field{urlday}{5}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://community.ibm.com/zsystems/uploads/document/slider/ujdg9js84fj.pdf
+      \endverb
+      \verb{url}
+      \verb https://community.ibm.com/zsystems/uploads/document/slider/ujdg9js84fj.pdf
+      \endverb
+    \endentry
+    \entry{NgoYe2018TeachingMainframeSkills}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=50578ce4ef9e7c3f86be4c88fa289aa2}{%
+           family={Ngo-Ye},
+           familyi={N\bibinithyphendelim Y\bibinitperiod},
+           given={Thomas\bibnamedelima L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96202c8baa4cfbe2e05e8ffa6977482c}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Jae},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Atlanta, GA, USA}%
+      }
+      \strng{namehash}{344d8b5f6dbf420ece60739f78e908a0}
+      \strng{fullhash}{344d8b5f6dbf420ece60739f78e908a0}
+      \strng{fullhashraw}{344d8b5f6dbf420ece60739f78e908a0}
+      \strng{bibnamehash}{344d8b5f6dbf420ece60739f78e908a0}
+      \strng{authorbibnamehash}{344d8b5f6dbf420ece60739f78e908a0}
+      \strng{authornamehash}{344d8b5f6dbf420ece60739f78e908a0}
+      \strng{authorfullhash}{344d8b5f6dbf420ece60739f78e908a0}
+      \strng{authorfullhashraw}{344d8b5f6dbf420ece60739f78e908a0}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Southern Association for Information Systems Conference}
+      \field{note}{Het onderzoekt het tekort aan mainframe-skills bij studenten en de noodzaak tot mainframe-onderwijs.}
+      \field{title}{Teaching Students Mainframe Skills for the Niche Market: An Exploratory Proposal}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \verb{urlraw}
+      \verb https://aisel.aisnet.org/sais2018/
+      \endverb
+      \verb{url}
+      \verb https://aisel.aisnet.org/sais2018/
+      \endverb
+      \keyw{mainframe education,IS curriculum,skill shortage}
+    \endentry
     \entry{Phillips2013Mainframe}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=8ec1f210025b42fc2fe6b8bedf32dbc9}{%
@@ -160,6 +608,52 @@
       \verb https://doi.org/10.1145/2487294.2487308
       \endverb
       \keyw{motivation,mainframes,legacy systems}
+    \endentry
+    \entry{Sharma2011TeachOrNotTeach}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=be19dd034d32e46b77204ecf73279330}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Aditya},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=473f3fd12509f0bdb0194110d509bd97}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Marianne\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bb9db14ea488eb6adc5247577f1d1300}
+      \strng{fullhash}{bb9db14ea488eb6adc5247577f1d1300}
+      \strng{fullhashraw}{bb9db14ea488eb6adc5247577f1d1300}
+      \strng{bibnamehash}{bb9db14ea488eb6adc5247577f1d1300}
+      \strng{authorbibnamehash}{bb9db14ea488eb6adc5247577f1d1300}
+      \strng{authornamehash}{bb9db14ea488eb6adc5247577f1d1300}
+      \strng{authorfullhash}{bb9db14ea488eb6adc5247577f1d1300}
+      \strng{authorfullhashraw}{bb9db14ea488eb6adc5247577f1d1300}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information Systems Education Journal}
+      \field{note}{Analyseert het onderwijs in grote systemen (inclusief mainframes) en de aansluiting op marktbehoeften.}
+      \field{number}{4}
+      \field{title}{Teach or No Teach: Is Large System Education Resurging?}
+      \field{volume}{9}
+      \field{year}{2011}
+      \field{pages}{11\bibrangedash 20}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb https://files.eric.ed.gov/fulltext/EJ1145482.pdf
+      \endverb
+      \verb{url}
+      \verb https://files.eric.ed.gov/fulltext/EJ1145482.pdf
+      \endverb
+      \keyw{mainframe education,curriculum,workforce}
     \endentry
   \enddatalist
 \endrefsection

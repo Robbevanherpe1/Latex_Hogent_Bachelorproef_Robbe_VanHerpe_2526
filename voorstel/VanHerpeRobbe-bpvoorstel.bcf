@@ -3070,7 +3070,13 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">voorstel.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">Phillips2013Mainframe</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">Sharma2011TeachOrNotTeach</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">NgoYe2018TeachingMainframeSkills</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">Phillips2013Mainframe</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">ibm_z_sysadmin_level1</bcf:citekey>
+    <bcf:citekey order="4" intorder="2">ibm_z_sysadmin_level2</bcf:citekey>
+    <bcf:citekey order="4" intorder="3">ibm_mainframe_apprentice_2023</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">ibm_app_dev_z_2023</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

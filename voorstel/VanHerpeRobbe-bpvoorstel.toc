@@ -3,5 +3,5 @@
 \contentsline {section}{\numberline {2}Literatuurstudie}{1}{section.2}%
 \contentsline {section}{\numberline {3}Methodologie}{2}{section.3}%
 \contentsline {section}{\numberline {4}Verwacht resultaat, conclusie}{2}{section.4}%
-\contentsline {section}{Referenties}{2}{section.4}%
+\contentsline {section}{Referenties}{3}{section.4}%
 \contentsfinish 
