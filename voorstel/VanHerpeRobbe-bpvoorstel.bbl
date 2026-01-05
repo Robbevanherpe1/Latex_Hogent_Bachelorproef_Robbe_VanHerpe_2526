@@ -19,87 +19,147 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
-    \entry{Hykes2013}{online}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=26262c29eafa81f84e0ffc04b76f142d}{%
-           family={Hykes},
-           familyi={H\bibinitperiod},
-           given={Solomon},
+    \entry{Phillips2013Mainframe}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=8ec1f210025b42fc2fe6b8bedf32dbc9}{%
+           family={Phillips},
+           familyi={P\bibinitperiod},
+           given={Brandon\bibnamedelima Kyle},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f8d0d6ce3af473b0b668badaef65aaf}{%
+           family={Ryan},
+           familyi={R\bibinitperiod},
+           given={Sherry},
            giveni={S\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa9429b05add64067346cdf5f0b9d06b}{%
+           family={Harden},
+           familyi={H\bibinitperiod},
+           given={Gina},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb140ed6671450b33f57b967bf32861b}{%
+           family={Guynes},
+           familyi={G\bibinitperiod},
+           given={C.\bibnamedelimi S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7473b8b8bd948b19310435f85298b60}{%
+           family={Windsor},
+           familyi={W\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{26262c29eafa81f84e0ffc04b76f142d}
-      \strng{fullhash}{26262c29eafa81f84e0ffc04b76f142d}
-      \strng{fullhashraw}{26262c29eafa81f84e0ffc04b76f142d}
-      \strng{bibnamehash}{26262c29eafa81f84e0ffc04b76f142d}
-      \strng{authorbibnamehash}{26262c29eafa81f84e0ffc04b76f142d}
-      \strng{authornamehash}{26262c29eafa81f84e0ffc04b76f142d}
-      \strng{authorfullhash}{26262c29eafa81f84e0ffc04b76f142d}
-      \strng{authorfullhashraw}{26262c29eafa81f84e0ffc04b76f142d}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{d31755044e50623f4b83a26a37eb5358}
+      \strng{fullhash}{f89d99be504bd2ba6655b55b1162de39}
+      \strng{fullhashraw}{f89d99be504bd2ba6655b55b1162de39}
+      \strng{bibnamehash}{f89d99be504bd2ba6655b55b1162de39}
+      \strng{authorbibnamehash}{f89d99be504bd2ba6655b55b1162de39}
+      \strng{authornamehash}{d31755044e50623f4b83a26a37eb5358}
+      \strng{authorfullhash}{f89d99be504bd2ba6655b55b1162de39}
+      \strng{authorfullhashraw}{f89d99be504bd2ba6655b55b1162de39}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{21}
-      \field{month}{3}
-      \field{title}{The future of Linux Containers (PyCon 2013)}
-      \field{urlday}{1}
-      \field{urlmonth}{9}
-      \field{urlyear}{2016}
+      \field{journaltitle}{Proceedings of the 2013 Annual Conference on Computers and People Research (SIGMIS-CPR '13)}
+      \field{title}{Motivating Students to Acquire Mainframe Skills}
       \field{year}{2013}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
+      \field{pages}{73\bibrangedash 78}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1145/2487294.2487308
+      \endverb
       \verb{urlraw}
-      \verb https://www.youtube.com/watch?v=wW9CAH9nSLs
+      \verb https://doi.org/10.1145/2487294.2487308
       \endverb
       \verb{url}
-      \verb https://www.youtube.com/watch?v=wW9CAH9nSLs
+      \verb https://doi.org/10.1145/2487294.2487308
       \endverb
+      \keyw{motivation,mainframes,legacy systems}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
-    \entry{Hykes2013}{online}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=26262c29eafa81f84e0ffc04b76f142d}{%
-           family={Hykes},
-           familyi={H\bibinitperiod},
-           given={Solomon},
+    \entry{Phillips2013Mainframe}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=8ec1f210025b42fc2fe6b8bedf32dbc9}{%
+           family={Phillips},
+           familyi={P\bibinitperiod},
+           given={Brandon\bibnamedelima Kyle},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f8d0d6ce3af473b0b668badaef65aaf}{%
+           family={Ryan},
+           familyi={R\bibinitperiod},
+           given={Sherry},
            giveni={S\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa9429b05add64067346cdf5f0b9d06b}{%
+           family={Harden},
+           familyi={H\bibinitperiod},
+           given={Gina},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb140ed6671450b33f57b967bf32861b}{%
+           family={Guynes},
+           familyi={G\bibinitperiod},
+           given={C.\bibnamedelimi S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7473b8b8bd948b19310435f85298b60}{%
+           family={Windsor},
+           familyi={W\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{26262c29eafa81f84e0ffc04b76f142d}
-      \strng{fullhash}{26262c29eafa81f84e0ffc04b76f142d}
-      \strng{fullhashraw}{26262c29eafa81f84e0ffc04b76f142d}
-      \strng{bibnamehash}{26262c29eafa81f84e0ffc04b76f142d}
-      \strng{authorbibnamehash}{26262c29eafa81f84e0ffc04b76f142d}
-      \strng{authornamehash}{26262c29eafa81f84e0ffc04b76f142d}
-      \strng{authorfullhash}{26262c29eafa81f84e0ffc04b76f142d}
-      \strng{authorfullhashraw}{26262c29eafa81f84e0ffc04b76f142d}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{d31755044e50623f4b83a26a37eb5358}
+      \strng{fullhash}{f89d99be504bd2ba6655b55b1162de39}
+      \strng{fullhashraw}{f89d99be504bd2ba6655b55b1162de39}
+      \strng{bibnamehash}{f89d99be504bd2ba6655b55b1162de39}
+      \strng{authorbibnamehash}{f89d99be504bd2ba6655b55b1162de39}
+      \strng{authornamehash}{d31755044e50623f4b83a26a37eb5358}
+      \strng{authorfullhash}{f89d99be504bd2ba6655b55b1162de39}
+      \strng{authorfullhashraw}{f89d99be504bd2ba6655b55b1162de39}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{21}
-      \field{month}{3}
-      \field{title}{The future of Linux Containers (PyCon 2013)}
-      \field{urlday}{1}
-      \field{urlmonth}{9}
-      \field{urlyear}{2016}
+      \field{journaltitle}{Proceedings of the 2013 Annual Conference on Computers and People Research (SIGMIS-CPR '13)}
+      \field{title}{Motivating Students to Acquire Mainframe Skills}
       \field{year}{2013}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
+      \field{pages}{73\bibrangedash 78}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1145/2487294.2487308
+      \endverb
       \verb{urlraw}
-      \verb https://www.youtube.com/watch?v=wW9CAH9nSLs
+      \verb https://doi.org/10.1145/2487294.2487308
       \endverb
       \verb{url}
-      \verb https://www.youtube.com/watch?v=wW9CAH9nSLs
+      \verb https://doi.org/10.1145/2487294.2487308
       \endverb
+      \keyw{motivation,mainframes,legacy systems}
     \endentry
   \enddatalist
 \endrefsection

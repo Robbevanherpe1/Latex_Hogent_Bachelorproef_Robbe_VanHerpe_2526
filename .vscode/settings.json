@@ -1,21 +1,28 @@
-{"latex-workshop.latex.tools": [
-  {
-    "name": "xelatex",
-    "command": "/Library/TeX/texbin/xelatex",
-    "args": [
-      "-synctex=1",
-      "-interaction=nonstopmode",
-      "-file-line-error",
-      "%DOC%"
-    ]
-  }
-],
+{
+  "latex-workshop.latex.tools": [
+    {
+      "name": "xelatex",
+      "command": "/Library/TeX/texbin/xelatex",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "%DOCFILE%"
+      ]
+    },
+    {
+      "name": "biber",
+      "command": "/Library/TeX/texbin/biber",
+      "args": ["%DOCFILE%"]
+    }
+  ],
 
-"latex-workshop.latex.recipes": [
-  {
-    "name": "xelatex",
-    "tools": ["xelatex"]
-  }
-]
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "xelatex ➞ biber ➞ xelatex ×2",
+      "tools": ["xelatex", "biber", "xelatex", "xelatex"]
+    }
+  ],
 
+  "latex-workshop.latex.recipe.default": "xelatex ➞ biber ➞ xelatex ×2"
 }
