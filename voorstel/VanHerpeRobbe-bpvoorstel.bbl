@@ -336,6 +336,95 @@
       \endverb
       \keyw{mainframe education,curriculum,workforce}
     \endentry
+    \entry{pl1legacy2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=aa668cb35e5636c43c89373ca18a2549}{%
+           family={Sneed},
+           familyi={S\bibinitperiod},
+           given={Harry\bibnamedelima M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d95b887de3887be37a8326a0ecb9f83e}{%
+           family={Feigl},
+           familyi={F\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b51690f43a772e6535065c49bd37f63}{%
+           family={Ferenc},
+           familyi={F\bibinitperiod},
+           given={Rudolf},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{b89b35fa63137e19a2ee6d5d34740811}
+      \strng{fullhash}{87b399a00636be7587980f7d0231b4b3}
+      \strng{fullhashraw}{87b399a00636be7587980f7d0231b4b3}
+      \strng{bibnamehash}{87b399a00636be7587980f7d0231b4b3}
+      \strng{authorbibnamehash}{87b399a00636be7587980f7d0231b4b3}
+      \strng{authornamehash}{b89b35fa63137e19a2ee6d5d34740811}
+      \strng{authorfullhash}{87b399a00636be7587980f7d0231b4b3}
+      \strng{authorfullhashraw}{87b399a00636be7587980f7d0231b4b3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents an experience report on analyzing a large-scale PL/I legacy ecosystem in a financial institution, focusing on code structure, dependencies, and maintainability challenges.}
+      \field{journaltitle}{Proceedings of the 37th International Conference on Software Maintenance and Evolution (ICSME)}
+      \field{title}{Analyzing PL/1 Legacy Ecosystems: An Experience Report}
+      \field{year}{2021}
+      \field{pages}{456\bibrangedash 465}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/ICSME52107.2021.00052
+      \endverb
+      \verb{urlraw}
+      \verb https://scispace.com/pdf/analyzing-pl-1-legacy-ecosystems-an-experience-report-4q0q6a4ari.pdf
+      \endverb
+      \verb{url}
+      \verb https://scispace.com/pdf/analyzing-pl-1-legacy-ecosystems-an-experience-report-4q0q6a4ari.pdf
+      \endverb
+    \endentry
+    \entry{YalamanchiliIJLRP}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a4c0d9163735c21b574d783d3d90dc01}{%
+           family={Yalamanchili},
+           familyi={Y\bibinitperiod},
+           given={Chandra\bibnamedelima Mouli},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a4c0d9163735c21b574d783d3d90dc01}
+      \strng{fullhash}{a4c0d9163735c21b574d783d3d90dc01}
+      \strng{fullhashraw}{a4c0d9163735c21b574d783d3d90dc01}
+      \strng{bibnamehash}{a4c0d9163735c21b574d783d3d90dc01}
+      \strng{authorbibnamehash}{a4c0d9163735c21b574d783d3d90dc01}
+      \strng{authornamehash}{a4c0d9163735c21b574d783d3d90dc01}
+      \strng{authorfullhash}{a4c0d9163735c21b574d783d3d90dc01}
+      \strng{authorfullhashraw}{a4c0d9163735c21b574d783d3d90dc01}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{03}
+      \field{title}{CICS Transaction Processing on zOS: Core Concepts and Workflow}
+      \field{volume}{2}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.5281/zenodo.15154786
+      \endverb
+    \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
     \entry{ibm_z_sysadmin_level1}{report}{}{}
@@ -654,6 +743,95 @@
       \verb https://files.eric.ed.gov/fulltext/EJ1145482.pdf
       \endverb
       \keyw{mainframe education,curriculum,workforce}
+    \endentry
+    \entry{pl1legacy2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=aa668cb35e5636c43c89373ca18a2549}{%
+           family={Sneed},
+           familyi={S\bibinitperiod},
+           given={Harry\bibnamedelima M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d95b887de3887be37a8326a0ecb9f83e}{%
+           family={Feigl},
+           familyi={F\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b51690f43a772e6535065c49bd37f63}{%
+           family={Ferenc},
+           familyi={F\bibinitperiod},
+           given={Rudolf},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{b89b35fa63137e19a2ee6d5d34740811}
+      \strng{fullhash}{87b399a00636be7587980f7d0231b4b3}
+      \strng{fullhashraw}{87b399a00636be7587980f7d0231b4b3}
+      \strng{bibnamehash}{87b399a00636be7587980f7d0231b4b3}
+      \strng{authorbibnamehash}{87b399a00636be7587980f7d0231b4b3}
+      \strng{authornamehash}{b89b35fa63137e19a2ee6d5d34740811}
+      \strng{authorfullhash}{87b399a00636be7587980f7d0231b4b3}
+      \strng{authorfullhashraw}{87b399a00636be7587980f7d0231b4b3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents an experience report on analyzing a large-scale PL/I legacy ecosystem in a financial institution, focusing on code structure, dependencies, and maintainability challenges.}
+      \field{journaltitle}{Proceedings of the 37th International Conference on Software Maintenance and Evolution (ICSME)}
+      \field{title}{Analyzing PL/1 Legacy Ecosystems: An Experience Report}
+      \field{year}{2021}
+      \field{pages}{456\bibrangedash 465}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/ICSME52107.2021.00052
+      \endverb
+      \verb{urlraw}
+      \verb https://scispace.com/pdf/analyzing-pl-1-legacy-ecosystems-an-experience-report-4q0q6a4ari.pdf
+      \endverb
+      \verb{url}
+      \verb https://scispace.com/pdf/analyzing-pl-1-legacy-ecosystems-an-experience-report-4q0q6a4ari.pdf
+      \endverb
+    \endentry
+    \entry{YalamanchiliIJLRP}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a4c0d9163735c21b574d783d3d90dc01}{%
+           family={Yalamanchili},
+           familyi={Y\bibinitperiod},
+           given={Chandra\bibnamedelima Mouli},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a4c0d9163735c21b574d783d3d90dc01}
+      \strng{fullhash}{a4c0d9163735c21b574d783d3d90dc01}
+      \strng{fullhashraw}{a4c0d9163735c21b574d783d3d90dc01}
+      \strng{bibnamehash}{a4c0d9163735c21b574d783d3d90dc01}
+      \strng{authorbibnamehash}{a4c0d9163735c21b574d783d3d90dc01}
+      \strng{authornamehash}{a4c0d9163735c21b574d783d3d90dc01}
+      \strng{authorfullhash}{a4c0d9163735c21b574d783d3d90dc01}
+      \strng{authorfullhashraw}{a4c0d9163735c21b574d783d3d90dc01}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{03}
+      \field{title}{CICS Transaction Processing on zOS: Core Concepts and Workflow}
+      \field{volume}{2}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.5281/zenodo.15154786
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

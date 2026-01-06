@@ -3077,6 +3077,9 @@
     <bcf:citekey order="4" intorder="2">ibm_z_sysadmin_level2</bcf:citekey>
     <bcf:citekey order="4" intorder="3">ibm_mainframe_apprentice_2023</bcf:citekey>
     <bcf:citekey order="5" intorder="1">ibm_app_dev_z_2023</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">YalamanchiliIJLRP</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">pl1legacy2021</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">ibm_app_dev_z_2023</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
