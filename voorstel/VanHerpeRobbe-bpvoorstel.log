@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  7 JAN 2026 14:59
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  7 JAN 2026 15:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1157,19 +1157,19 @@ Package hyperref Info: Link coloring ON on input line 55.
 \openout4 = `VanHerpeRobbe-bpvoorstel.out'.
 
 LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
-(Font)              scaled to size 9.00096pt on input line 67.
+(Font)              scaled to size 9.00096pt on input line 78.
 LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 67.
+(Font)              scaled to size 6.00064pt on input line 78.
 LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 67.
+(Font)              scaled to size 5.00053pt on input line 78.
 LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
-(Font)              scaled to size 8.99904pt on input line 67.
+(Font)              scaled to size 8.99904pt on input line 78.
 LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 67.
+(Font)              scaled to size 5.99936pt on input line 78.
 LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 67.
+(Font)              scaled to size 4.99947pt on input line 78.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 67.
+ mdframed uses option nobreak mdframed on input line 78.
  (./VanHerpeRobbe-bpvoorstel.toc)
 \tf@toc=\write5
 \openout5 = `VanHerpeRobbe-bpvoorstel.toc'.
@@ -1199,11 +1199,11 @@ Overfull \hbox (10.12906pt too wide) in paragraph at lines 91--92
  []
 
 
+
+
 Overfull \hbox (2.77573pt too wide) in paragraph at lines 99--102
 \TU/Montserrat(2)/m/n/10 kort aan motivatie voor studenten om mainframe-
  []
-
-
 
 
 Overfull \hbox (1.60901pt too wide) in paragraph at lines 103--105
@@ -1233,11 +1233,6 @@ File: ../graphics/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 File: Gantt Chart.png Graphic file (type bmp)
 <Gantt Chart.png>
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 154--155
-[][] 
- []
-
-
 Overfull \hbox (1.12904pt too wide) in paragraph at lines 157--162
 []\TU/Montserrat(2)/m/n/10 In de eerste fase ga ik een literatuurstudie doen
  []
@@ -1264,70 +1259,70 @@ Overfull \hbox (9.6124pt too wide) in paragraph at lines 209--212
 \TU/Montserrat(2)/m/n/10 praktische aan de hand van hands on labs/examens.
  []
 
-)
-LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 75.
-LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
-(Font)              scaled to size 7.20076pt on input line 75.
-LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
-(Font)              scaled to size 5.80061pt on input line 75.
-LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 75.
-LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
-(Font)              scaled to size 7.19922pt on input line 75.
-LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
-(Font)              scaled to size 5.79938pt on input line 75.
 
 
 File: ../graphics/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 <../graphics/HOGENT_Logo_Pos_rgb.png>
-[3]
-Overfull \hbox (5.70734pt too wide) in paragraph at lines 75--75
+[3])
+LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
+(Font)              scaled to size 10.00107pt on input line 86.
+LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
+(Font)              scaled to size 7.20076pt on input line 86.
+LaTeX Font Info:    Font shape `TU/FiraMath(2)/m/n' will be
+(Font)              scaled to size 5.80061pt on input line 86.
+LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 86.
+LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
+(Font)              scaled to size 7.19922pt on input line 86.
+LaTeX Font Info:    Font shape `TU/FiraMath(3)/m/n' will be
+(Font)              scaled to size 5.79938pt on input line 86.
+
+Overfull \hbox (5.70734pt too wide) in paragraph at lines 86--86
 \TU/Montserrat(2)/m/n/10 pational standards include the competency
  []
 
 
-Overfull \hbox (2.09404pt too wide) in paragraph at lines 75--75
+Overfull \hbox (2.09404pt too wide) in paragraph at lines 86--86
 \TU/Montserrat(2)/m/n/10 framework that outlines technical and pro-
  []
 
 
-Overfull \hbox (1.18835pt too wide) in paragraph at lines 75--75
+Overfull \hbox (1.18835pt too wide) in paragraph at lines 86--86
 \TU/Montserrat(2)/m/it/10 plication Developer on IBM Z: Competency
  []
 
 
-Overfull \hbox (4.63518pt too wide) in paragraph at lines 75--75
+Overfull \hbox (4.63518pt too wide) in paragraph at lines 86--86
 \TU/Montserrat(2)/m/n/10 ware Developers, Application). Open source
  []
 
 
-Overfull \hbox (10.18733pt too wide) in paragraph at lines 75--75
+Overfull \hbox (10.18733pt too wide) in paragraph at lines 86--86
 \TU/Montserrat(2)/m/n/10 standard for apprenticeship and work-based
  []
 
 
-Overfull \hbox (3.1859pt too wide) in paragraph at lines 75--75
+Overfull \hbox (3.1859pt too wide) in paragraph at lines 86--86
 \TU/Montserrat(2)/m/n/10 learning programs.]. International Business
  []
 
 
-Overfull \hbox (4.03734pt too wide) in paragraph at lines 75--75
+Overfull \hbox (4.03734pt too wide) in paragraph at lines 86--86
 \TU/Montserrat(2)/m/n/10 van [][]$[][][][][] [] [] [] [][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][] []
  []
 
 
-Overfull \hbox (3.83734pt too wide) in paragraph at lines 75--75
+Overfull \hbox (3.83734pt too wide) in paragraph at lines 86--86
 \TU/Montserrat(2)/m/n/10 en de noodzaak tot mainframe-onderwijs.].
  []
 
 
-Overfull \hbox (5.47401pt too wide) in paragraph at lines 75--75
+Overfull \hbox (5.47401pt too wide) in paragraph at lines 86--86
 \TU/Montserrat(2)/m/n/10 systemen (inclusief mainframes) en de aan-
  []
 
 
-Overfull \hbox (10.12447pt too wide) in paragraph at lines 75--75
+Overfull \hbox (10.12447pt too wide) in paragraph at lines 86--86
 \TU/Montserrat(2)/m/it/10 Systems Education Journal\TU/Montserrat(2)/m/n/10 , \TU/Montserrat(2)/m/it/10 9\TU/Montserrat(2)/m/n/10 (4), 11–20. [][]$[][][][][] []
  []
 
@@ -1337,9 +1332,7 @@ Overfull \hbox (10.12447pt too wide) in paragraph at lines 75--75
 
 File: ../graphics/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 <../graphics/HOGENT_Logo_Pos_rgb.png>
-[4
-
-] 
+[4] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./VanHerpeRobbe-bpvoorstel.aux)
  ***********
@@ -1359,6 +1352,6 @@ Here is how much of TeX's memory you used:
  50622 multiletter control sequences out of 15000+600000
  562519 words of font info for 107 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 101i,13n,121p,709b,5629s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 101i,12n,121p,709b,5629s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on VanHerpeRobbe-bpvoorstel.pdf (4 pages).

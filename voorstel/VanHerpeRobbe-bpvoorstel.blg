@@ -1,22 +1,22 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'VanHerpeRobbe-bpvoorstel.blg'
-[25] biber-darwin:340> INFO - === Wed Jan  7, 2026, 14:59:57
+[25] biber-darwin:340> INFO - === Wed Jan  7, 2026, 15:51:34
 [31] Biber.pm:420> INFO - Reading 'VanHerpeRobbe-bpvoorstel.bcf'
 [67] Biber.pm:994> INFO - Found 9 citekeys in bib section 0
 [74] Biber.pm:4463> INFO - Processing section 0
-[78] Biber.pm:4654> INFO - Looking for bibtex file 'voorstel.bib' for section 0
+[77] Biber.pm:4654> INFO - Looking for bibtex file 'voorstel.bib' for section 0
 [78] bibtex.pm:1713> INFO - LaTeX decoding ...
-[83] bibtex.pm:1519> INFO - Found BibTeX data source 'voorstel.bib'
-[112] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[112] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[112] Biber.pm:4283> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
-[112] Biber.pm:4289> INFO - No sort tailoring available for locale 'nl-NL'
-[120] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[120] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[120] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
-[120] Biber.pm:4289> INFO - No sort tailoring available for locale 'nl-NL'
-[125] bbl.pm:676> INFO - Writing 'VanHerpeRobbe-bpvoorstel.bbl' with encoding 'UTF-8'
-[128] bbl.pm:779> INFO - Output to VanHerpeRobbe-bpvoorstel.bbl
+[82] bibtex.pm:1519> INFO - Found BibTeX data source 'voorstel.bib'
+[111] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[111] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[111] Biber.pm:4283> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[111] Biber.pm:4289> INFO - No sort tailoring available for locale 'nl-NL'
+[119] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[119] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[119] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[119] Biber.pm:4289> INFO - No sort tailoring available for locale 'nl-NL'
+[124] bbl.pm:676> INFO - Writing 'VanHerpeRobbe-bpvoorstel.bbl' with encoding 'UTF-8'
+[127] bbl.pm:779> INFO - Output to VanHerpeRobbe-bpvoorstel.bbl
 [128] Biber.pm:131> WARN - legacy month field 'mar' in entry 'ibm_mainframe_apprentice_2023' is not an integer - this will probably not sort properly.
 [128] Biber.pm:131> WARN - legacy month field 'mar' in entry 'ibm_app_dev_z_2023' is not an integer - this will probably not sort properly.
 [128] Biber.pm:133> INFO - WARNINGS: 2
