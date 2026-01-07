@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  7 JAN 2026 16:23
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  7 JAN 2026 16:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1184,11 +1184,6 @@ File: ../graphics/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 
 
 ]
-Overfull \hbox (2.91484pt too wide) in paragraph at lines 53--58
-\TU/Montserrat(2)/m/n/10 denten van HOGENT en startende mainframe ont-
- []
-
-
 Overfull \hbox (5.76816pt too wide) in paragraph at lines 60--64
 \TU/Montserrat(2)/m/n/10 tentieframework voor PL1/CICS developers op z/OS.
  []
@@ -1199,10 +1194,20 @@ Overfull \hbox (10.12906pt too wide) in paragraph at lines 91--92
  []
 
 
+Overfull \hbox (5.87456pt too wide) in paragraph at lines 93--98
+\TU/Montserrat(2)/m/n/10 papers. In de paper van Sharma ([]Sharma & Murphy,
+ []
 
 
-Overfull \hbox (2.77573pt too wide) in paragraph at lines 99--102
-\TU/Montserrat(2)/m/n/10 kort aan motivatie voor studenten om mainframe-
+Overfull \hbox (0.31238pt too wide) in paragraph at lines 93--98
+\TU/Montserrat(2)/m/n/10 ook het tekort aan deze mainframe skills getoond.
+ []
+
+
+
+
+Overfull \hbox (12.68571pt too wide) in paragraph at lines 99--102
+\TU/Montserrat(2)/m/n/10 tekort aan motivatie voor studenten om mainframe-
  []
 
 
@@ -1211,8 +1216,8 @@ Overfull \hbox (1.60901pt too wide) in paragraph at lines 103--105
  []
 
 
-Overfull \hbox (1.06572pt too wide) in paragraph at lines 106--110
-\TU/Montserrat(2)/m/n/10 van de mainframe en bevatten daardoor beperkte
+Underfull \hbox (badness 1024) in paragraph at lines 106--110
+\TU/Montserrat(2)/m/n/10 de mainframe en bevatten daardoor beperkte
  []
 
 
