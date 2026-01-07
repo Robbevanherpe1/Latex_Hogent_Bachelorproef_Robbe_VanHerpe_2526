@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  7 JAN 2026 14:35
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  7 JAN 2026 14:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1221,8 +1221,8 @@ Overfull \hbox (1.0057pt too wide) in paragraph at lines 111--115
  []
 
 
-Overfull \hbox (3.16039pt too wide) in paragraph at lines 142--143
-\TU/Montserrat(2)/m/n/10 daan worden binne een bepaalde tijdspanne, deze
+Overfull \hbox (5.37036pt too wide) in paragraph at lines 142--143
+\TU/Montserrat(2)/m/n/10 den voldaan binnen een bepaalde tijdspanne, deze
  []
 
 
@@ -1245,13 +1245,13 @@ Overfull \hbox (1.12904pt too wide) in paragraph at lines 157--162
 
 
 
-Overfull \hbox (7.16571pt too wide) in paragraph at lines 184--187
-\TU/Montserrat(2)/m/n/10 durende het hele bachelorproef process maar word
+Overfull \hbox (4.03902pt too wide) in paragraph at lines 205--208
+[]\TU/Montserrat(2)/m/n/10 Het verwachte resultaat van mijn bachelorproef
  []
 
 
-Overfull \hbox (4.03902pt too wide) in paragraph at lines 205--208
-[]\TU/Montserrat(2)/m/n/10 Het verwachte resultaat van mijn bachelorproef
+Overfull \hbox (0.12906pt too wide) in paragraph at lines 205--208
+\TU/Montserrat(2)/m/n/10 is het opstellen van een actueel en compleet com-
  []
 
 
@@ -1260,8 +1260,8 @@ Overfull \hbox (16.07904pt too wide) in paragraph at lines 209--212
  []
 
 
-Overfull \hbox (4.0624pt too wide) in paragraph at lines 209--212
-\TU/Montserrat(2)/m/n/10 praktishe aan de hand van hands on labs/examens.
+Overfull \hbox (9.6124pt too wide) in paragraph at lines 209--212
+\TU/Montserrat(2)/m/n/10 praktische aan de hand van hands on labs/examens.
  []
 
 )
@@ -1347,7 +1347,7 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `VanHerpeRobbe-bpvoorstel.out' has not changed.
-(rerunfilecheck)             Checksum: A8AEC5F5CC2F8C5AB67065D2FC8F4110;1629.
+(rerunfilecheck)             Checksum: E306272D9AE532EAF0645C055C4F4693;1624.
 Package logreq Info: Writing requests to 'VanHerpeRobbe-bpvoorstel.run.xml'.
 \openout1 = `VanHerpeRobbe-bpvoorstel.run.xml'.
 
