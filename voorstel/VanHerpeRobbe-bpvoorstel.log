@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  7 JAN 2026 16:50
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  7 JAN 2026 17:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1221,12 +1221,7 @@ Underfull \hbox (badness 1024) in paragraph at lines 106--110
  []
 
 
-Overfull \hbox (1.0057pt too wide) in paragraph at lines 111--115
-\TU/Montserrat(2)/m/n/10 competenties die een developer nodig heeft maar
- []
-
-
-Overfull \hbox (5.37036pt too wide) in paragraph at lines 142--143
+Overfull \hbox (5.37036pt too wide) in paragraph at lines 143--144
 \TU/Montserrat(2)/m/n/10 den voldaan binnen een bepaalde tijdspanne, deze
  []
 
@@ -1238,29 +1233,29 @@ File: ../graphics/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 File: Gantt Chart.png Graphic file (type bmp)
 <Gantt Chart.png>
 
-Overfull \hbox (1.12904pt too wide) in paragraph at lines 157--162
+Overfull \hbox (1.12904pt too wide) in paragraph at lines 158--163
 []\TU/Montserrat(2)/m/n/10 In de eerste fase ga ik een literatuurstudie doen
  []
 
 
 
 
-Overfull \hbox (4.03902pt too wide) in paragraph at lines 205--208
+Overfull \hbox (4.03902pt too wide) in paragraph at lines 206--209
 []\TU/Montserrat(2)/m/n/10 Het verwachte resultaat van mijn bachelorproef
  []
 
 
-Overfull \hbox (0.12906pt too wide) in paragraph at lines 205--208
+Overfull \hbox (0.12906pt too wide) in paragraph at lines 206--209
 \TU/Montserrat(2)/m/n/10 is het opstellen van een actueel en compleet com-
  []
 
 
-Overfull \hbox (16.07904pt too wide) in paragraph at lines 209--212
+Overfull \hbox (16.07904pt too wide) in paragraph at lines 210--213
 []\TU/Montserrat(2)/m/n/10 Aansluitend verwacht ik ook een proof-of-concept
  []
 
 
-Overfull \hbox (9.6124pt too wide) in paragraph at lines 209--212
+Overfull \hbox (9.6124pt too wide) in paragraph at lines 210--213
 \TU/Montserrat(2)/m/n/10 praktische aan de hand van hands on labs/examens.
  []
 
