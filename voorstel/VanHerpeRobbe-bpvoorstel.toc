@@ -8,6 +8,6 @@
 \contentsline {subsection}{\numberline {3.1}Literatuurstudie en interviews}{3}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Opstellen framework en PoC}{3}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Rapporteren paper}{3}{subsection.3.3}%
-\contentsline {section}{\numberline {4}Verwacht resultaat, conclusie}{3}{section.4}%
+\contentsline {section}{\numberline {4}Verwacht resultaat, conclusie}{4}{section.4}%
 \contentsline {section}{Referenties}{4}{section.4}%
 \contentsfinish 
