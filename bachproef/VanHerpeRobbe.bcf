@@ -3074,7 +3074,18 @@
     <bcf:citekey order="1" intorder="1">Pollefliet2011</bcf:citekey>
     <bcf:citekey order="2" intorder="1">Pollefliet2011</bcf:citekey>
     <bcf:citekey order="3" intorder="1">Knuth1998</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">Creeger2009</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">Knuth1998</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Creeger2009</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">Sharma2011TeachOrNotTeach</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">NgoYe2018TeachingMainframeSkills</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Phillips2013Mainframe</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">ibm_z_sysadmin_level1</bcf:citekey>
+    <bcf:citekey order="9" intorder="2">ibm_z_sysadmin_level2</bcf:citekey>
+    <bcf:citekey order="9" intorder="3">ibm_mainframe_apprentice_2023</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">ibm_app_dev_z_2023</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">YalamanchiliIJLRP</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">pl1legacy2021</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">ibm_app_dev_z_2023</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
