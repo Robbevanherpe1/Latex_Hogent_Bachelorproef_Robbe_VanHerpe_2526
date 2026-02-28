@@ -7,19 +7,19 @@
 
 % Pas na deze inleidende paragraaf komt de eerste sectiehoofding.
 
-Dit hoofdstuk bevat je literatuurstudie. De inhoud gaat verder op de inleiding, maar zal het onderwerp van de bachelorproef *diepgaand* uitspitten. De bedoeling is dat de lezer na lezing van dit hoofdstuk helemaal op de hoogte is van de huidige stand van zaken (state-of-the-art) in het onderzoeksdomein. Iemand die niet vertrouwd is met het onderwerp, weet nu voldoende om de rest van het verhaal te kunnen volgen, zonder dat die er nog andere informatie moet over opzoeken \autocite{Pollefliet2011}.
+% Dit hoofdstuk bevat je literatuurstudie. De inhoud gaat verder op de inleiding, maar zal het onderwerp van de bachelorproef *diepgaand* uitspitten. De bedoeling is dat de lezer na lezing van dit hoofdstuk helemaal op de hoogte is van de huidige stand van zaken (state-of-the-art) in het onderzoeksdomein. Iemand die niet vertrouwd is met het onderwerp, weet nu voldoende om de rest van het verhaal te kunnen volgen, zonder dat die er nog andere informatie moet over opzoeken \autocite{Pollefliet2011}.
 
-Je verwijst bij elke bewering die je doet, vakterm die je introduceert, enz.\ naar je bronnen. In \LaTeX{} kan dat met het commando \texttt{$\backslash${textcite\{\}}} of \texttt{$\backslash${autocite\{\}}}. Als argument van het commando geef je de ``sleutel'' van een ``record'' in een bibliografische databank in het Bib\LaTeX{}-formaat (een tekstbestand). Als je expliciet naar de auteur verwijst in de zin (narratieve referentie), gebruik je \texttt{$\backslash${}textcite\{\}}. Soms is de auteursnaam niet expliciet een onderdeel van de zin, dan gebruik je \texttt{$\backslash${}autocite\{\}} (referentie tussen haakjes). Dit gebruik je bv.~bij een citaat, of om in het bijschrift van een overgenomen afbeelding, broncode, tabel, enz. te verwijzen naar de bron. In de volgende paragraaf een voorbeeld van elk.
+% Je verwijst bij elke bewering die je doet, vakterm die je introduceert, enz.\ naar je bronnen. In \LaTeX{} kan dat met het commando \texttt{$\backslash${textcite\{\}}} of \texttt{$\backslash${autocite\{\}}}. Als argument van het commando geef je de ``sleutel'' van een ``record'' in een bibliografische databank in het Bib\LaTeX{}-formaat (een tekstbestand). Als je expliciet naar de auteur verwijst in de zin (narratieve referentie), gebruik je \texttt{$\backslash${}textcite\{\}}. Soms is de auteursnaam niet expliciet een onderdeel van de zin, dan gebruik je \texttt{$\backslash${}autocite\{\}} (referentie tussen haakjes). Dit gebruik je bv.~bij een citaat, of om in het bijschrift van een overgenomen afbeelding, broncode, tabel, enz. te verwijzen naar de bron. In de volgende paragraaf een voorbeeld van elk.
 
-\textcite{Knuth1998} schreef een van de standaardwerken over sorteer- en zoekalgoritmen. Experten zijn het erover eens dat cloud computing een interessante opportuniteit vormen, zowel voor gebruikers als voor dienstverleners op vlak van informatietechnologie~\autocite{Creeger2009}.
+% \textcite{Knuth1998} schreef een van de standaardwerken over sorteer- en zoekalgoritmen. Experten zijn het erover eens dat cloud computing een interessante opportuniteit vormen, zowel voor gebruikers als voor dienstverleners op vlak van informatietechnologie~\autocite{Creeger2009}.
 
-Let er ook op: het \texttt{cite}-commando voor de punt, dus binnen de zin. Je verwijst meteen naar een bron in de eerste zin die erop gebaseerd is, dus niet pas op het einde van een paragraaf.
+% Let er ook op: het \texttt{cite}-commando voor de punt, dus binnen de zin. Je verwijst meteen naar een bron in de eerste zin die erop gebaseerd is, dus niet pas op het einde van een paragraaf.
 
-\begin{figure}
-  \centering
-  \includegraphics[width=0.8\textwidth]{grail.jpg}
-  \caption[Voorbeeld figuur.]{\label{fig:grail}Voorbeeld van invoegen van een figuur. Zorg altijd voor een uitgebreid bijschrift dat de figuur volledig beschrijft zonder in de tekst te moeten gaan zoeken. Vergeet ook je bronvermelding niet!}
-\end{figure}
+% \begin{figure}
+%   \centering
+%   \includegraphics[width=0.8\textwidth]{grail.jpg}
+%   \caption[Voorbeeld figuur.]{\label{fig:grail}Voorbeeld van invoegen van een figuur. Zorg altijd voor een uitgebreid bijschrift dat de figuur volledig beschrijft zonder in de tekst te moeten gaan zoeken. Vergeet ook je bronvermelding niet!}
+% \end{figure}
 
 %\begin{listing}
 %  \begin{minted}{python}
@@ -32,20 +32,129 @@ Let er ook op: het \texttt{cite}-commando voor de punt, dus binnen de zin. Je ve
 %  \caption[Voorbeeld codefragment]{Voorbeeld van het invoegen van een codefragment.}
 %\end{listing}
 
-\lipsum[7-20]
+% \lipsum[7-20]
 
-\begin{table}
-  \centering
-  \begin{tabular}{lcr}
-    \toprule
-    \textbf{Kolom 1} & \textbf{Kolom 2} & \textbf{Kolom 3} \\
-    $\alpha$         & $\beta$          & $\gamma$         \\
-    \midrule
-    A                & 10.230           & a                \\
-    B                & 45.678           & b                \\
-    C                & 99.987           & c                \\
-    \bottomrule
-  \end{tabular}
-  \caption[Voorbeeld tabel]{\label{tab:example}Voorbeeld van een tabel.}
-\end{table}
 
+% \begin{table}
+%   \centering
+%   \begin{tabular}{lcr}
+%     \toprule
+%     \textbf{Kolom 1} & \textbf{Kolom 2} & \textbf{Kolom 3} \\
+%     $\alpha$         & $\beta$          & $\gamma$         \\
+%     \midrule
+%     A                & 10.230           & a                \\
+%     B                & 45.678           & b                \\
+%     C                & 99.987           & c                \\
+%     \bottomrule
+%   \end{tabular}
+%   \caption[Voorbeeld tabel]{\label{tab:example}Voorbeeld van een tabel.}
+% \end{table}
+
+Dit hoofdstuk bouwt verder op de probleemstelling uit de inleiding, en schets de huidige stand van zaken rond de instroom van nieuwe mainframe PL1 en CICS ontwikkelaars.
+Daarnaast word het belang van PL1 met CICS  en mainframes aangetoond op basis van actuele metingen in het arbeid veld.
+Tenslotte wordt er gekeken naar andere frameworks en waarom een competentie framework essentieel is voor het aanbrengen van PL1 en CiCS bij nieuw talent.
+
+
+\section{Mainframe-ontwikkeling in een hedendaagse context}%
+\label{sec:mainframe_context}
+
+Hoewel mainframe-technologie vaak als verouderd technologie wordt beschouwd, blijft  in bepaalde sectoren de mainframe een  cruciaal onderdeel om  bedrijfskritische processen te draaien.Organisaties die sterk inzetten op betrouwbaarheid, beschikbaarheid en voorspelbare verwerking blijven daarom investeren in z/OS-omgevingen. 
+Door dit blijvend belang van mainframes binnen deze organisaties is de nood aan ontwikkelaars om deze te onderhouden nog steeds even groot.
+Voor het onderhouden van deze systemen heeft men profielen nodig met enige ervaring in het onderhouden van legacy systemen.
+
+
+
+
+\section{Skills gap en vergrijzing als structureel probleem}%
+\label{sec:skills_gap_vergrijzing}
+
+Een terugkerend thema in de literatuur is dat de mainframe industrie geconfronteerd wordt met vergrijzing en hierdoor een verlies aan kennis tegemoet gaat. 
+Sharma toont aan dat het aanleren van mainframevaardigheden in het onderwijs steeds moeilijker word om te verantwoorden en hierdoor het aantal instapklare profielen aan het dalen is in de mainframe industrie \autocite{Sharma2011TeachOrNotTeach}.
+Ook Ngo-Ye beschrijft hoe de kloof tussen academische curricula en de verwachtingen van bedrijven blijft groeien \autocite{NgoYe2018TeachingMainframeSkills}..
+Dit zorgt dan voor een probleem bij het vinden van geschikte starters om deze legacy systemen te onderhouden.
+
+Het probleem wordt vergroot doordat slechts een beperkt aantal onderwijsinstellingen mainframe gerichte opleidingsonderdelen aanbieden waardoor de instroom van nieuw talent laag blijft.
+Dit zorgt dan voor een groot probleem want de vraag in sectoren zoals de financiële wereld light hoger dan ooit.
+
+Niet alleen is er een tekort aan mainframe gerichte opleidingen maar ook een tekort aan motivatie bij studenten.
+Zij gaan sneller kiezen voor moderne technologieën die als toekomst gericht worden gezien.
+Door dit kleiner aanbod aan studenten en verandering van focus bij onderwijsinstellingen is de toevoer van nieuw talent voor de mainframe steeds aan het verkleinen \autocite{Phillips2013Mainframe}.
+Hierdoor ontstaat een vicieuze cirkel, minder onderwijsaanbod leidt tot minder interesse wat de instroom nog verder doet dalen. 
+Voor organisaties zoals Euroclear betekent dit een reëel risico op kennisverlies wanneer ervaren medewerkers op pensioen gaan en hun expertise onvoldoende kan worden overgedragen naar de nieuwe werknemers .
+
+
+
+\section{Initiatieven om instroom van nieuw talent te vergroten}%
+\label{sec:instroom_initiatieven}
+
+Voor dit probleem op te lossen en de kloof te verkleinen zijn er verschillende initiatieven ingezet de laatste jaren om de toegankelijkheid van leermateriaal te vergroten.
+Programma’s zoals IBM Z Xplore verlagen de drempel door deelnemers stapsgewijs kennis te laten opbouwen en die vooruitgang zichtbaar te maken via badges of certificaten. 
+Het gebruiken van certificaten kan zeer motiverend werken en geef een meetbaar element om hun vaardigheden te meten gebruiken als bewijsstuk.
+Ook leertrajecten die dichter aansluiten bij het werkveld zoals IBM apprenticeships.
+Hier word gebruik gemaakt van rolgericht verwachtingen en praktische begeleiding, door een duidelijk pad te hebben voor zich voor te bereiden op een bepaalde job \autocite{ibm_mainframe_apprentice_2023}.
+Deze initiatieven tonen dat er een duidelijke nood is aan gestructureerde leerpaden, maar ze benadrukken
+Ook dat er een nood is aan validatie en een overzicht van de nodige competenties.
+
+
+
+
+\section{Competentieframeworks als fundament voor opleidingsopbouw}%
+\label{sec:competentieframeworks}
+
+Een competentieframework maakt aan de hand van een overzicht duidelijk welke kennis en vaardigheden verwacht worden voor een bepaalde rol en helpen aan de hand van leerdoelen om de student een duidelijk stappen plan te bezorgen.
+Voor mainframe profielen bestaan er al meerdere competentieframeworks.
+IBM heeft bijvoorbeeld enkele frameworks zoals IBM Z Systems Administrator Level 1 en Level 2 gepubliceerde \autocite{ibm_z_sysadmin_level1,ibm_z_sysadmin_level2}.
+Deze bevatten bruikbare elementen zoals opbouw en formulering van competenties, maar zijn hoofdzakelijk gericht op de systeem en beheer kant van de mainframe. 
+Voor organisaties die vooral applicatieontwikkeling op z/OS willen ondersteunen is de meerwaarde daarom beperkt.
+
+Daarnaast bestaat er een breder development georiënteerd framework van IBM om Z/OS ontwikkelaars algemene skills aan te brengen.Het Application Developer on IBM Z competentieframework \autocite{ibm_app_dev_z_2023} geeft een overzicht van belangrijke onderwerpen voor z/OS development, maar blijft op verschillende punten te algemeen om gebruikt te worden als framework voor PL1 en CICS developers binnen een bedrijf Als Euroclear.
+De focus van dit framework ligt te veel op COBOL development, maar de structuur en aanpak om development te leren zijn wel twee aspecten die een grote meerwaarde zijn voor het ontwerpen van een nieuw PL1 en CICS development competentie framework.
+
+In veel organisaties ligt de focus bovendien niet uitsluitend op COBOL, waardoor een generiek developer-framework onvoldoende aansluit bij de exacte behoeften voor instapontwikkeling in alternatieve talen en runtime-omgevingen.
+
+
+
+\section{PL/I en CICS binnen z/OS-ontwikkeling}%
+\label{sec:pli_cics_zos} 
+
+Naast Cobol en Java is PL/I (Programming Language One) een van de meest gebruikte talen voor development op het mainframe. 
+Je ziet PL/I bijvoorbeeld in de financiële sector bij organisaties zoals Euroclear, maar ook in andere omgevingen zoals staalverwerking bij ArcelorMittal. 
+Dat is niet toevallig, de taal is van gebouwd om grote hoeveelheden transacties efficiënt te verwerken net zoals Cobol. 
+Tegelijk is PL/I iets minder “business oriented” waardoor sommige developers het iets toegankelijker vinden om mee te starten.
+
+Op zichzelf zijn PL/I (en Cobol) relatief eenvoudige talen, maar in de praktijk kom je ze vooral tegen in legacy omgevingen. 
+Daar bevind zich nu net de complexiteit en uitdaging voor nieuwe developers.
+De systemen errond zijn door de jaren heen uitgebreid, aangepast en toegevoegt, waardoor de totale complexiteit sterk is toegenomen.
+
+Dat heeft ook te maken met de rol die deze applicaties spelen.
+Bij financiële instellingen draaien ze vaak de meest kritieke workloads. 
+Veranderingen in productie gebeuren er daarom heel strikt en zijn vaak beperkt. 
+Door deze heel strikte en beperkte manier van werken worden nieuwe problemen soms opgelost met workarounds of minimale aanpassingen.
+Hierdoor zijn oplossingen niet altijd optimaal en de technische schuld blijft verder groeien.
+
+CICS sluit hier sterk op aan.
+In veel mainframeomgevingen wordt CICS gebruikt om online transacties te verwerken.
+Dit zijn snelle interacties met gebruikers en systemen, vaak met hoge volumes en strikte beschikbaarheids eisen. 
+PL/I en CICS vormen daarom een logische combinatie.
+
+
+PL/I is geschikt om de businesslogica te draaien terwijl CICS de transactielaag levert om die logica veilig en performant “live” te laten draaien. 
+Samen vormen ze de basis voor veel mainframe systemen in de financiële sector.
+Zonder PL1 en CICS kunne veel kritieke applicaties op de mainframe niet worden uitgevoerd.
+
+
+\section{Onderzoeksruimte: nood aan een PL/I en CICS-gericht framework}%
+\label{sec:research_gap_framework}
+
+De bestaande frameworks tonen aan dat het opbouwen van een competentieframework rond IBM Z mogelijk is,
+maar het zijn steeds rol specifieken frameworks.
+Voorgaande framework zijn niet gericht op PL1 en CICS developers, met als voorbeeld het sysadmin framework van IBM \autocite{ibm_app_dev_z_2023,ibm_z_sysadmin_level1,ibm_z_sysadmin_level2} en .
+
+Het bewezen belang van deze frameworks is een duidelijk beeld geven van de competenties die een student moet beheersen om succes te zijn in het huidige werkveld.
+Hierdoor gaat de student sneller inzetbaar worden binnen teams en is de skill gap waar interne training voor nodig is zo klein mogelijk \autocite{Sharma2011TeachOrNotTeach,NgoYe2018TeachingMainframeSkills}.
+Voor bedrijven zoals Euroclear waar kennisborging en betrouwbaarheid centraal staan is een framework heel belangerijk.
+Een framework kan helpen om impliciet kennis van ervaren personen over te brengen en geeft starters een groeipad dat ze kunnen volgen om succesvol te worden binne hun positie.
+
+
+In het volgende hoofdstuk wordt daarom de methodologie beschreven waarmee de competenties worden verzameld, 
+geprioriteerd en gevalideerd, en hoe daaruit een proof-of-concept leerplatform kan worden afgeleid.
