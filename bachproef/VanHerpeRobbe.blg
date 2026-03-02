@@ -1,25 +1,25 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'VanHerpeRobbe.blg'
-[28] biber-darwin:340> INFO - === Sun Mar  1, 2026, 13:38:46
-[35] Biber.pm:420> INFO - Reading 'VanHerpeRobbe.bcf'
-[70] Biber.pm:994> INFO - Found 9 citekeys in bib section 0
-[78] Biber.pm:4463> INFO - Processing section 0
-[82] Biber.pm:4654> INFO - Looking for bibtex file 'bachproef.bib' for section 0
-[83] bibtex.pm:1713> INFO - LaTeX decoding ...
-[85] bibtex.pm:1519> INFO - Found BibTeX data source 'bachproef.bib'
-[85] Biber.pm:4654> INFO - Looking for bibtex file '../voorstel/voorstel.bib' for section 0
-[85] bibtex.pm:1713> INFO - LaTeX decoding ...
-[89] bibtex.pm:1519> INFO - Found BibTeX data source '../voorstel/voorstel.bib'
-[124] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[124] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[124] Biber.pm:4283> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
-[124] Biber.pm:4289> INFO - No sort tailoring available for locale 'nl-NL'
-[133] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[133] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[134] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
-[134] Biber.pm:4289> INFO - No sort tailoring available for locale 'nl-NL'
-[140] bbl.pm:676> INFO - Writing 'VanHerpeRobbe.bbl' with encoding 'UTF-8'
-[144] bbl.pm:779> INFO - Output to VanHerpeRobbe.bbl
-[144] Biber.pm:131> WARN - legacy month field 'mar' in entry 'ibm_mainframe_apprentice_2023' is not an integer - this will probably not sort properly.
-[144] Biber.pm:131> WARN - legacy month field 'mar' in entry 'ibm_app_dev_z_2023' is not an integer - this will probably not sort properly.
-[144] Biber.pm:133> INFO - WARNINGS: 2
+[24] biber-darwin:340> INFO - === Mon Mar  2, 2026, 11:21:46
+[29] Biber.pm:420> INFO - Reading 'VanHerpeRobbe.bcf'
+[62] Biber.pm:994> INFO - Found 9 citekeys in bib section 0
+[69] Biber.pm:4463> INFO - Processing section 0
+[73] Biber.pm:4654> INFO - Looking for bibtex file 'bachproef.bib' for section 0
+[73] bibtex.pm:1713> INFO - LaTeX decoding ...
+[75] bibtex.pm:1519> INFO - Found BibTeX data source 'bachproef.bib'
+[75] Biber.pm:4654> INFO - Looking for bibtex file '../voorstel/voorstel.bib' for section 0
+[76] bibtex.pm:1713> INFO - LaTeX decoding ...
+[79] bibtex.pm:1519> INFO - Found BibTeX data source '../voorstel/voorstel.bib'
+[109] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[109] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[109] Biber.pm:4283> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[109] Biber.pm:4289> INFO - No sort tailoring available for locale 'nl-NL'
+[118] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[118] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[118] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[118] Biber.pm:4289> INFO - No sort tailoring available for locale 'nl-NL'
+[123] bbl.pm:676> INFO - Writing 'VanHerpeRobbe.bbl' with encoding 'UTF-8'
+[127] bbl.pm:779> INFO - Output to VanHerpeRobbe.bbl
+[127] Biber.pm:131> WARN - legacy month field 'mar' in entry 'ibm_mainframe_apprentice_2023' is not an integer - this will probably not sort properly.
+[127] Biber.pm:131> WARN - legacy month field 'mar' in entry 'ibm_app_dev_z_2023' is not an integer - this will probably not sort properly.
+[127] Biber.pm:133> INFO - WARNINGS: 2
