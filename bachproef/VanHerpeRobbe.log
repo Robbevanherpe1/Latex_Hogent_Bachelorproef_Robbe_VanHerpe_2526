@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  2 MAR 2026 11:22
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  2 MAR 2026 19:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1519,26 +1519,26 @@ Package csquotes Info: Redefining alias 'default' -> 'dutch'.
  (./VanHerpeRobbe.aux)
 \openout1 = `VanHerpeRobbe.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
 Package biblatex Info: Trying to load language 'dutch' -> 'dutch-apa'...
 Package biblatex Info: ... file 'dutch-apa.lbx' found.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex-apa/dutch-apa.lbx
@@ -1562,8 +1562,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'VanHerpeRobbe.bbl' found.
  (./VanHerpeRobbe.bbl)
-Package biblatex Info: Reference section=0 on input line 79.
-Package biblatex Info: Reference segment=0 on input line 79.
+Package biblatex Info: Reference section=0 on input line 78.
+Package biblatex Info: Reference segment=0 on input line 78.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -1604,7 +1604,7 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 79.
+Package hyperref Info: Link coloring ON on input line 78.
 (./VanHerpeRobbe.out) (./VanHerpeRobbe.out)
 \@outlinefile=\write6
 \openout6 = `VanHerpeRobbe.out'.
@@ -1621,13 +1621,13 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 Package microtype Info: Patching varwidth to enable character protrusion.
 \MT@vwid@leftmargin=\dimen350
 \MT@vwid@rightmargin=\dimen351
-LaTeX Info: Redefining \microtypecontext on input line 79.
-Package microtype Info: Applying patch `item' on input line 79.
-Package microtype Info: Applying patch `toc' on input line 79.
-Package microtype Info: Applying patch `eqnum' on input line 79.
-Package microtype Info: Applying patch `footnote' on input line 79.
-Package microtype Info: Applying patch `verbatim' on input line 79.
-LaTeX Info: Redefining \microtypesetup on input line 79.
+LaTeX Info: Redefining \microtypecontext on input line 78.
+Package microtype Info: Applying patch `item' on input line 78.
+Package microtype Info: Applying patch `toc' on input line 78.
+Package microtype Info: Applying patch `eqnum' on input line 78.
+Package microtype Info: Applying patch `footnote' on input line 78.
+Package microtype Info: Applying patch `verbatim' on input line 78.
+LaTeX Info: Redefining \microtypesetup on input line 78.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1637,7 +1637,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Montserrat' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package hyperref Info: Option `pageanchor' set `false' on input line 85.
+Package hyperref Info: Option `pageanchor' set `false' on input line 84.
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -1671,266 +1671,20 @@ Package hyperref Info: Option `pageanchor' set `false' on input line 85.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Overfull \hbox (2.7894pt too wide) in paragraph at lines 96--96
-\TU/Montserrat(0)/b/n/24.88 uitwerken met PoC binnen on- derwijs-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
 
  []
 
-Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
-File: ../graphics/hogent_logo.eps Graphic file (type eps)
-<../graphics/hogent_logo.eps>
-
-
-[1
-
-
-
-
-]
-
-[2]
-Package hyperref Info: Option `pageanchor' set `true' on input line 97.
- (./voorwoord.tex) (./samenvatting.tex
-Overfull \hbox (4.12587pt too wide) in paragraph at lines 14--4
-\TU/Montserrat(1)/m/n/10.95 Mijn bachelorproef is gericht op nieuwe geïnteresseerde studenten voor mainframe.
- []
-
-
-
-[3
-
-
-
-])
-
-[4
-
-] (./VanHerpeRobbe.toc
-
-[5
-
-])
-\tf@toc=\write7
-\openout7 = `VanHerpeRobbe.toc'.
-
-
-
-[6] (./VanHerpeRobbe.lof)
-\tf@lof=\write8
-\openout8 = `VanHerpeRobbe.lof'.
-
-
-
-[7
-
-] (./VanHerpeRobbe.lot)
-\tf@lot=\write9
-\openout9 = `VanHerpeRobbe.lot'.
-
-
-
-[8
-
-] (./VanHerpeRobbe.lol)
-\tf@lol=\write10
-\openout10 = `VanHerpeRobbe.lol'.
-
-
-
-[9
-
-
-] (./inleiding.tex
-Hoofdstuk 1.
-
-
-[1
-
-
-]
-Overfull \hbox (25.02821pt too wide) in paragraph at lines 82--86
-\TU/Montserrat(1)/m/n/10.95 meetbaar competentie framework. Daarnaast wordt ook een proof-of-concept learning
- []
-
-
-Overfull \hbox (0.88467pt too wide) in paragraph at lines 89--90
-\TU/Montserrat(1)/m/n/10.95 op realistische verwachtingen binnen organisaties zoals Euroclear die met PL/I
- []
-
-
-Overfull \hbox (1.75334pt too wide) in paragraph at lines 90--91
-[]\TU/Montserrat(1)/m/n/10.95 Het competentieframework is \TU/Montserrat(2)/b/n/10.95 meetbaar\TU/Montserrat(1)/m/n/10.95 : elke competentie is beschreven met
- []
-
-
-Overfull \hbox (15.11966pt too wide) in paragraph at lines 92--93
-[]\TU/Montserrat(1)/m/n/10.95 Het proof-of-concept leerplatform \TU/Montserrat(2)/b/n/10.95 implementeert het competentiekader\TU/Montserrat(1)/m/n/10.95 : com-
- []
-
-
-
-[2]) (./standvanzaken.tex
-
-[3]
-Hoofdstuk 2.
-
-Overfull \hbox (15.84843pt too wide) in paragraph at lines 71--75
-\TU/Montserrat(1)/m/n/10.95 teerd wordt met vergrijzing en hierdoor een verlies aan kennis tegemoet gaat. Sharma
- []
-
-
-Overfull \hbox (3.66234pt too wide) in paragraph at lines 76--78
-\TU/Montserrat(1)/m/n/10.95 lingen mainframe gerichte opleidingsonderdelen aanbieden waardoor de instroom
- []
-
-
-
-[4
-
-]
-Overfull \hbox (22.21613pt too wide) in paragraph at lines 101--101
-|[][]\TU/Montserrat(0)/b/n/14.4 Competentieframeworks als fundament voor opleidings-
- []
-
-
-
-[5]
-
-[6]) (./methodologie.tex
-
-[7]
-Hoofdstuk 3.
-
-
-[8
-
-]
-File: ../graphics/compframework4.png Graphic file (type bmp)
-<../graphics/compframework4.png>
-File: ../graphics/compframework5.png Graphic file (type bmp)
-<../graphics/compframework5.png>
-
-
-[9]
-File: ../graphics/site1.png Graphic file (type bmp)
-<../graphics/site1.png>
-
-
-[10]
-File: ../graphics/site3.png Graphic file (type bmp)
-<../graphics/site3.png>
-File: ../graphics/site2.png Graphic file (type bmp)
-<../graphics/site2.png>
-File: ../graphics/site4.png Graphic file (type bmp)
-<../graphics/site4.png>
-
-
-[11]) (./conclusie.tex
-
-[12]
-Hoofdstuk 4.
-
-
-[13
-
-])
-
-[14]
-B\ij lage A.
-(../voorstel/voorstel-inhoud.tex
-
-[15
-
-]
-Overfull \hbox (0.17656pt too wide) in paragraph at lines 92--93
-\TU/Montserrat(1)/m/n/10.95 De huidige stand van zaken is dat de mainframe-industrie een groot skillsprobleem
- []
-
-
-
-[16]
-
-[17]
-File: ../voorstel/Gantt Chart.png Graphic file (type bmp)
-<../voorstel/Gantt Chart.png>
-
-Overfull \hbox (32.93776pt too wide) in paragraph at lines 160--168
-\TU/Montserrat(1)/m/n/10.95 eventueel één of twee externe mainframe-experts. Ik kies hier voor semi-gestructureerde
- []
-
-
-
-[18]
-Overfull \hbox (7.41966pt too wide) in paragraph at lines 223--226
-\TU/Montserrat(1)/m/n/10.95 competentieframework voor PL1 en CICS developers. Aan de hand van deze learning-
- []
-
-
-
-[19])
-
-[20]
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `FiraMathRegular' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
-(Font)              scaled to size 10.95116pt on input line 179.
-LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
-(Font)              scaled to size 7.88484pt on input line 179.
-LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
-(Font)              scaled to size 6.35167pt on input line 179.
-LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 179.
-LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
-(Font)              scaled to size 7.88315pt on input line 179.
-LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
-(Font)              scaled to size 6.35031pt on input line 179.
-
-
-[21
-
-
-]
-
-[22]
-runsystem(latexminted cleantemp  --timestamp 20260302112201 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
-
- (./VanHerpeRobbe.aux)
- ***********
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-01-18>
- ***********
-Package rerunfilecheck Info: File `VanHerpeRobbe.out' has not changed.
-(rerunfilecheck)             Checksum: F2D66B6AF24F8EB06B67B7F2D4C58BB7;6754.
-Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
-\openout1 = `VanHerpeRobbe.run.xml'.
-
- ) 
-Here is how much of TeX's memory you used:
- 49945 strings out of 473832
- 1030704 string characters out of 5729480
- 2272525 words of memory out of 5000000
- 72228 multiletter control sequences out of 15000+600000
- 561841 words of font info for 101 fonts, out of 8000000 for 9000
- 1349 hyphenation exceptions out of 8191
- 110i,12n,131p,1186b,5641s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-Output written on VanHerpeRobbe.pdf (31 pages).
+Invalid UTF-8 byte or sequence at line 95 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 95 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 95 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 95 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 95 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 95 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 95 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence a
