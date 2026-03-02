@@ -1687,4 +1687,251 @@ Invalid UTF-8 byte or sequence at line 95 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 95 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 95 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 95 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence a
+Invalid UTF-8 byte or sequence at line 95 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 95 replaced by U+FFFD.
+File: ../graphics/hogent_logo.eps Graphic file (type eps)
+<../graphics/hogent_logo.eps>
+
+
+[1
+
+
+
+
+]
+
+[2]
+Package hyperref Info: Option `pageanchor' set `true' on input line 96.
+ (./voorwoord.tex) (./samenvatting.tex
+Overfull \hbox (4.12587pt too wide) in paragraph at lines 14--4
+\TU/Montserrat(1)/m/n/10.95 Mijn bachelorproef is gericht op nieuwe geïnteresseerde studenten voor mainframe.
+ []
+
+
+
+[3
+
+
+
+])
+
+[4
+
+] (./VanHerpeRobbe.toc
+
+[5
+
+])
+\tf@toc=\write7
+\openout7 = `VanHerpeRobbe.toc'.
+
+
+
+[6] (./VanHerpeRobbe.lof)
+\tf@lof=\write8
+\openout8 = `VanHerpeRobbe.lof'.
+
+
+
+[7
+
+] (./VanHerpeRobbe.lot)
+\tf@lot=\write9
+\openout9 = `VanHerpeRobbe.lot'.
+
+
+
+[8
+
+] (./VanHerpeRobbe.lol)
+\tf@lol=\write10
+\openout10 = `VanHerpeRobbe.lol'.
+
+
+
+[9
+
+
+] (./inleiding.tex
+Hoofdstuk 1.
+
+
+[1
+
+
+]
+Overfull \hbox (25.02821pt too wide) in paragraph at lines 76--80
+\TU/Montserrat(1)/m/n/10.95 meetbaar competentie framework. Daarnaast wordt ook een proof-of-concept learning
+ []
+
+
+Overfull \hbox (0.88467pt too wide) in paragraph at lines 83--84
+\TU/Montserrat(1)/m/n/10.95 op realistische verwachtingen binnen organisaties zoals Euroclear die met PL/I
+ []
+
+
+Overfull \hbox (1.75334pt too wide) in paragraph at lines 84--85
+[]\TU/Montserrat(1)/m/n/10.95 Het competentieframework is \TU/Montserrat(2)/b/n/10.95 meetbaar\TU/Montserrat(1)/m/n/10.95 : elke competentie is beschreven met
+ []
+
+
+Overfull \hbox (15.11966pt too wide) in paragraph at lines 86--87
+[]\TU/Montserrat(1)/m/n/10.95 Het proof-of-concept leerplatform \TU/Montserrat(2)/b/n/10.95 implementeert het competentiekader\TU/Montserrat(1)/m/n/10.95 : com-
+ []
+
+
+
+[2]
+
+LaTeX Warning: Reference `ch:Intervieuws' on page 3 undefined on input line 114.
+
+) (./standvanzaken.tex
+
+[3]
+Hoofdstuk 2.
+
+Overfull \hbox (15.84843pt too wide) in paragraph at lines 71--75
+\TU/Montserrat(1)/m/n/10.95 teerd wordt met vergrijzing en hierdoor een verlies aan kennis tegemoet gaat. Sharma
+ []
+
+
+Overfull \hbox (3.66234pt too wide) in paragraph at lines 76--78
+\TU/Montserrat(1)/m/n/10.95 lingen mainframe gerichte opleidingsonderdelen aanbieden waardoor de instroom
+ []
+
+
+
+[4
+
+]
+Overfull \hbox (22.21613pt too wide) in paragraph at lines 101--101
+|[][]\TU/Montserrat(0)/b/n/14.4 Competentieframeworks als fundament voor opleidings-
+ []
+
+
+
+[5]
+
+[6]) (./methodologie.tex
+
+[7]
+Hoofdstuk 3.
+
+
+[8
+
+]
+File: ../graphics/compframework4.png Graphic file (type bmp)
+<../graphics/compframework4.png>
+File: ../graphics/compframework5.png Graphic file (type bmp)
+<../graphics/compframework5.png>
+
+
+[9]
+File: ../graphics/site1.png Graphic file (type bmp)
+<../graphics/site1.png>
+File: ../graphics/site3.png Graphic file (type bmp)
+<../graphics/site3.png>
+File: ../graphics/site2.png Graphic file (type bmp)
+<../graphics/site2.png>
+
+
+[10]
+File: ../graphics/site4.png Graphic file (type bmp)
+<../graphics/site4.png>
+) (./conclusie.tex
+
+[11]
+Hoofdstuk 4.
+
+
+[12
+
+])
+
+[13]
+B\ij lage A.
+(../voorstel/voorstel-inhoud.tex
+
+[14
+
+]
+Overfull \hbox (0.17656pt too wide) in paragraph at lines 92--93
+\TU/Montserrat(1)/m/n/10.95 De huidige stand van zaken is dat de mainframe-industrie een groot skillsprobleem
+ []
+
+
+
+[15]
+
+[16]
+File: ../voorstel/Gantt Chart.png Graphic file (type bmp)
+<../voorstel/Gantt Chart.png>
+
+Overfull \hbox (32.93776pt too wide) in paragraph at lines 160--168
+\TU/Montserrat(1)/m/n/10.95 eventueel één of twee externe mainframe-experts. Ik kies hier voor semi-gestructureerde
+ []
+
+
+
+[17]
+Overfull \hbox (7.41966pt too wide) in paragraph at lines 223--226
+\TU/Montserrat(1)/m/n/10.95 competentieframework voor PL1 en CICS developers. Aan de hand van deze learning-
+ []
+
+
+
+[18])
+
+[19]
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `FiraMathRegular' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
+(Font)              scaled to size 10.95116pt on input line 178.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
+(Font)              scaled to size 7.88484pt on input line 178.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
+(Font)              scaled to size 6.35167pt on input line 178.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
+(Font)              scaled to size 10.94882pt on input line 178.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
+(Font)              scaled to size 7.88315pt on input line 178.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
+(Font)              scaled to size 6.35031pt on input line 178.
+
+
+[20
+
+
+]
+
+[21]
+runsystem(latexminted cleantemp  --timestamp 20260302191140 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+
+ (./VanHerpeRobbe.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `VanHerpeRobbe.out' has not changed.
+(rerunfilecheck)             Checksum: F2D66B6AF24F8EB06B67B7F2D4C58BB7;6754.
+Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
+\openout1 = `VanHerpeRobbe.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 49946 strings out of 473832
+ 1030720 string characters out of 5729480
+ 2272523 words of memory out of 5000000
+ 72229 multiletter control sequences out of 15000+600000
+ 561841 words of font info for 101 fonts, out of 8000000 for 9000
+ 1349 hyphenation exceptions out of 8191
+ 110i,12n,131p,1186b,5641s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on VanHerpeRobbe.pdf (30 pages).
