@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  2 MAR 2026 19:11
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  15 MAR 2026 18:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1781,11 +1781,7 @@ Overfull \hbox (15.11966pt too wide) in paragraph at lines 86--87
 
 
 
-[2]
-
-LaTeX Warning: Reference `ch:Intervieuws' on page 3 undefined on input line 114.
-
-) (./standvanzaken.tex
+[2]) (./standvanzaken.tex
 
 [3]
 Hoofdstuk 2.
@@ -1812,13 +1808,19 @@ Overfull \hbox (22.21613pt too wide) in paragraph at lines 101--101
 
 [5]
 
-[6]) (./methodologie.tex
+[6]) (./intervieuws.tex
 
 [7]
 Hoofdstuk 3.
-
+) (./methodologie.tex
 
 [8
+
+]
+Hoofdstuk 4.
+
+
+[9
 
 ]
 File: ../graphics/compframework4.png Graphic file (type bmp)
@@ -1827,7 +1829,7 @@ File: ../graphics/compframework5.png Graphic file (type bmp)
 <../graphics/compframework5.png>
 
 
-[9]
+[10]
 File: ../graphics/site1.png Graphic file (type bmp)
 <../graphics/site1.png>
 File: ../graphics/site3.png Graphic file (type bmp)
@@ -1836,24 +1838,24 @@ File: ../graphics/site2.png Graphic file (type bmp)
 <../graphics/site2.png>
 
 
-[10]
+[11]
 File: ../graphics/site4.png Graphic file (type bmp)
 <../graphics/site4.png>
 ) (./conclusie.tex
 
-[11]
-Hoofdstuk 4.
+[12]
+Hoofdstuk 5.
 
 
-[12
+[13
 
 ])
 
-[13]
+[14]
 B\ij lage A.
 (../voorstel/voorstel-inhoud.tex
 
-[14
+[15
 
 ]
 Overfull \hbox (0.17656pt too wide) in paragraph at lines 92--93
@@ -1862,9 +1864,9 @@ Overfull \hbox (0.17656pt too wide) in paragraph at lines 92--93
 
 
 
-[15]
-
 [16]
+
+[17]
 File: ../voorstel/Gantt Chart.png Graphic file (type bmp)
 <../voorstel/Gantt Chart.png>
 
@@ -1874,64 +1876,60 @@ Overfull \hbox (32.93776pt too wide) in paragraph at lines 160--168
 
 
 
-[17]
+[18]
 Overfull \hbox (7.41966pt too wide) in paragraph at lines 223--226
 \TU/Montserrat(1)/m/n/10.95 competentieframework voor PL1 en CICS developers. Aan de hand van deze learning-
  []
 
 
 
-[18])
+[19])
 
-[19]
+[20]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FiraMathRegular' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
-(Font)              scaled to size 10.95116pt on input line 178.
+(Font)              scaled to size 10.95116pt on input line 180.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
-(Font)              scaled to size 7.88484pt on input line 178.
+(Font)              scaled to size 7.88484pt on input line 180.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
-(Font)              scaled to size 6.35167pt on input line 178.
+(Font)              scaled to size 6.35167pt on input line 180.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 178.
+(Font)              scaled to size 10.94882pt on input line 180.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
-(Font)              scaled to size 7.88315pt on input line 178.
+(Font)              scaled to size 7.88315pt on input line 180.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
-(Font)              scaled to size 6.35031pt on input line 178.
+(Font)              scaled to size 6.35031pt on input line 180.
 
 
-[20
+[21
 
 
 ]
 
-[21]
-runsystem(latexminted cleantemp  --timestamp 20260302191140 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+[22]
+runsystem(latexminted cleantemp  --timestamp 20260315181252 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `VanHerpeRobbe.out' has not changed.
-(rerunfilecheck)             Checksum: F2D66B6AF24F8EB06B67B7F2D4C58BB7;6754.
+(rerunfilecheck)             Checksum: DA5D96BE03413FAA41EF9404B474AE47;7108.
 Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 \openout1 = `VanHerpeRobbe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49946 strings out of 473832
- 1030720 string characters out of 5729480
- 2272523 words of memory out of 5000000
- 72229 multiletter control sequences out of 15000+600000
+ 49956 strings out of 473832
+ 1030922 string characters out of 5729480
+ 2273645 words of memory out of 5000000
+ 72236 multiletter control sequences out of 15000+600000
  561841 words of font info for 101 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,12n,131p,1186b,5641s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on VanHerpeRobbe.pdf (30 pages).
+Output written on VanHerpeRobbe.pdf (31 pages).
