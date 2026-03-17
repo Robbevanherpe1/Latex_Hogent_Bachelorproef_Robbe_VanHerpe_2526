@@ -1,0 +1,157 @@
+%%=============================================================================
+%% frameworkpoc
+%%=============================================================================
+
+\chapter{\IfLanguageName{dutch}{Framework en PoC}{Framework en PoC}}%
+\label{ch:frameworkpoc}
+
+
+Het grootste deel van mijn bachelorproef bestaat uit het opstellen van een competentie framework en bijhorende Proof of concept.
+
+In het volgende deel word beschreven hoe mijn framework is opgesteld en met welke criteria deze beslissingen zijn genomen.
+
+Vervolgens word de structuur van de proof of concept samen met de verschilende hoofdstukken overlopen en welke technieken gebruikt zijn voor het realiseren van deze leersite. 
+
+
+
+\section{Structuur en opbouw van het framework}%
+\label{sec:opbouw-van-het-framework}
+
+Het framework neemt inspiratie van voorgaande IBM framework(referentie sebiet opzoeken) en baseert zijn opmaak en stijl op diegene die te vinden zijn in deze documenten.
+
+De opmaak bestaat uit 3 kolomen:
+
+
+\begin{itemize}
+    \item Welke competentie is het ?
+    \item Welke leerdoelen heeft deze ?
+    \item Welke bronnen zijn gehanteerd ?
+
+\end{itemize}
+
+
+Aan de hand van deze structuur kan een overzichtelijk document opgesteld worden dan als basis kan dienen voor een proof of concept.
+
+
+\section{Structuur en opbouw van de PoC leersite}%
+\label{sec:opbouw-van-de-leersite}
+
+Na het opstellen van het framework is een proof of concept leersite ontwikkeld die dit framework als basis gebruikt. 
+
+De opbouw van de proof of concept leersite bestaat uit verschillende fases.
+
+Deze fases zijn:
+
+\begin{itemize}
+    \item \textbf{Fase 1:} Bepalen nodige technologieën voor ontwikkeling van basis site. ?
+    \item \textbf{Fase 2:} Scope van content bepalen die in de leersite gaan worden opgenomen.  ?
+    \item \textbf{Fase 3:} Aan hand van literatuurstudie en intervieuws relevante inhoud toevoegen ?
+\end{itemize}
+
+\subsection{Bepalen technologien}%
+\label{sec:Bepalen-van-technologien}
+
+In de eerste fase van het ontwikkelen werd bepaald welke technologien de leersite als basis gaat gebruiken.
+Met als doel om de meest efficiente technologieën te kiezen voor een eenvoudige maar praktishe leersite te kunnen maken.
+Hiervoor hield men rekening met enkele criteria.
+
+De hoofd criteria waren de flexibiliteit en de vertrouwdheid met de technologien.
+Het is belagerijk dat er makkelijk kan worden uitgebreid aan de leersite maar dat het zo efficient mogelijk kan gebeuren.
+Daarnaast is de bijhorende kost ook een belangerijk aspect.
+Aangezien er geen budget voor hosting is bleef het aantal opties relatief beperkt.
+
+Op basis van deze criteria werd een selectie gemaakt van technologieën voor het ontwikkelen van de proof of concept.
+
+De gekozen technieken zijn wel gekende webdevelepent talen, ik maak dan ook gebruik van de meest voorkomende talen javascript, css en html maar om deze allemaal te verbinden
+word er gebruik gemaakt van vite, dit stel men in staat om veel snellere lokale develompent uit te voeren.
+Dit vergroot de flexibiliteit en verlaagt de tijd die nodig is voor het maken van een complexe site.
+
+Deze technologien zijn de basis geweest in het ontwikkelen van de leersite tot een dynamish en flexibel platform.
+
+\subsection{Modules in de leersite}%
+\label{sec:Modules-in-leersite}
+
+De leersite is opgebouwd uit zes modules die samen een volledig en geleidelijk leertraject vormen rond PL/I en CICS. 
+Elke module heeft een eigen plaats binnen het traject en werd opgenomen aan de hand van de feedback door professionals,
+zodat de student niet alleen afzonderlijke concepten leert zoals PL1 syntax, maar ook begrijpt hoe die in een bredere 
+mainframecontext met elkaar samenhangen en zijn ontstaan.
+
+\includegraphics[width=0.45\textwidth]{../graphics/site5.png}
+
+\subsubsection[short]{Origins and Evolution of PL/I and CICS}%
+\label{sec:origins-pl1cics}
+
+De module \textbf{Origins and Evolution of PL/I and CICS} werd opgenomen omdat het belangrijk is dat studenten eerst 
+begrijpen waar deze technologieën vandaan komen en waarom ze vandaag nog steeds even relevant zijn. 
+
+Zonder de historische en conceptuele kennis zouden PL/I en CICS kunnen overkomen als niet relevante en eerder verouderde systemen.
+Net die systemen die voor veel bedrijven nog steed een zeer cruciale rol spelen binnen de financiele sector.
+Door te beginnen met de oorsprong en evolutie van deze technologieën krijgt de student een beter inzicht in hun
+plaats binnen enterprise computing en de redenen waarom organisaties er nog steeds op vertrouwen voor kritieke toepassingen.
+
+\subsubsection[short]{Environment Setup and ISPF Fundamentals}%
+\label{sec:Environment-pl1cics}
+
+De module \textbf{Environment Setup and ISPF Fundamentals} is essentieel omdat de student efficient moet kunnen werken
+met ISPF of zowe Xplorer.
+Het beheersen van je coderomgeving is cruciaal om je te kunnen focussen op de code en niet de editor.
+In mainframeomgeving is dit nog een grotere kloof want technologien zoals ISPF zijn niet zo gebruiksvriendelijk voor nieuwe studenten.
+Zij zijn code editor zoals vscode gewoon en kunnen hierdoor efficienter werken met tools zoals zowe Xplorer.
+Daarom is deze module gefocussed op beide manieren om de drempel zo laag mogelijk te maken voor nieuwe ontwikkelaars.
+Er word gefocused op het volbregen van enkele praktishe zaken zoals: het navigeren van de verschillende shermstructuren, bestanden openen en bewerken,
+aanmaken van nieuwe datasets en verwijderen van datasets.
+Deze zouden de student een goede basis moeten geven om zich te navigeren en kunnen zich focussen op het leren van PL1 en CICS.
+
+
+
+\subsubsection[short]{PL/I Core Concepts}%
+\label{sec:core-pl1}
+
+De module \textbf{PL/I Core Concepts} vormt de basis voor het programmeergedeelte van de leersite en is daarom cruciaal. 
+Voordat studenten  meer complexe problemen in de bedrijfswereld kunne oplossen moeten ze de basis leren.
+Deze bouwstenen vormen de kennis waarom kan gebouwd worden met meer complexe en realistishe voorbeelden.
+In deze module is belangrijk omdat ze de basisprincipes van de taal worden aangebracht, zoals de structuur en syntax 
+maar ook de logica sommige principes. 
+Dat zorgt ervoor dat de student niet alleen code leert lezen, maar ook begrijpt waarom PL/I op een bepaalde manier is opgebouwd en hoe die taal gebruikt
+wordt binnen professionele mainframeomgevingen.
+
+\subsubsection[short]{CICS Core Concepts}%
+\label{sec:core-cics}
+
+De module \textbf{CICS Core Concepts} is opgenomen omdat kennis van de programmeertaal alleen niet volstaat wanneer men wil werken in transactionele mainframesystemen.
+CICS is een cruciaal onderdeel van veel bedrijfsapplicaties en bepaalt hoe transacties worden uitgevoerd.
+Daarnaast zorgt CICS voor het controleren van gegevensstromen en het verwerken van gebruikersinteracties met het systeem.
+Het is dus belangrijk dat de student inzicht krijgt in de werking van CICS als systeemlaag naast de programmeertaal zelf.
+Deze module legt daarom de noodzakelijke conceptuele basis om later te begrijpen hoe PL/I-programma’s zich gedragen binnen een transactionele omgeving.
+
+\subsubsection[short]{Debugging Basics}%
+\label{sec:debug-pl1cics}
+
+De module \textbf{Debugging Basics} is belangrijk omdat leren programmeren of werken met mainframes niet alleen draait om het schrijven van correcte code,
+maar ook om het kunnen herkennen, analyseren en oplossen van fouten. 
+In technische opleidingen is debugging een fundamentele vaardigheid.
+Het geeft studenten een beter beeld tijdens het programeren wanneer ze geconfronteerd worden met een probleem.
+Doordat hier een apprte module is voor voorzien zijn studenten beter gewapend tijdens hun eerste weken op de werkvloer wanneer ze geconfronteerd
+worden met problemen.
+Deze module verhoogt dus niet alleen de technische kennis, maar ook het probleemoplossend denken van de student.
+
+\subsubsection[short]{PL/I and CICS Integration Mastery}%
+\label{sec:mastery-pl1cics}
+
+Tot slot is de module \textbf{PL/I and CICS Integration Mastery} opgenomen omdat je met al deze concepten appart niet het volledige beeld ziet.
+Hiervoor is een module nodig die al deze afzonderlijke domeinen samenbrengt tot een meer geavanceerde en realistische context.
+Nadat de student inzicht heeft verworven in zowel PL/I als CICS afzonderlijk, is het noodzakelijk om te tonen hoe beide in de praktijk met elkaar geïntegreerd worden.
+
+Deze module is daarom belangrijk als afsluiting van het leertraject.
+Studenten maken de overstap van geïsoleerde leerinhouden naar een meer realistische toepassing binnen een mainframeomgeving. 
+Op die manier ziet de student niet alleen hoe de onderdelen technisch samenwerken maar ook waarom 
+het beheersen van de totaal visie relevant is voor echte professionele situaties.
+
+Samen zorgen deze zes modules voor een opbouw die gestructureed, logishe en opbouwend is. 
+De structuur van de leersite ondersteunt de gebruiker van introductie en context, 
+over technische basiskennis, naar praktische toepassing. 
+Daardoor ontstaat een leeromgeving die niet enkel kennis overdraagt maar ook gericht is op begrip, samenhang en toepasbaarheid.
+
+
+
+
