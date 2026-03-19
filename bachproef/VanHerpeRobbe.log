@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  17 MAR 2026 22:09
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  19 MAR 2026 16:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1516,7 +1516,11 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'dutch'.
- (./VanHerpeRobbe.aux)
+ (./VanHerpeRobbe.aux
+
+LaTeX Warning: Label `sec:Oefeningen-module' multiply defined.
+
+)
 \openout1 = `VanHerpeRobbe.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
@@ -1862,21 +1866,40 @@ File: ../graphics/site5.png Graphic file (type bmp)
 
 [15]
 
-[16]) (./conclusie.tex
+[16]
 
 [17]
+File: ../graphics/site3.png Graphic file (type bmp)
+<../graphics/site3.png>
+
+
+[18]
+File: ../graphics/site2.png Graphic file (type bmp)
+<../graphics/site2.png>
+File: ../graphics/site4.png Graphic file (type bmp)
+<../graphics/site4.png>
+
+
+[19])
+Overfull \hbox (1.48328pt too wide) in paragraph at lines 241--146
+\TU/Montserrat(1)/m/n/10.95 wacht wordt en doorloopt steeds dezelfde logische opbouw: eerst begrijpen daarna
+ []
+
+(./conclusie.tex
+
+[20]
 Hoofdstuk 6.
 
 
-[18
+[21
 
 ])
 
-[19]
+[22]
 B\ij lage A.
 (../voorstel/voorstel-inhoud.tex
 
-[20
+[23
 
 ]
 Overfull \hbox (0.17656pt too wide) in paragraph at lines 92--93
@@ -1885,9 +1908,9 @@ Overfull \hbox (0.17656pt too wide) in paragraph at lines 92--93
 
 
 
-[21]
+[24]
 
-[22]
+[25]
 File: ../voorstel/Gantt Chart.png Graphic file (type bmp)
 <../voorstel/Gantt Chart.png>
 
@@ -1897,16 +1920,16 @@ Overfull \hbox (32.93776pt too wide) in paragraph at lines 160--168
 
 
 
-[23]
+[26]
 Overfull \hbox (7.41966pt too wide) in paragraph at lines 223--226
 \TU/Montserrat(1)/m/n/10.95 competentieframework voor PL1 en CICS developers. Aan de hand van deze learning-
  []
 
 
 
-[24])
+[27])
 
-[25]
+[28]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FiraMathRegular' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1925,13 +1948,13 @@ LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
 (Font)              scaled to size 6.35031pt on input line 183.
 
 
-[26
+[29
 
 
 ]
 
-[27]
-runsystem(latexminted cleantemp  --timestamp 20260317220947 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+[30]
+runsystem(latexminted cleantemp  --timestamp 20260319160158 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
@@ -1942,19 +1965,22 @@ L3 programming layer <2025-01-18>
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `VanHerpeRobbe.out' has not changed.
-(rerunfilecheck)             Checksum: 3BB12414222F8B86E1EFCA4C4BB838CC;8313.
+(rerunfilecheck)             Checksum: 0FE4B46BD0B4FFF18C5D4798C83A2524;8532.
 Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 \openout1 = `VanHerpeRobbe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49990 strings out of 473832
- 1031676 string characters out of 5729480
- 2274255 words of memory out of 5000000
- 72266 multiletter control sequences out of 15000+600000
+ 49993 strings out of 473832
+ 1031743 string characters out of 5729480
+ 2274438 words of memory out of 5000000
+ 72269 multiletter control sequences out of 15000+600000
  561841 words of font info for 101 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,12n,131p,1186b,5641s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on VanHerpeRobbe.pdf (36 pages).
+Output written on VanHerpeRobbe.pdf (39 pages).
