@@ -19,6 +19,51 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{Britto2017}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3a9d96b2b0349f2f9c69f3c72df5f775}{%
+           family={Britto},
+           familyi={B\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Blekinge Tekniska Högskola}%
+      }
+      \list{location}{1}{%
+        {Karlskrona}%
+      }
+      \strng{namehash}{3a9d96b2b0349f2f9c69f3c72df5f775}
+      \strng{fullhash}{3a9d96b2b0349f2f9c69f3c72df5f775}
+      \strng{fullhashraw}{3a9d96b2b0349f2f9c69f3c72df5f775}
+      \strng{bibnamehash}{3a9d96b2b0349f2f9c69f3c72df5f775}
+      \strng{authorbibnamehash}{3a9d96b2b0349f2f9c69f3c72df5f775}
+      \strng{authornamehash}{3a9d96b2b0349f2f9c69f3c72df5f775}
+      \strng{authorfullhash}{3a9d96b2b0349f2f9c69f3c72df5f775}
+      \strng{authorfullhashraw}{3a9d96b2b0349f2f9c69f3c72df5f775}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-91-7295-343-7}
+      \field{issn}{1653-2090}
+      \field{note}{URN: urn:nbn:se:bth-15197, DiVA id: diva2:1143875}
+      \field{number}{9}
+      \field{series}{Blekinge Institute of Technology Doctoral Dissertation Series}
+      \field{title}{Strategizing and Evaluating the Onboarding of Software Developers in Large-Scale Globally Distributed Legacy Projects}
+      \field{type}{Doctoral thesis}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://bth.diva-portal.org/smash/get/diva2:1143875/FULLTEXT03.pdf
+      \endverb
+      \verb{url}
+      \verb https://bth.diva-portal.org/smash/get/diva2:1143875/FULLTEXT03.pdf
+      \endverb
+    \endentry
     \entry{ibm_z_sysadmin_level1}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
@@ -427,6 +472,51 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
+    \entry{Britto2017}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3a9d96b2b0349f2f9c69f3c72df5f775}{%
+           family={Britto},
+           familyi={B\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Blekinge Tekniska Högskola}%
+      }
+      \list{location}{1}{%
+        {Karlskrona}%
+      }
+      \strng{namehash}{3a9d96b2b0349f2f9c69f3c72df5f775}
+      \strng{fullhash}{3a9d96b2b0349f2f9c69f3c72df5f775}
+      \strng{fullhashraw}{3a9d96b2b0349f2f9c69f3c72df5f775}
+      \strng{bibnamehash}{3a9d96b2b0349f2f9c69f3c72df5f775}
+      \strng{authorbibnamehash}{3a9d96b2b0349f2f9c69f3c72df5f775}
+      \strng{authornamehash}{3a9d96b2b0349f2f9c69f3c72df5f775}
+      \strng{authorfullhash}{3a9d96b2b0349f2f9c69f3c72df5f775}
+      \strng{authorfullhashraw}{3a9d96b2b0349f2f9c69f3c72df5f775}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-91-7295-343-7}
+      \field{issn}{1653-2090}
+      \field{note}{URN: urn:nbn:se:bth-15197, DiVA id: diva2:1143875}
+      \field{number}{9}
+      \field{series}{Blekinge Institute of Technology Doctoral Dissertation Series}
+      \field{title}{Strategizing and Evaluating the Onboarding of Software Developers in Large-Scale Globally Distributed Legacy Projects}
+      \field{type}{Doctoral thesis}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://bth.diva-portal.org/smash/get/diva2:1143875/FULLTEXT03.pdf
+      \endverb
+      \verb{url}
+      \verb https://bth.diva-portal.org/smash/get/diva2:1143875/FULLTEXT03.pdf
+      \endverb
+    \endentry
     \entry{ibm_z_sysadmin_level1}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
