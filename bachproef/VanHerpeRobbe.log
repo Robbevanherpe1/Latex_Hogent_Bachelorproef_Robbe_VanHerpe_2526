@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  23 MAR 2026 16:18
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  9 APR 2026 16:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1790,23 +1790,23 @@ Overfull \hbox (15.11966pt too wide) in paragraph at lines 86--87
 [3]
 Hoofdstuk 2.
 
-Overfull \hbox (15.84843pt too wide) in paragraph at lines 71--75
+
+[4
+
+]
+Overfull \hbox (15.84843pt too wide) in paragraph at lines 77--81
 \TU/Montserrat(1)/m/n/10.95 teerd wordt met vergrijzing en hierdoor een verlies aan kennis tegemoet gaat. Sharma
  []
 
 
-Overfull \hbox (3.66234pt too wide) in paragraph at lines 76--78
+Overfull \hbox (3.66234pt too wide) in paragraph at lines 82--84
 \TU/Montserrat(1)/m/n/10.95 lingen mainframe gerichte opleidingsonderdelen aanbieden waardoor de instroom
  []
 
 
 
-[4
-
-]
-
 [5]
-Overfull \hbox (20.44493pt too wide) in paragraph at lines 120--120
+Overfull \hbox (20.44493pt too wide) in paragraph at lines 126--126
 |[][]\TU/Montserrat(0)/b/n/14.4 Competentieframeworks als fundament voor opleidings-
  []
 
@@ -1961,7 +1961,7 @@ Overfull \hbox (7.64673pt too wide) in paragraph at lines 183--183
 ]
 
 [31]
-runsystem(latexminted cleantemp  --timestamp 20260323161840 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+runsystem(latexminted cleantemp  --timestamp 20260409164715 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
@@ -1981,7 +1981,7 @@ Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 Here is how much of TeX's memory you used:
  50001 strings out of 473832
  1031992 string characters out of 5729480
- 2274574 words of memory out of 5000000
+ 2275574 words of memory out of 5000000
  72277 multiletter control sequences out of 15000+600000
  561841 words of font info for 101 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191

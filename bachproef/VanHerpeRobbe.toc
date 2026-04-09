@@ -9,12 +9,12 @@
 \contentsline {section}{\numberline {1.4}Opzet van deze bachelorproef}{3}{section.1.4}%
 \contentsline {chapter}{\numberline {2}Stand van zaken}{4}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Mainframe-ontwikkeling in een hedendaagse context}{4}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Skills gap en vergrijzing als structureel probleem}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.2}Skills gap en vergrijzing als structureel probleem}{5}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Initiatieven om instroom van nieuw talent te vergroten}{5}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Onboarding van nieuwe ontwikkelaars in legacy omgevingen }{5}{section.2.4}%
+\contentsline {section}{\numberline {2.4}Onboarding van nieuwe ontwikkelaars in legacy omgevingen }{6}{section.2.4}%
 \contentsline {section}{\numberline {2.5}Competentieframeworks als fundament voor opleidingsopbouw}{6}{section.2.5}%
 \contentsline {section}{\numberline {2.6}PL/I en CICS binnen z/OS-ontwikkeling}{7}{section.2.6}%
-\contentsline {section}{\numberline {2.7}Nood aan een PL/I en CICS-gericht framework}{7}{section.2.7}%
+\contentsline {section}{\numberline {2.7}Nood aan een PL/I en CICS-gericht framework}{8}{section.2.7}%
 \contentsline {chapter}{\numberline {3}Methodologie}{9}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Opbouw van de methodologie}{9}{section.3.1}%
 \contentsline {section}{\numberline {3.2}analyse van competenties en requirements }{9}{section.3.2}%
