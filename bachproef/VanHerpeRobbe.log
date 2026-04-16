@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  9 APR 2026 17:00
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  16 APR 2026 16:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1849,7 +1849,12 @@ Hoofdstuk 4.
 
 [13
 
-]) (./frameworkpoc.tex
+]
+Overfull \hbox (11.28621pt too wide) in paragraph at lines 54--55
+[]\TU/Montserrat(2)/b/n/10.95 Vraag3: \TU/Montserrat(1)/m/n/10.95 What system-level knowledge does a starting PL1/CICS developer need? 
+ []
+
+) (./frameworkpoc.tex
 
 [14]
 Hoofdstuk 5.
@@ -1961,7 +1966,7 @@ Overfull \hbox (7.64673pt too wide) in paragraph at lines 183--183
 ]
 
 [31]
-runsystem(latexminted cleantemp  --timestamp 20260409170012 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+runsystem(latexminted cleantemp  --timestamp 20260416165217 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
@@ -1981,7 +1986,7 @@ Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 Here is how much of TeX's memory you used:
  50001 strings out of 473832
  1031992 string characters out of 5729480
- 2275574 words of memory out of 5000000
+ 2274574 words of memory out of 5000000
  72277 multiletter control sequences out of 15000+600000
  561841 words of font info for 101 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
