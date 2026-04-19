@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  16 APR 2026 16:52
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  19 APR 2026 17:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1854,55 +1854,62 @@ Overfull \hbox (11.28621pt too wide) in paragraph at lines 54--55
 []\TU/Montserrat(2)/b/n/10.95 Vraag3: \TU/Montserrat(1)/m/n/10.95 What system-level knowledge does a starting PL1/CICS developer need? 
  []
 
-) (./frameworkpoc.tex
+
 
 [14]
+Overfull \hbox (0.58417pt too wide) in paragraph at lines 95--100
+\TU/Montserrat(1)/m/n/10.95 ten die Caio aankaarte. Ook hij duide aan dat uitgebreide systeemkennis niet vooraf
+ []
+
+) (./frameworkpoc.tex
+
+[15]
 Hoofdstuk 5.
 
 
-[15
+[16
 
 ]
 File: ../graphics/site5.png Graphic file (type bmp)
 <../graphics/site5.png>
 
 
-[16]
-
 [17]
 
 [18]
+
+[19]
 File: ../graphics/site3.png Graphic file (type bmp)
 <../graphics/site3.png>
 
 
-[19]
+[20]
 File: ../graphics/site2.png Graphic file (type bmp)
 <../graphics/site2.png>
 File: ../graphics/site4.png Graphic file (type bmp)
 <../graphics/site4.png>
 
 
-[20])
+[21])
 Overfull \hbox (1.48328pt too wide) in paragraph at lines 241--146
 \TU/Montserrat(1)/m/n/10.95 wacht wordt en doorloopt steeds dezelfde logische opbouw: eerst begrijpen daarna
  []
 
 (./conclusie.tex
 
-[21]
+[22]
 Hoofdstuk 6.
 
 
-[22
+[23
 
 ])
 
-[23]
+[24]
 B\ij lage A.
 (../voorstel/voorstel-inhoud.tex
 
-[24
+[25
 
 ]
 Overfull \hbox (0.17656pt too wide) in paragraph at lines 92--93
@@ -1911,9 +1918,9 @@ Overfull \hbox (0.17656pt too wide) in paragraph at lines 92--93
 
 
 
-[25]
-
 [26]
+
+[27]
 File: ../voorstel/Gantt Chart.png Graphic file (type bmp)
 <../voorstel/Gantt Chart.png>
 
@@ -1923,16 +1930,16 @@ Overfull \hbox (32.93776pt too wide) in paragraph at lines 160--168
 
 
 
-[27]
+[28]
 Overfull \hbox (7.41966pt too wide) in paragraph at lines 223--226
 \TU/Montserrat(1)/m/n/10.95 competentieframework voor PL1 en CICS developers. Aan de hand van deze learning-
  []
 
 
 
-[28])
+[29])
 
-[29]
+[30]
 
 Package biblatex Warning: Bibliography string 'publication' untranslated
 (biblatex)                at entry 'Britto2017' on input line 183.
@@ -1960,13 +1967,13 @@ Overfull \hbox (7.64673pt too wide) in paragraph at lines 183--183
 
 
 
-[30
+[31
 
 
 ]
 
-[31]
-runsystem(latexminted cleantemp  --timestamp 20260416165217 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+[32]
+runsystem(latexminted cleantemp  --timestamp 20260419172746 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
@@ -1978,18 +1985,18 @@ L3 programming layer <2025-01-18>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `VanHerpeRobbe.out' has not changed.
-(rerunfilecheck)             Checksum: FE857A403325536679FA92C02BE1203F;8800.
+(rerunfilecheck)             Checksum: 6662BC48860895EC97456EA28E978C26;9004.
 Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 \openout1 = `VanHerpeRobbe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50001 strings out of 473832
- 1031992 string characters out of 5729480
- 2274574 words of memory out of 5000000
- 72277 multiletter control sequences out of 15000+600000
+ 50002 strings out of 473832
+ 1032026 string characters out of 5729480
+ 2274630 words of memory out of 5000000
+ 72278 multiletter control sequences out of 15000+600000
  561841 words of font info for 101 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,12n,131p,1186b,5641s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on VanHerpeRobbe.pdf (40 pages).
+Output written on VanHerpeRobbe.pdf (41 pages).
