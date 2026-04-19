@@ -41,17 +41,18 @@
 \contentsline {subsubsection}{short}{20}{subsection.5.2.3}%
 \contentsline {subsubsection}{short}{20}{subsection.5.2.3}%
 \contentsline {subsubsection}{short}{21}{subsection.5.2.3}%
-\contentsline {chapter}{\numberline {6}Conclusie}{23}{chapter.6}%
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{25}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Inleiding}{25}{section.A.1}%
-\contentsline {subsection}{\numberline {A.1.1}Probleemstelling en onderzoeksvragen}{25}{subsection.A.1.1}%
-\contentsline {subsection}{\numberline {A.1.2}Doelgroep}{26}{subsection.A.1.2}%
-\contentsline {subsection}{\numberline {A.1.3}Doelstelling}{26}{subsection.A.1.3}%
-\contentsline {section}{\numberline {A.2}Literatuurstudie}{26}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Methodologie}{27}{section.A.3}%
-\contentsline {subsection}{\numberline {A.3.1}Literatuurstudie en interviews}{28}{subsection.A.3.1}%
-\contentsline {subsection}{\numberline {A.3.2}Opstellen framework en PoC}{28}{subsection.A.3.2}%
-\contentsline {subsection}{\numberline {A.3.3}Rapporteren paper}{29}{subsection.A.3.3}%
-\contentsline {section}{\numberline {A.4}Verwacht resultaat, conclusie}{29}{section.A.4}%
-\contentsline {chapter}{Bibliografie}{31}{appendix*.8}%
+\contentsline {section}{\numberline {5.3}competenties learned in proof of concept}{22}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Conclusie}{24}{chapter.6}%
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{26}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Inleiding}{26}{section.A.1}%
+\contentsline {subsection}{\numberline {A.1.1}Probleemstelling en onderzoeksvragen}{26}{subsection.A.1.1}%
+\contentsline {subsection}{\numberline {A.1.2}Doelgroep}{27}{subsection.A.1.2}%
+\contentsline {subsection}{\numberline {A.1.3}Doelstelling}{27}{subsection.A.1.3}%
+\contentsline {section}{\numberline {A.2}Literatuurstudie}{27}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Methodologie}{28}{section.A.3}%
+\contentsline {subsection}{\numberline {A.3.1}Literatuurstudie en interviews}{29}{subsection.A.3.1}%
+\contentsline {subsection}{\numberline {A.3.2}Opstellen framework en PoC}{29}{subsection.A.3.2}%
+\contentsline {subsection}{\numberline {A.3.3}Rapporteren paper}{30}{subsection.A.3.3}%
+\contentsline {section}{\numberline {A.4}Verwacht resultaat, conclusie}{30}{section.A.4}%
+\contentsline {chapter}{Bibliografie}{32}{appendix*.9}%
 \contentsfinish 
