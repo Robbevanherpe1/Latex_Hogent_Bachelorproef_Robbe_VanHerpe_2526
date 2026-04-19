@@ -8,51 +8,57 @@
 \contentsline {section}{\numberline {1.3}Onderzoeksdoelstelling}{2}{section.1.3}%
 \contentsline {section}{\numberline {1.4}Opzet van deze bachelorproef}{3}{section.1.4}%
 \contentsline {chapter}{\numberline {2}Stand van zaken}{4}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Mainframe-ontwikkeling in een hedendaagse context}{4}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Skills gap en vergrijzing als structureel probleem}{5}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Initiatieven om instroom van nieuw talent te vergroten}{5}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Onboarding van nieuwe ontwikkelaars in legacy omgevingen }{6}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Competentieframeworks als fundament voor opleidingsopbouw}{6}{section.2.5}%
-\contentsline {section}{\numberline {2.6}PL/I en CICS binnen z/OS-ontwikkeling}{7}{section.2.6}%
-\contentsline {section}{\numberline {2.7}Nood aan een PL/I en CICS-gericht framework}{8}{section.2.7}%
-\contentsline {chapter}{\numberline {3}Methodologie}{9}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Opbouw van de methodologie}{9}{section.3.1}%
-\contentsline {section}{\numberline {3.2}analyse van competenties en requirements }{9}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Opstellen initeel competentieframework}{9}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Intervieuws met professional uit het werkveld}{10}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3.3}ontwikkelen proof of concept }{11}{section.3.3}%
-\contentsline {section}{\numberline {3.4}valideren competentieframework }{12}{section.3.4}%
-\contentsline {chapter}{\numberline {4}intervieuws}{13}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Structuur en opbouw van de intervieuws}{13}{section.4.1}%
-\contentsline {section}{\numberline {4.2}antwoorden van professionals}{14}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Conclusie van de intervieuws}{15}{section.4.3}%
-\contentsline {chapter}{\numberline {5}Framework en PoC}{16}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Structuur en opbouw van het framework}{16}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Structuur en opbouw van de PoC leersite}{16}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Bepalen technologien}{17}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Modules in de leersite}{17}{subsection.5.2.2}%
-\contentsline {subsubsection}{short}{18}{subsection.5.2.2}%
-\contentsline {subsubsection}{short}{18}{subsection.5.2.2}%
-\contentsline {subsubsection}{short}{18}{subsection.5.2.2}%
-\contentsline {subsubsection}{short}{18}{subsection.5.2.2}%
+\contentsline {section}{\numberline {2.1}Het begrip mainframe}{4}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}definitie van een mainframe}{4}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}Belangrijkste kenmerken van een mainframe}{5}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Mainframe security}{5}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Mainframe virtualisatie}{5}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Mainframe AI}{5}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Mainframe-ontwikkeling in een hedendaagse context}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Skills gap en vergrijzing als structureel probleem}{6}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Initiatieven om instroom van nieuw talent te vergroten}{6}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Onboarding van nieuwe ontwikkelaars in legacy omgevingen }{7}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Competentieframeworks als fundament voor opleidingsopbouw}{8}{section.2.7}%
+\contentsline {section}{\numberline {2.8}PL/I en CICS binnen z/OS-ontwikkeling}{8}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Nood aan een PL/I en CICS-gericht framework}{9}{section.2.9}%
+\contentsline {chapter}{\numberline {3}Methodologie}{10}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Opbouw van de methodologie}{10}{section.3.1}%
+\contentsline {section}{\numberline {3.2}analyse van competenties en requirements }{10}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Opstellen initeel competentieframework}{10}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Intervieuws met professional uit het werkveld}{11}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}ontwikkelen proof of concept }{12}{section.3.3}%
+\contentsline {section}{\numberline {3.4}valideren competentieframework }{13}{section.3.4}%
+\contentsline {chapter}{\numberline {4}intervieuws}{14}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Structuur en opbouw van de intervieuws}{14}{section.4.1}%
+\contentsline {section}{\numberline {4.2}antwoorden van professionals}{15}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Conclusie van de intervieuws}{16}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Framework en PoC}{17}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Structuur en opbouw van het framework}{17}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Structuur en opbouw van de PoC leersite}{17}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Bepalen technologien}{18}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Modules in de leersite}{18}{subsection.5.2.2}%
 \contentsline {subsubsection}{short}{19}{subsection.5.2.2}%
 \contentsline {subsubsection}{short}{19}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Bepalen opbouw van de modules}{19}{subsection.5.2.3}%
-\contentsline {subsubsection}{short}{20}{subsection.5.2.3}%
-\contentsline {subsubsection}{short}{20}{subsection.5.2.3}%
+\contentsline {subsubsection}{short}{19}{subsection.5.2.2}%
+\contentsline {subsubsection}{short}{19}{subsection.5.2.2}%
+\contentsline {subsubsection}{short}{20}{subsection.5.2.2}%
+\contentsline {subsubsection}{short}{20}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Bepalen opbouw van de modules}{20}{subsection.5.2.3}%
 \contentsline {subsubsection}{short}{21}{subsection.5.2.3}%
-\contentsline {section}{\numberline {5.3}competenties learned in proof of concept}{22}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Conclusie}{24}{chapter.6}%
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{26}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Inleiding}{26}{section.A.1}%
-\contentsline {subsection}{\numberline {A.1.1}Probleemstelling en onderzoeksvragen}{26}{subsection.A.1.1}%
-\contentsline {subsection}{\numberline {A.1.2}Doelgroep}{27}{subsection.A.1.2}%
-\contentsline {subsection}{\numberline {A.1.3}Doelstelling}{27}{subsection.A.1.3}%
-\contentsline {section}{\numberline {A.2}Literatuurstudie}{27}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Methodologie}{28}{section.A.3}%
-\contentsline {subsection}{\numberline {A.3.1}Literatuurstudie en interviews}{29}{subsection.A.3.1}%
-\contentsline {subsection}{\numberline {A.3.2}Opstellen framework en PoC}{29}{subsection.A.3.2}%
-\contentsline {subsection}{\numberline {A.3.3}Rapporteren paper}{30}{subsection.A.3.3}%
-\contentsline {section}{\numberline {A.4}Verwacht resultaat, conclusie}{30}{section.A.4}%
-\contentsline {chapter}{Bibliografie}{32}{appendix*.9}%
+\contentsline {subsubsection}{short}{21}{subsection.5.2.3}%
+\contentsline {subsubsection}{short}{22}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5.3}competenties learned in proof of concept}{23}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Conclusie}{25}{chapter.6}%
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{27}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Inleiding}{27}{section.A.1}%
+\contentsline {subsection}{\numberline {A.1.1}Probleemstelling en onderzoeksvragen}{27}{subsection.A.1.1}%
+\contentsline {subsection}{\numberline {A.1.2}Doelgroep}{28}{subsection.A.1.2}%
+\contentsline {subsection}{\numberline {A.1.3}Doelstelling}{28}{subsection.A.1.3}%
+\contentsline {section}{\numberline {A.2}Literatuurstudie}{28}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Methodologie}{29}{section.A.3}%
+\contentsline {subsection}{\numberline {A.3.1}Literatuurstudie en interviews}{30}{subsection.A.3.1}%
+\contentsline {subsection}{\numberline {A.3.2}Opstellen framework en PoC}{30}{subsection.A.3.2}%
+\contentsline {subsection}{\numberline {A.3.3}Rapporteren paper}{31}{subsection.A.3.3}%
+\contentsline {section}{\numberline {A.4}Verwacht resultaat, conclusie}{31}{section.A.4}%
+\contentsline {chapter}{Bibliografie}{33}{appendix*.9}%
 \contentsfinish 

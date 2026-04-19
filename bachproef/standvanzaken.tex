@@ -51,12 +51,55 @@
 % \end{table}
 
 Dit hoofdstuk bouwt verder op de probleemstelling uit de inleiding, en schets de huidige stand van zaken rond de instroom van nieuwe mainframe PL1 en CICS ontwikkelaars.
-Daarnaast word het belang van PL1 met CICS  en mainframes aangetoond op basis van actuele metingen in het arbeid veld.
+Daarnaast word het belang van PL1 met CICS en mainframes aangetoond op basis van actuele metingen in het arbeid veld.
 Tenslotte wordt er gekeken naar andere frameworks en waarom een competentie framework essentieel is voor het aanbrengen van PL1 en CiCS bij nieuw talent.
 
+\section{Het begrip mainframe}%
+\label{sec:begrip-mainframe}
+
+Een essentieel onderdeel om deze bachelorproef goed te kunnen volgen, is een duidelijk begrip van het concept "mainframe".
+De term wordt in de praktijk soms gebruikt alsof het gewoon om een zeer grote server gaat, maar dat beeld is eigenlijk te beperkt.
+Binnen de literatuur en documentatie over enterprise computing verwijst een mainframe naar een specifiek type platform dat ontworpen is voor continuïteit,
+grootschalige verwerking, en hoge betrouwbaarheid \cite{spruth2010}.
+
+\subsection{definitie van een mainframe}%
+\label{sec:definitie-mainframe}
+
+Een mainframe kan worden omschreven als een enorm sterke computer, maar tot in tegenstelling van andere servers is zijn doel heel specifiek.
+Het doel is het verwerken van enorm veel transacties op een zeer betrouwbare manier.
+Een mainframe is gebouwd om de downtime zo veel mogelijk te verkleinen om bedrijfskritieke toepassinengen steeds draaiende te houden.
+
+\section{Belangrijkste kenmerken van een mainframe}
+\label{sec:kenmerken-mainframe}
+
+\subsection{Mainframe security}%
+\label{sec:security-mainframe}
+
+Een van de belangerijkste kenmerken van een mainframe is zijn securability.
+Een mainframe is van bij het begin ontworpen om zo veilig mogelijk gemaakt te worden.
+Dit mag wel niet in verwarring gebracht worden met "secure by design", want een mainframe is maar zo veilig als de beveiliging die er is op gezet.
+Maar over het algemeen is de mainframe in veel bedrijven het meest veilige systeem tegen cybercriminals.
+
+De nieuwste mainframes zijn zelfs "quantom safe" wat wil zeggen dat met een quantom computer zijn beveiligings algoritmes niet te kraken zijn.
+Net hiervoor zetten veel bedrijven nog steeds in op de mainframe voor hun meest kritieke workloads op te draaien.
+
+\subsection{Mainframe virtualisatie}%
+\label{sec:Securable-mainframe}
+
+Een tweede kenmerk van een mainframe is het gebruik van virtualisatie door LPARS, dit zijn logishe partities op een software niveau dat er voor zorgen dat één systeem zich kan gedragen als twee afhankelijke systemen.
+Deze twee systemen kunnen een eigen operating systeem draaien en beschikken ook over hun eigen resources binnen het systeem.
+Het groote voordeel hiervan is dat de workload kan verdeelt worden over de vershillende Lpars en wanneer iets foutloopt binnen een LPAR blijft de impact beperkt tot zijn resouces.
+
+\subsection{Mainframe AI}%
+\label{sec:AI-mainframe}
+
+ai chip transactie live ai check
 
 \section{Mainframe-ontwikkeling in een hedendaagse context}%
 \label{sec:mainframe_context}
+
+Daarnaast worden mainframes gebruikt voor het hosten van commerciële databanken, transactieservers en toepassingen die een hoge mate van veiligheid, beschikbaarheid en betrouwbaarheid vereisen \cite{ebbers2005}.
+Daardoor zijn zij bijzonder geschikt voor bedrijfskritische omgevingen waarin grote aantallen gebruikers, toepassingen en transacties gelijktijdig verwerkt moeten worden \cite{ebbers2005}.
 
 Hoewel mainframe-technologie vaak als verouderd technologie wordt beschouwd, blijft  in bepaalde sectoren de mainframe een  cruciaal onderdeel om  bedrijfskritische processen te draaien.
 Organisaties die sterk inzetten op betrouwbaarheid, beschikbaarheid en voorspelbare verwerking blijven daarom investeren in z/OS-omgevingen. 
