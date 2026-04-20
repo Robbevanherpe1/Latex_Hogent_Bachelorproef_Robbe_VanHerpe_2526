@@ -16,7 +16,7 @@
 \contentsline {subsection}{\numberline {2.2.3}Mainframe AI}{5}{subsection.2.2.3}%
 \contentsline {section}{\numberline {2.3}Mainframe-ontwikkeling in een hedendaagse context}{5}{section.2.3}%
 \contentsline {section}{\numberline {2.4}Skills gap en vergrijzing als structureel probleem}{6}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Initiatieven om instroom van nieuw talent te vergroten}{6}{section.2.5}%
+\contentsline {section}{\numberline {2.5}Initiatieven om instroom van nieuw talent te vergroten}{7}{section.2.5}%
 \contentsline {section}{\numberline {2.6}Onboarding van nieuwe ontwikkelaars in legacy omgevingen }{7}{section.2.6}%
 \contentsline {section}{\numberline {2.7}Competentieframeworks als fundament voor opleidingsopbouw}{8}{section.2.7}%
 \contentsline {section}{\numberline {2.8}PL/I en CICS binnen z/OS-ontwikkeling}{8}{section.2.8}%

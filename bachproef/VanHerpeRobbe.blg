@@ -1,27 +1,25 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'VanHerpeRobbe.blg'
-[41] biber-darwin:340> INFO - === Sun Apr 19, 2026, 17:56:58
+[41] biber-darwin:340> INFO - === Mon Apr 20, 2026, 15:47:22
 [51] Biber.pm:420> INFO - Reading 'VanHerpeRobbe.bcf'
 [102] Biber.pm:994> INFO - Found 12 citekeys in bib section 0
 [114] Biber.pm:4463> INFO - Processing section 0
 [121] Biber.pm:4654> INFO - Looking for bibtex file 'bachproef.bib' for section 0
-[122] bibtex.pm:1713> INFO - LaTeX decoding ...
-[123] bibtex.pm:1519> INFO - Found BibTeX data source 'bachproef.bib'
-[149] Biber.pm:4654> INFO - Looking for bibtex file '../voorstel/voorstel.bib' for section 0
-[150] bibtex.pm:1713> INFO - LaTeX decoding ...
-[156] bibtex.pm:1519> INFO - Found BibTeX data source '../voorstel/voorstel.bib'
-[191] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[191] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[191] Biber.pm:4283> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
-[191] Biber.pm:4289> INFO - No sort tailoring available for locale 'nl-NL'
-[207] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[207] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[207] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
-[207] Biber.pm:4289> INFO - No sort tailoring available for locale 'nl-NL'
-[217] bbl.pm:676> INFO - Writing 'VanHerpeRobbe.bbl' with encoding 'UTF-8'
-[223] bbl.pm:779> INFO - Output to VanHerpeRobbe.bbl
-[223] Biber.pm:131> WARN - legacy month field 'mar' in entry 'ibm_mainframe_apprentice_2023' is not an integer - this will probably not sort properly.
-[223] Biber.pm:131> WARN - legacy month field 'mar' in entry 'ibm_app_dev_z_2023' is not an integer - this will probably not sort properly.
-[223] Biber.pm:131> WARN - I didn't find a database entry for 'spruth2010' (section 0)
-[223] Biber.pm:131> WARN - I didn't find a database entry for 'ebbers2005' (section 0)
-[223] Biber.pm:133> INFO - WARNINGS: 4
+[121] bibtex.pm:1713> INFO - LaTeX decoding ...
+[124] bibtex.pm:1519> INFO - Found BibTeX data source 'bachproef.bib'
+[154] Biber.pm:4654> INFO - Looking for bibtex file '../voorstel/voorstel.bib' for section 0
+[155] bibtex.pm:1713> INFO - LaTeX decoding ...
+[161] bibtex.pm:1519> INFO - Found BibTeX data source '../voorstel/voorstel.bib'
+[198] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[198] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[198] Biber.pm:4283> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[198] Biber.pm:4289> INFO - No sort tailoring available for locale 'nl-NL'
+[216] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[216] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[216] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[216] Biber.pm:4289> INFO - No sort tailoring available for locale 'nl-NL'
+[226] bbl.pm:676> INFO - Writing 'VanHerpeRobbe.bbl' with encoding 'UTF-8'
+[233] bbl.pm:779> INFO - Output to VanHerpeRobbe.bbl
+[233] Biber.pm:131> WARN - legacy month field 'mar' in entry 'ibm_mainframe_apprentice_2023' is not an integer - this will probably not sort properly.
+[233] Biber.pm:131> WARN - legacy month field 'mar' in entry 'ibm_app_dev_z_2023' is not an integer - this will probably not sort properly.
+[233] Biber.pm:133> INFO - WARNINGS: 2

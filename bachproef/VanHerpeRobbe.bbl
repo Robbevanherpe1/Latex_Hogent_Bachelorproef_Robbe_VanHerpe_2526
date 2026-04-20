@@ -64,6 +64,55 @@
       \verb https://bth.diva-portal.org/smash/get/diva2:1143875/FULLTEXT03.pdf
       \endverb
     \endentry
+    \entry{ebbers2005}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0572753d621e10f0b9d63fd3e44eee30}{%
+           family={Ebbers},
+           familyi={E\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d453b5feab4ecc6964d2feca1835ad2}{%
+           family={O'Brien},
+           familyi={O\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c004d07fb47ba69885cb5b5b8347b064}{%
+           family={Ogden},
+           familyi={O\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IBM International Technical Support Organization}%
+      }
+      \strng{namehash}{586c23d7114408b7fc45a8bba4e55abc}
+      \strng{fullhash}{fd45cecea24a8d9af4c2c542ff8505aa}
+      \strng{fullhashraw}{fd45cecea24a8d9af4c2c542ff8505aa}
+      \strng{bibnamehash}{fd45cecea24a8d9af4c2c542ff8505aa}
+      \strng{authorbibnamehash}{fd45cecea24a8d9af4c2c542ff8505aa}
+      \strng{authornamehash}{586c23d7114408b7fc45a8bba4e55abc}
+      \strng{authorfullhash}{fd45cecea24a8d9af4c2c542ff8505aa}
+      \strng{authorfullhashraw}{fd45cecea24a8d9af4c2c542ff8505aa}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Publicly available textbook}
+      \field{title}{z/OS Basics}
+      \field{year}{2005}
+      \verb{urlraw}
+      \verb https://www.mabu.org/zosbasic.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.mabu.org/zosbasic.pdf
+      \endverb
+    \endentry
     \entry{ibm_z_sysadmin_level1}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
@@ -434,6 +483,44 @@
       \endverb
       \verb{url}
       \verb https://scispace.com/pdf/analyzing-pl-1-legacy-ecosystems-an-experience-report-4q0q6a4ari.pdf
+      \endverb
+    \endentry
+    \entry{spruth2010}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=985891ce5884a8a3b2608aad3d1d44e8}{%
+           family={Spruth},
+           familyi={S\bibinitperiod},
+           given={Wilhelm\bibnamedelima G.},
+           giveni={W\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Wilhelm-Schickard-Institut für Informatik, Universität Tübingen}%
+      }
+      \strng{namehash}{985891ce5884a8a3b2608aad3d1d44e8}
+      \strng{fullhash}{985891ce5884a8a3b2608aad3d1d44e8}
+      \strng{fullhashraw}{985891ce5884a8a3b2608aad3d1d44e8}
+      \strng{bibnamehash}{985891ce5884a8a3b2608aad3d1d44e8}
+      \strng{authorbibnamehash}{985891ce5884a8a3b2608aad3d1d44e8}
+      \strng{authornamehash}{985891ce5884a8a3b2608aad3d1d44e8}
+      \strng{authorfullhash}{985891ce5884a8a3b2608aad3d1d44e8}
+      \strng{authorfullhashraw}{985891ce5884a8a3b2608aad3d1d44e8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{WSI-2010-03}
+      \field{title}{System z and z/OS Unique Characteristics}
+      \field{type}{Technical Report}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/10900/49392
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/10900/49392
       \endverb
     \endentry
     \entry{YalamanchiliIJLRP}{article}{}{}
@@ -517,6 +604,55 @@
       \verb https://bth.diva-portal.org/smash/get/diva2:1143875/FULLTEXT03.pdf
       \endverb
     \endentry
+    \entry{ebbers2005}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0572753d621e10f0b9d63fd3e44eee30}{%
+           family={Ebbers},
+           familyi={E\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d453b5feab4ecc6964d2feca1835ad2}{%
+           family={O'Brien},
+           familyi={O\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c004d07fb47ba69885cb5b5b8347b064}{%
+           family={Ogden},
+           familyi={O\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IBM International Technical Support Organization}%
+      }
+      \strng{namehash}{586c23d7114408b7fc45a8bba4e55abc}
+      \strng{fullhash}{fd45cecea24a8d9af4c2c542ff8505aa}
+      \strng{fullhashraw}{fd45cecea24a8d9af4c2c542ff8505aa}
+      \strng{bibnamehash}{fd45cecea24a8d9af4c2c542ff8505aa}
+      \strng{authorbibnamehash}{fd45cecea24a8d9af4c2c542ff8505aa}
+      \strng{authornamehash}{586c23d7114408b7fc45a8bba4e55abc}
+      \strng{authorfullhash}{fd45cecea24a8d9af4c2c542ff8505aa}
+      \strng{authorfullhashraw}{fd45cecea24a8d9af4c2c542ff8505aa}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Publicly available textbook}
+      \field{title}{z/OS Basics}
+      \field{year}{2005}
+      \verb{urlraw}
+      \verb https://www.mabu.org/zosbasic.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.mabu.org/zosbasic.pdf
+      \endverb
+    \endentry
     \entry{ibm_z_sysadmin_level1}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
@@ -889,6 +1025,44 @@
       \verb https://scispace.com/pdf/analyzing-pl-1-legacy-ecosystems-an-experience-report-4q0q6a4ari.pdf
       \endverb
     \endentry
+    \entry{spruth2010}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=985891ce5884a8a3b2608aad3d1d44e8}{%
+           family={Spruth},
+           familyi={S\bibinitperiod},
+           given={Wilhelm\bibnamedelima G.},
+           giveni={W\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Wilhelm-Schickard-Institut für Informatik, Universität Tübingen}%
+      }
+      \strng{namehash}{985891ce5884a8a3b2608aad3d1d44e8}
+      \strng{fullhash}{985891ce5884a8a3b2608aad3d1d44e8}
+      \strng{fullhashraw}{985891ce5884a8a3b2608aad3d1d44e8}
+      \strng{bibnamehash}{985891ce5884a8a3b2608aad3d1d44e8}
+      \strng{authorbibnamehash}{985891ce5884a8a3b2608aad3d1d44e8}
+      \strng{authornamehash}{985891ce5884a8a3b2608aad3d1d44e8}
+      \strng{authorfullhash}{985891ce5884a8a3b2608aad3d1d44e8}
+      \strng{authorfullhashraw}{985891ce5884a8a3b2608aad3d1d44e8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{WSI-2010-03}
+      \field{title}{System z and z/OS Unique Characteristics}
+      \field{type}{Technical Report}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/10900/49392
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/10900/49392
+      \endverb
+    \endentry
     \entry{YalamanchiliIJLRP}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a4c0d9163735c21b574d783d3d90dc01}{%
@@ -924,8 +1098,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{ebbers2005}
-  \missing{spruth2010}
 \endrefsection
 \endinput
 

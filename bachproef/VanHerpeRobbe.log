@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  19 APR 2026 17:57
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  20 APR 2026 15:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1561,22 +1561,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'VanHerpeRobbe.bbl' found.
- (./VanHerpeRobbe.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                ebbers2005
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                spruth2010
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+ (./VanHerpeRobbe.bbl)
 Package biblatex Info: Reference section=0 on input line 78.
 Package biblatex Info: Reference segment=0 on input line 78.
 Package caption Info: Begin \AtBeginDocument code.
@@ -1818,9 +1803,6 @@ Overfull \hbox (15.11966pt too wide) in paragraph at lines 86--87
 [3]
 Hoofdstuk 2.
 
-LaTeX Warning: Citation 'spruth2010' on page 4 undefined on input line 63.
-
-
 
 [4
 
@@ -1828,12 +1810,6 @@ LaTeX Warning: Citation 'spruth2010' on page 4 undefined on input line 63.
 Overfull \hbox (4.9033pt too wide) in paragraph at lines 89--92
 \TU/Montserrat(1)/m/n/10.95 Een tweede kenmerk van een mainframe is het gebruik van virtualisatie door LPARS,
  []
-
-
-LaTeX Warning: Citation 'ebbers2005' on page 5 undefined on input line 101.
-
-
-LaTeX Warning: Citation 'ebbers2005' on page 5 undefined on input line 102.
 
 
 
@@ -2031,9 +2007,14 @@ Overfull \hbox (7.64673pt too wide) in paragraph at lines 183--183
 
 
 ]
+Overfull \hbox (5.75507pt too wide) in paragraph at lines 183--183
+\TU/Montserrat(1)/m/n/10.95 Nr. WSI-2010-03). Wilhelm-Schickard-Institut für Informatik, Universität Tübin-
+ []
+
+
 
 [34]
-runsystem(latexminted cleantemp  --timestamp 20260419175728 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+runsystem(latexminted cleantemp  --timestamp 20260420154752 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
@@ -2047,10 +2028,10 @@ Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50030 strings out of 473832
- 1032723 string characters out of 5729480
- 2275152 words of memory out of 5000000
- 72304 multiletter control sequences out of 15000+600000
+ 50043 strings out of 473832
+ 1033169 string characters out of 5729480
+ 2275242 words of memory out of 5000000
+ 72317 multiletter control sequences out of 15000+600000
  561857 words of font info for 103 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,12n,131p,1186b,5641s stack positions out of 10000i,1000n,20000p,200000b,200000s
