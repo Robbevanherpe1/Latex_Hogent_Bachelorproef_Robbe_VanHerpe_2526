@@ -65,15 +65,15 @@ grootschalige verwerking, en hoge betrouwbaarheid \cite{spruth2010}.
 \subsection{definitie van een mainframe}%
 \label{sec:definitie-mainframe}
 
-Een mainframe kan worden omschreven als een enorm sterke computer, maar tot in tegenstelling van andere servers is zijn doel heel specifiek.
+Een mainframe kan omschreven worden als een enorm sterke computer, maar tot in tegenstelling van andere servers is zijn doel heel specifiek.
 Het doel is het verwerken van enorm veel transacties op een zeer betrouwbare manier.
 Een mainframe is gebouwd om de downtime zo veel mogelijk te verkleinen om bedrijfskritieke toepassinengen steeds draaiende te houden.
 
 \section{Belangrijkste kenmerken van een mainframe}
 \label{sec:kenmerken-mainframe}
 
-\subsection{Mainframe security}%
-\label{sec:security-mainframe}
+\subsection{Veiligheid}%
+\label{sec:Veiligheid-mainframe}
 
 Een van de belangerijkste kenmerken van een mainframe is zijn securability.
 Een mainframe is van bij het begin ontworpen om zo veilig mogelijk gemaakt te worden.
@@ -83,12 +83,41 @@ Maar over het algemeen is de mainframe in veel bedrijven het meest veilige syste
 De nieuwste mainframes zijn zelfs "quantom safe" wat wil zeggen dat met een quantom computer zijn beveiligings algoritmes niet te kraken zijn.
 Net hiervoor zetten veel bedrijven nog steeds in op de mainframe voor hun meest kritieke workloads op te draaien.
 
-\subsection{Mainframe virtualisatie}%
-\label{sec:Securable-mainframe}
+\subsection{Virtualisatie}%
+\label{sec:virtualisatie-mainframe}
 
 Een tweede kenmerk van een mainframe is het gebruik van virtualisatie door LPARS, dit zijn logishe partities op een software niveau dat er voor zorgen dat één systeem zich kan gedragen als twee afhankelijke systemen.
 Deze twee systemen kunnen een eigen operating systeem draaien en beschikken ook over hun eigen resources binnen het systeem.
 Het groote voordeel hiervan is dat de workload kan verdeelt worden over de vershillende Lpars en wanneer iets foutloopt binnen een LPAR blijft de impact beperkt tot zijn resouces.
+
+\subsection{Beschikbaarheid en betrouwbaarheid}%
+\label{sec:beschikbaarheid-mainframe}
+
+Een derde en zeer belangerijke eigenschap van de mainframe is de  zeer hoge betrouwbaarheid en beschikbaarheid.
+Doordat IBM de hardware en de software ontwikkeld kan men veel dieper gaan en veel lagen van veiligheid inbouwen.
+Volgens IBM is de uptime dan ook 99,999 procent wat uitkomt op een 5 minuten per jaar van downtime.
+Dit is veel lager dan geditribueerde systemen en is vaak nog een onderschatting met nieuwe systemen zoals de Z17(nieuwste mainfame) die wel 99,9999999 procent uptime kunnen hebben.
+Hierdoor is dit een van de meest geschikte machines voor bedrijfskritieke processen op te draaien binnen grote organisatie.
+
+Om deze hoge uptime te kunnen garanderen maakt IBM gebruik van software en hardware features die samen in harmonie werken om tot een heel betrouwbaar systeem te leiden.
+Enkele voorbeelden van deze features zijn:
+Op het laagste niveau de Recovery Unit(RU), dit is een hardware component die geintegreerd is in de chip zelf.
+Wanneer zich een fout voordoet in het systeem, bijvoorbeeld een bitflip of een defecte transistor detecteerd en isoleerd de RU dit probleem onmiddelijk.
+Het getroffen component wordt automatish vervangen door een backup component op de zelfde chip.
+Hierdoor is de impact op het complete syteem minimaal en kunnen andere processen ongestoord verder draaien.
+
+Een niveau hoger spreken we van de parallel sysplex achitectuur.
+Hierbij werken verschillende mainframes samen als één logish systeem en delen ze databases en resources.
+Door deze verbondenheid tussen machines kan in het geval dat er een uitvalt de workload verplaatst worden naar een ander systeem.
+Dit herstel op een ander systeem verloopt heel snel en zonder dataverlies, dit kan enkele seconden tot minuten duren.
+
+Dan op het hoogste niveau staat IBM GDPS(Geographically Disersed parallel sysplex).
+Aan de hand van deze technologie is een failover tussen verschillende gescheiden datacenters mogelijk.
+Dit systeem is in staat om de replicatie van data en overschakeling van werklasten  tussen verschillende locaties te controleren.
+In geval van een cyber aanval of stroom panne op een bepaalde site is dit een laatse maar drastisch oplossing om het syteem draaiende te houden.
+
+Samen vormen deze drie niveaus voor een zeer robuuste architectuur waarbij gelokaliseerde fouten nooit kunnen uitgroeien tot problemen die het systeem stoppen.
+Grote financiele instellingen rekenen nu juist op deze betrouwbaarheid om er voor te zorgen dat de financiele wereled niet in elkaar valt.
 
 \subsection{Mainframe AI}%
 \label{sec:AI-mainframe}
@@ -122,7 +151,8 @@ Sharma toont aan dat het aanleren van mainframevaardigheden in het onderwijs ste
 Ook Ngo-Ye beschrijft hoe de kloof tussen academische curricula en de verwachtingen van bedrijven blijft groeien \autocite{NgoYe2018TeachingMainframeSkills}..
 Dit zorgt dan voor een probleem bij het vinden van geschikte starters om deze legacy systemen te onderhouden.
 
-Het probleem wordt vergroot doordat slechts een beperkt aantal onderwijsinstellingen mainframe gerichte opleidingsonderdelen aanbieden waardoor de instroom van nieuw talent laag blijft.
+Het probleem wordt vergroot doordat slechts een beperkt aantal onderwijsinstellingen mainframe gerichte opleidingsonderdelen aanbieden.
+Hierdoor is de instroom van nieuw talent beduidend laag.
 Dit zorgt dan voor een groot probleem want de vraag in sectoren zoals de financiële wereld light hoger dan ooit.
 
 Niet alleen is er een tekort aan mainframe gerichte opleidingen maar ook een tekort aan motivatie bij studenten.

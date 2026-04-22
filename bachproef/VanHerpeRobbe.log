@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  20 APR 2026 15:47
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  22 APR 2026 21:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1814,33 +1814,30 @@ Overfull \hbox (4.9033pt too wide) in paragraph at lines 89--92
 
 
 [5]
-Overfull \hbox (15.84843pt too wide) in paragraph at lines 120--124
-\TU/Montserrat(1)/m/n/10.95 teerd wordt met vergrijzing en hierdoor een verlies aan kennis tegemoet gaat. Sharma
- []
-
-
-Overfull \hbox (3.66234pt too wide) in paragraph at lines 125--127
-\TU/Montserrat(1)/m/n/10.95 lingen mainframe gerichte opleidingsonderdelen aanbieden waardoor de instroom
- []
-
-
 
 [6]
-Overfull \hbox (19.88333pt too wide) in paragraph at lines 169--169
-|[][]\TU/Montserrat(0)/b/n/14.4 Competentieframeworks als fundament voor opleidings-
+Overfull \hbox (15.84843pt too wide) in paragraph at lines 149--153
+\TU/Montserrat(1)/m/n/10.95 teerd wordt met vergrijzing en hierdoor een verlies aan kennis tegemoet gaat. Sharma
  []
 
 
 
 [7]
+Overfull \hbox (19.88333pt too wide) in paragraph at lines 199--199
+|[][]\TU/Montserrat(0)/b/n/14.4 Competentieframeworks als fundament voor opleidings-
+ []
 
-[8]) (./methodologie.tex
 
-[9]
+
+[8]
+
+[9]) (./methodologie.tex
+
+[10]
 Hoofdstuk 3.
 
 
-[10
+[11
 
 ]
 File: ../graphics/compframework4.png Graphic file (type bmp)
@@ -1849,7 +1846,7 @@ File: ../graphics/compframework5.png Graphic file (type bmp)
 <../graphics/compframework5.png>
 
 
-[11]
+[12]
 File: ../graphics/site1.png Graphic file (type bmp)
 <../graphics/site1.png>
 File: ../graphics/site3.png Graphic file (type bmp)
@@ -1858,16 +1855,16 @@ File: ../graphics/site2.png Graphic file (type bmp)
 <../graphics/site2.png>
 
 
-[12]
+[13]
 File: ../graphics/site4.png Graphic file (type bmp)
 <../graphics/site4.png>
 ) (./intervieuws.tex
 
-[13]
+[14]
 Hoofdstuk 4.
 
 
-[14
+[15
 
 ]
 Overfull \hbox (11.28621pt too wide) in paragraph at lines 54--55
@@ -1876,41 +1873,41 @@ Overfull \hbox (11.28621pt too wide) in paragraph at lines 54--55
 
 
 
-[15]
+[16]
 Overfull \hbox (0.58417pt too wide) in paragraph at lines 95--100
 \TU/Montserrat(1)/m/n/10.95 ten die Caio aankaarte. Ook hij duide aan dat uitgebreide systeemkennis niet vooraf
  []
 
 ) (./frameworkpoc.tex
 
-[16]
+[17]
 Hoofdstuk 5.
 
 
-[17
+[18
 
 ]
 File: ../graphics/site5.png Graphic file (type bmp)
 <../graphics/site5.png>
 
 
-[18]
-
 [19]
 
 [20]
+
+[21]
 File: ../graphics/site3.png Graphic file (type bmp)
 <../graphics/site3.png>
 
 
-[21]
+[22]
 File: ../graphics/site2.png Graphic file (type bmp)
 <../graphics/site2.png>
 File: ../graphics/site4.png Graphic file (type bmp)
 <../graphics/site4.png>
 
 
-[22]
+[23]
 Overfull \hbox (1.48328pt too wide) in paragraph at lines 240--245
 \TU/Montserrat(1)/m/n/10.95 wacht wordt en doorloopt steeds dezelfde logische opbouw: eerst begrijpen daarna
  []
@@ -1947,21 +1944,21 @@ Underfull \hbox (badness 5022) in paragraph at lines 293--296
 
 ) (./conclusie.tex
 
-[23]
-
 [24]
+
+[25]
 Hoofdstuk 6.
 
 
-[25
+[26
 
 ])
 
-[26]
+[27]
 B\ij lage A.
 (../voorstel/voorstel-inhoud.tex
 
-[27
+[28
 
 ]
 Overfull \hbox (0.17656pt too wide) in paragraph at lines 92--93
@@ -1970,9 +1967,9 @@ Overfull \hbox (0.17656pt too wide) in paragraph at lines 92--93
 
 
 
-[28]
-
 [29]
+
+[30]
 File: ../voorstel/Gantt Chart.png Graphic file (type bmp)
 <../voorstel/Gantt Chart.png>
 
@@ -1982,16 +1979,16 @@ Overfull \hbox (32.93776pt too wide) in paragraph at lines 160--168
 
 
 
-[30]
+[31]
 Overfull \hbox (7.41966pt too wide) in paragraph at lines 223--226
 \TU/Montserrat(1)/m/n/10.95 competentieframework voor PL1 en CICS developers. Aan de hand van deze learning-
  []
 
 
 
-[31])
+[32])
 
-[32]
+[33]
 
 Package biblatex Warning: Bibliography string 'publication' untranslated
 (biblatex)                at entry 'Britto2017' on input line 183.
@@ -2003,7 +2000,7 @@ Overfull \hbox (7.64673pt too wide) in paragraph at lines 183--183
 
 
 
-[33
+[34
 
 
 ]
@@ -2013,8 +2010,8 @@ Overfull \hbox (5.75507pt too wide) in paragraph at lines 183--183
 
 
 
-[34]
-runsystem(latexminted cleantemp  --timestamp 20260420154752 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+[35]
+runsystem(latexminted cleantemp  --timestamp 20260422210447 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
@@ -2022,18 +2019,18 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `VanHerpeRobbe.out' has not changed.
-(rerunfilecheck)             Checksum: 3D91EAAE9E7D32CD4A701EB255D4D766;10373.
+(rerunfilecheck)             Checksum: 151EA9D5137E37F23B3456C59D707F1C;10515.
 Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 \openout1 = `VanHerpeRobbe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50043 strings out of 473832
- 1033169 string characters out of 5729480
- 2275242 words of memory out of 5000000
- 72317 multiletter control sequences out of 15000+600000
+ 50044 strings out of 473832
+ 1033206 string characters out of 5729480
+ 2274298 words of memory out of 5000000
+ 72318 multiletter control sequences out of 15000+600000
  561857 words of font info for 103 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,12n,131p,1186b,5641s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on VanHerpeRobbe.pdf (43 pages).
+Output written on VanHerpeRobbe.pdf (44 pages).
