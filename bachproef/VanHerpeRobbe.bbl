@@ -267,6 +267,105 @@
       \verb https://community.ibm.com/zsystems/uploads/document/slider/ujdg9js84fj.pdf
       \endverb
     \endentry
+    \entry{lichtenau2022telum}{article}{}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=3cbf82c4581b4579c276f13f3035e259}{%
+           family={Lichtenau},
+           familyi={L\bibinitperiod},
+           given={Cedric},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4b7a7697a04d2b8fd7bd510a06eb96c}{%
+           family={Buyuktosunoglu},
+           familyi={B\bibinitperiod},
+           given={Alper},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc334ac9f89f49bcd71898fdd5e8f686}{%
+           family={Bertran},
+           familyi={B\bibinitperiod},
+           given={Ramon},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f513763c59a819dc5e95d15c8e81bf5c}{%
+           family={Figuli},
+           familyi={F\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a511c22bda3afb17d4ebc48f68bbd238}{%
+           family={Jacobi},
+           familyi={J\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55ec96f3436b806550e0f1aa81152b84}{%
+           family={Papandreou},
+           familyi={P\bibinitperiod},
+           given={Nikolaos},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4aab780e3359a19664be1c9433d742c8}{%
+           family={Pozidis},
+           familyi={P\bibinitperiod},
+           given={Haris},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d1ae2fbdc3cf68702367c767845ddca}{%
+           family={Saporito},
+           familyi={S\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3679bbd2e8ba90c175207cad1195054}{%
+           family={Sica},
+           familyi={S\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7b3dc947b18cb122db0b7defa940707}{%
+           family={Tzortzatos},
+           familyi={T\bibinitperiod},
+           given={Elpida},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{20f872a2b2d7883ad4e6b9ea935e1b62}
+      \strng{fullhash}{47cb624b368852a5e164c85f6352ccbf}
+      \strng{fullhashraw}{47cb624b368852a5e164c85f6352ccbf}
+      \strng{bibnamehash}{47cb624b368852a5e164c85f6352ccbf}
+      \strng{authorbibnamehash}{47cb624b368852a5e164c85f6352ccbf}
+      \strng{authornamehash}{20f872a2b2d7883ad4e6b9ea935e1b62}
+      \strng{authorfullhash}{47cb624b368852a5e164c85f6352ccbf}
+      \strng{authorfullhashraw}{47cb624b368852a5e164c85f6352ccbf}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 49th Annual International Symposium on Computer Architecture}
+      \field{month}{6}
+      \field{series}{ISCA '22}
+      \field{title}{AI Accelerator on {IBM} Telum Processor}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1145/3470496.3533042
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/3470496.3533042
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/3470496.3533042
+      \endverb
+    \endentry
     \entry{NgoYe2018TeachingMainframeSkills}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=50578ce4ef9e7c3f86be4c88fa289aa2}{%
@@ -805,6 +904,105 @@
       \endverb
       \verb{url}
       \verb https://community.ibm.com/zsystems/uploads/document/slider/ujdg9js84fj.pdf
+      \endverb
+    \endentry
+    \entry{lichtenau2022telum}{article}{}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=3cbf82c4581b4579c276f13f3035e259}{%
+           family={Lichtenau},
+           familyi={L\bibinitperiod},
+           given={Cedric},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4b7a7697a04d2b8fd7bd510a06eb96c}{%
+           family={Buyuktosunoglu},
+           familyi={B\bibinitperiod},
+           given={Alper},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc334ac9f89f49bcd71898fdd5e8f686}{%
+           family={Bertran},
+           familyi={B\bibinitperiod},
+           given={Ramon},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f513763c59a819dc5e95d15c8e81bf5c}{%
+           family={Figuli},
+           familyi={F\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a511c22bda3afb17d4ebc48f68bbd238}{%
+           family={Jacobi},
+           familyi={J\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55ec96f3436b806550e0f1aa81152b84}{%
+           family={Papandreou},
+           familyi={P\bibinitperiod},
+           given={Nikolaos},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4aab780e3359a19664be1c9433d742c8}{%
+           family={Pozidis},
+           familyi={P\bibinitperiod},
+           given={Haris},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d1ae2fbdc3cf68702367c767845ddca}{%
+           family={Saporito},
+           familyi={S\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3679bbd2e8ba90c175207cad1195054}{%
+           family={Sica},
+           familyi={S\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7b3dc947b18cb122db0b7defa940707}{%
+           family={Tzortzatos},
+           familyi={T\bibinitperiod},
+           given={Elpida},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{20f872a2b2d7883ad4e6b9ea935e1b62}
+      \strng{fullhash}{47cb624b368852a5e164c85f6352ccbf}
+      \strng{fullhashraw}{47cb624b368852a5e164c85f6352ccbf}
+      \strng{bibnamehash}{47cb624b368852a5e164c85f6352ccbf}
+      \strng{authorbibnamehash}{47cb624b368852a5e164c85f6352ccbf}
+      \strng{authornamehash}{20f872a2b2d7883ad4e6b9ea935e1b62}
+      \strng{authorfullhash}{47cb624b368852a5e164c85f6352ccbf}
+      \strng{authorfullhashraw}{47cb624b368852a5e164c85f6352ccbf}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 49th Annual International Symposium on Computer Architecture}
+      \field{month}{6}
+      \field{series}{ISCA '22}
+      \field{title}{AI Accelerator on {IBM} Telum Processor}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1145/3470496.3533042
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/3470496.3533042
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/3470496.3533042
       \endverb
     \endentry
     \entry{NgoYe2018TeachingMainframeSkills}{article}{}{}
