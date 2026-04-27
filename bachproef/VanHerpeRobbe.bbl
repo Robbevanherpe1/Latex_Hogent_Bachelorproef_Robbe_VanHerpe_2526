@@ -483,6 +483,47 @@
       \endverb
       \keyw{motivation,mainframes,legacy systems}
     \endentry
+    \entry{raju2024ras}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=057d3b6f8065d9e4389001b67dc038a4}{%
+           family={Raju},
+           familyi={R\bibinitperiod},
+           given={Jagadish},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{057d3b6f8065d9e4389001b67dc038a4}
+      \strng{fullhash}{057d3b6f8065d9e4389001b67dc038a4}
+      \strng{fullhashraw}{057d3b6f8065d9e4389001b67dc038a4}
+      \strng{bibnamehash}{057d3b6f8065d9e4389001b67dc038a4}
+      \strng{authorbibnamehash}{057d3b6f8065d9e4389001b67dc038a4}
+      \strng{authornamehash}{057d3b6f8065d9e4389001b67dc038a4}
+      \strng{authorfullhash}{057d3b6f8065d9e4389001b67dc038a4}
+      \strng{authorfullhashraw}{057d3b6f8065d9e4389001b67dc038a4}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2321-9653}
+      \field{journaltitle}{International Journal for Research in Applied Science and Engineering Technology (IJRASET)}
+      \field{month}{9}
+      \field{note}{Open access, Creative Commons Attribution License (CC BY 4.0)}
+      \field{title}{The {RAS} Paradigm in Mainframe Systems: A Comprehensive Analysis of Design Principles and Operational Benefits}
+      \field{volume}{12}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.22214/ijraset.2024.64347
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ijraset.com/research-paper/ comprehensive-analysis-of-design-principles-and-operational-benefits
+      \endverb
+      \verb{url}
+      \verb https://www.ijraset.com/research-paper/%20comprehensive-analysis-of-design-principles-and-operational-benefits
+      \endverb
+    \endentry
     \entry{Sharma2011TeachOrNotTeach}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=be19dd034d32e46b77204ecf73279330}{%
@@ -1121,6 +1162,47 @@
       \verb https://doi.org/10.1145/2487294.2487308
       \endverb
       \keyw{motivation,mainframes,legacy systems}
+    \endentry
+    \entry{raju2024ras}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=057d3b6f8065d9e4389001b67dc038a4}{%
+           family={Raju},
+           familyi={R\bibinitperiod},
+           given={Jagadish},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{057d3b6f8065d9e4389001b67dc038a4}
+      \strng{fullhash}{057d3b6f8065d9e4389001b67dc038a4}
+      \strng{fullhashraw}{057d3b6f8065d9e4389001b67dc038a4}
+      \strng{bibnamehash}{057d3b6f8065d9e4389001b67dc038a4}
+      \strng{authorbibnamehash}{057d3b6f8065d9e4389001b67dc038a4}
+      \strng{authornamehash}{057d3b6f8065d9e4389001b67dc038a4}
+      \strng{authorfullhash}{057d3b6f8065d9e4389001b67dc038a4}
+      \strng{authorfullhashraw}{057d3b6f8065d9e4389001b67dc038a4}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2321-9653}
+      \field{journaltitle}{International Journal for Research in Applied Science and Engineering Technology (IJRASET)}
+      \field{month}{9}
+      \field{note}{Open access, Creative Commons Attribution License (CC BY 4.0)}
+      \field{title}{The {RAS} Paradigm in Mainframe Systems: A Comprehensive Analysis of Design Principles and Operational Benefits}
+      \field{volume}{12}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.22214/ijraset.2024.64347
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ijraset.com/research-paper/ comprehensive-analysis-of-design-principles-and-operational-benefits
+      \endverb
+      \verb{url}
+      \verb https://www.ijraset.com/research-paper/%20comprehensive-analysis-of-design-principles-and-operational-benefits
+      \endverb
     \endentry
     \entry{Sharma2011TeachOrNotTeach}{article}{}{}
       \name{author}{2}{}{%
