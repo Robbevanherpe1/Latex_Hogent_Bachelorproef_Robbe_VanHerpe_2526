@@ -52,7 +52,7 @@
 
 Dit hoofdstuk bouwt verder op de probleemstelling uit de inleiding, en schets de huidige stand van zaken rond de instroom van nieuwe mainframe PL1 en CICS ontwikkelaars.
 Daarnaast word het belang van PL1 met CICS en mainframes aangetoond op basis van actuele metingen in het arbeid veld.
-Tenslotte wordt er gekeken naar andere frameworks en waarom een competentie framework essentieel is voor het aanbrengen van PL1 en CiCS bij nieuw talent.
+Tenslotte wordt er gekeken naar andere frameworks en waarom een competentie framework essentieel is voor het aanbrengen van PL1 en CICS bij nieuw talent.
 
 \section{Het begrip mainframe}%
 \label{sec:begrip-mainframe}
@@ -76,6 +76,7 @@ Een mainframe is gebouwd om de downtime zo veel mogelijk te verkleinen om bedrij
 \label{sec:Veiligheid-mainframe}
 
 Een van de belangerijkste kenmerken van een mainframe is zijn securability.
+Dit wordt dan ook besproken in de vershillende studies en papers van onderandere \cite{spruth2010} en \cite{ebbers2005}.
 Een mainframe is van bij het begin ontworpen om zo veilig mogelijk gemaakt te worden.
 Dit mag wel niet in verwarring gebracht worden met "secure by design", want een mainframe is maar zo veilig als de beveiliging die er is op gezet.
 Maar over het algemeen is de mainframe in veel bedrijven het meest veilige systeem tegen cybercriminals.
@@ -99,7 +100,7 @@ Volgens IBM is de uptime dan ook 99,999 procent wat uitkomt op een 5 minuten per
 Dit is veel lager dan geditribueerde systemen en is vaak nog een onderschatting met nieuwe systemen zoals de Z17(nieuwste mainfame) die wel 99,9999999 procent uptime kunnen hebben.
 Hierdoor is dit een van de meest geschikte machines voor bedrijfskritieke processen op te draaien binnen grote organisatie.
 
-Om deze hoge uptime te kunnen garanderen maakt IBM gebruik van software en hardware features die samen in harmonie werken om tot een heel betrouwbaar systeem te leiden.
+Om deze hoge uptime te kunnen garanderen maakt IBM gebruik van software en hardware features die samen in harmonie werken om tot een heel betrouwbaar systeem te leiden \cite{spruth2010}.
 Enkele voorbeelden van deze features zijn:
 Op het laagste niveau de Recovery Unit(RU), dit is een hardware component die geintegreerd is in de chip zelf.
 Wanneer zich een fout voordoet in het systeem, bijvoorbeeld een bitflip of een defecte transistor detecteerd en isoleerd de RU dit probleem onmiddelijk.
@@ -144,16 +145,17 @@ Door deze evolutie is de rekenkracht tot wel 4 maal vergroot, wat de mainframe i
 Daarnaast worden mainframes gebruikt voor het hosten van commerciële databanken, transactieservers en toepassingen die een hoge mate van veiligheid, beschikbaarheid en betrouwbaarheid vereisen \cite{ebbers2005}.
 Daardoor zijn zij bijzonder geschikt voor bedrijfskritische omgevingen waarin grote aantallen gebruikers, toepassingen en transacties gelijktijdig verwerkt moeten worden \cite{ebbers2005}.
 
-Hoewel mainframe-technologie vaak als verouderd technologie wordt beschouwd, blijft  in bepaalde sectoren de mainframe een  cruciaal onderdeel om  bedrijfskritische processen te draaien.
+
+Hoewel mainframe-technologie vaak als verouderd technologie wordt beschouwd, blijft door voorgaande kenmerken de mainframe een cruciaal onderdeel om bedrijfskritische processen te draaien in bepaalde sectoren.
 Organisaties die sterk inzetten op betrouwbaarheid, beschikbaarheid en voorspelbare verwerking blijven daarom investeren in z/OS-omgevingen. 
 Voor deze organisaties word de mainframe gezien als een gespecialiseerd platform voor hun bedrijfskritieke teopassingen.
 Waar moderne systemen vaak gericht zijn op flexibiliteit en snelle iteratie, ligt de sterkte van de mainframe juist in zijn stabiliteit en continue beschikbaarheid.
 Door dit blijvend belang van mainframes binnen deze organisaties is de nood aan ontwikkelaars om deze te onderhouden nog steeds even groot.
 
-Maar wat word nu juist bedoelt met een ontwikkelaars in deze context.
+Maar wat wordt nu juist bedoelt met een ontwikkelaars in deze mainframe context.
 Een mainframe developer is een softwareontwikkelaar die applicaties op de mainframe analyseerd, onderhoudt, uitbreidt en test.
 Voor PL1 en CICS ontwikkelaars betekend dit concreet dat zij bussineslogica analyseren en aanpassen, transactieflows begrijpen en onderzoeken van fouten en het oplossen hiervan binnen legacy code omgevingen.
-Voor deze rol word er dan niet enkel programmeer kennis verwacht maar ook een grote portie aan inzicht in de achitectuur, processen en historishe opbouw van het systeem.
+In deze rol wordt er dan niet enkel programmeer kennis verwacht maar ook een grote portie aan inzicht in de achitectuur, processen en historishe opbouw van het systeem.
 Voor het onderhouden van deze systemen heeft men dus profielen nodig met enige ervaring in het onderhouden van legacy systemen, en net deze worden steeds moeilijker te vinden.
 
 
@@ -161,19 +163,18 @@ Voor het onderhouden van deze systemen heeft men dus profielen nodig met enige e
 \label{sec:skills_gap_vergrijzing}
 
 Een terugkerend thema in de literatuur is dat de mainframe industrie geconfronteerd wordt met vergrijzing en hierdoor een verlies aan kennis tegemoet gaat. 
-Sharma toont aan dat het aanleren van mainframevaardigheden in het onderwijs steeds moeilijker word om te verantwoorden en hierdoor het aantal instapklare profielen aan het dalen is in de mainframe industrie \autocite{Sharma2011TeachOrNotTeach}.
+Sharma toont aan dat het aanleren van mainframevaardigheden in het onderwijs steeds moeilijker wordt om te verantwoorden en hierdoor het aantal instapklare profielen aan het dalen is in de mainframe industrie \autocite{Sharma2011TeachOrNotTeach}.
 Ook Ngo-Ye beschrijft hoe de kloof tussen academische curricula en de verwachtingen van bedrijven blijft groeien \autocite{NgoYe2018TeachingMainframeSkills}..
 Dit zorgt dan voor een probleem bij het vinden van geschikte starters om deze legacy systemen te onderhouden.
 
 Het probleem wordt vergroot doordat slechts een beperkt aantal onderwijsinstellingen mainframe gerichte opleidingsonderdelen aanbieden.
-Hierdoor is de instroom van nieuw talent beduidend laag.
-Dit zorgt dan voor een groot probleem want de vraag in sectoren zoals de financiële wereld light hoger dan ooit.
+Hierdoor is de instroom van nieuw talent beduidend laag, wat zorgt voor een groot probleem want de vraag in sectoren zoals de financiële wereld ligt hoger dan ooit.
 
 Niet alleen is er een tekort aan mainframe gerichte opleidingen maar ook een tekort aan motivatie bij studenten.
 Zij gaan sneller kiezen voor moderne technologieën die als toekomst gericht worden gezien.
-Door dit kleiner aanbod aan studenten en verandering van focus bij onderwijsinstellingen is de toevoer van nieuw talent voor de mainframe steeds aan het verkleinen \autocite{Phillips2013Mainframe}.
+Door dit kleiner aanbod aan studenten en verandering van focus bij onderwijsinstellingen is de instroom van nieuw talent voor de mainframe steeds aan het verkleinen \autocite{Phillips2013Mainframe}.
 Hierdoor ontstaat een vicieuze cirkel, minder onderwijsaanbod leidt tot minder interesse wat de instroom nog verder doet dalen. 
-Voor organisaties zoals Euroclear betekent dit een reëel risico op kennisverlies wanneer ervaren medewerkers op pensioen gaan en hun expertise onvoldoende kan worden overgedragen naar de nieuwe werknemers .
+Voor organisaties zoals Euroclear betekent dit een reëel risico op kennisverlies wanneer ervaren medewerkers op pensioen gaan en hun expertise onvoldoende kan worden overgedragen naar de nieuwe werknemers.
 
 
 
@@ -185,15 +186,14 @@ Programma’s zoals IBM Z Xplore verlagen de drempel door deelnemers stapsgewijs
 Het gebruiken van certificaten kan zeer motiverend werken en geef een meetbaar element om hun vaardigheden te meten gebruiken als bewijsstuk.
 Ook leertrajecten die dichter aansluiten bij het werkveld zoals IBM apprenticeships.
 Hier word gebruik gemaakt van rolgericht verwachtingen en praktische begeleiding, door een duidelijk pad te hebben voor zich voor te bereiden op een bepaalde job \autocite{ibm_mainframe_apprentice_2023}.
-Deze initiatieven tonen dat er een duidelijke nood is aan gestructureerde leerpaden, maar ze benadrukken
-Ook dat er een nood is aan validatie en een overzicht van de nodige competenties.
+Deze initiatieven tonen dat er een duidelijke nood is aan gestructureerde leerpaden, maar ze benadrukken ook dat er een nood is aan validatie en een overzicht van de nodige competenties.
 
 \section{Onboarding van nieuwe ontwikkelaars in legacy omgevingen }%
 \label{sec:Onboarding_ontwikkelaars}
 
 Met dit structureel tekort aan nieuw talent is het heel belangerijk om de startende ontwikkelaars zo effectief mogelijk 
-te laten integreren in het team.
-Dit begint al bij de onboarding en waar enkele punten criciaal zijn voor het opbouwen van kennis en vertrouwen bij nieuw teamlid.
+te laten integreren in een team.
+Dit begint al bij de onboarding en waar enkele punten criciaal zijn voor het opbouwen van kennis en vertrouwen bij een nieuw teamlid.
 Literatuur over developer onboarding \autocite{Britto2017} toont aan dat de instroom van nieuwe ontwikkelaars niet enkel afhangt van technishe opleidingen.
 Het gestructureed inwerkingsprocess blijkt een soms even groot belang te hebben als de technishe skills.
 Britto \autocite{Britto2017} toont aan dat onboarding van developers in legacy softwareteams opgebouwd is uit drie delen: 
