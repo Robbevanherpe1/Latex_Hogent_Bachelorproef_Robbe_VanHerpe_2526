@@ -235,30 +235,44 @@ IBM heeft bijvoorbeeld enkele frameworks zoals IBM Z Systems Administrator Level
 Deze bevatten bruikbare elementen zoals opbouw en formulering van competenties, maar zijn hoofdzakelijk gericht op de systeem en beheer kant van de mainframe. 
 Voor organisaties die vooral applicatieontwikkeling op z/OS willen ondersteunen is de meerwaarde daarom beperkt.
 
-Daarnaast bestaat er een breder development georiënteerd framework van IBM om Z/OS ontwikkelaars algemene skills aan te brengen.Het Application Developer on IBM Z competentieframework \autocite{ibm_app_dev_z_2023} geeft een overzicht van belangrijke onderwerpen voor z/OS development, maar blijft op verschillende punten te algemeen om gebruikt te worden als framework voor PL1 en CICS developers binnen een bedrijf Als Euroclear.
+Daarnaast bestaat er een breder development georiënteerd framework van IBM om Z/OS ontwikkelaars algemene skills aan te brengen.
+Het Application Developer on IBM Z competentieframework \autocite{ibm_app_dev_z_2023} geeft een overzicht van belangrijke onderwerpen voor z/OS development, maar blijft op verschillende punten te algemeen om gebruikt te worden als framework voor PL1 en CICS developers binnen een bedrijf als Euroclear.
 De focus van dit framework ligt te veel op COBOL development, maar de structuur en aanpak om development te leren zijn wel twee aspecten die een grote meerwaarde zijn voor het ontwerpen van een nieuw PL1 en CICS development competentie framework.
-
-In veel organisaties ligt de focus bovendien niet uitsluitend op COBOL, waardoor een generiek cobol developer-framework onvoldoende aansluit bij de exacte behoeften voor instapontwikkeling in alternatieve talen en runtime-omgevingen.
-
-
 
 \section{PL/I en CICS binnen z/OS-ontwikkeling}%
 \label{sec:pli_cics_zos} 
 
-Naast Cobol en Java is PL/I (Programming Language One) een van de meest gebruikte talen voor development op het mainframe. 
+
+
+De programmeertalen die worden gebruikt op de mainframe zijn historish verbonden aan de achitectuur van de hardware zelf.
+Twee talen die heel belangerijk zijn binnen mainframe developement zijn PL1 en CICS.
+Samen vormen ze de ruggengraat binnen veel organisaties voor hun bedrijfscritieke applicaties om IBM Z systemen. 
+
+\subsection{PL/I als ontwikkeltaal op het mainframe}%
+\label{sec:pli-taal}
+
+Naast Cobol en Java is PL/I (Programming Language One) een van de meest gebruikte talen voor ontwikkeling op het mainframe. 
+PL1 werd in 1964 door IBM ontwikkeld met als doel een programeertaal te maken die wetenshappelijke toepassingen kon maken maar ook zakelijke.
+
+
 Je ziet PL/I bijvoorbeeld in de financiële sector bij organisaties zoals Euroclear, maar ook in andere omgevingen zoals staalverwerking bij ArcelorMittal. 
-Dat is niet toevallig, de taal is van gebouwd om grote hoeveelheden transacties efficiënt te verwerken net zoals Cobol. 
-Tegelijk is PL/I iets minder “business oriented” waardoor sommige developers het iets toegankelijker vinden om mee te starten.
+Dat is niet toevallig, de taal is gebouwd om grote hoeveelheden transacties efficiënt te verwerken net zoals Cobol \cite{dau2024xmainframe}. 
+Tegelijk probeerde IBM de wiskundige kracht van Fortran en de zakelijke kracht van Cobol te combineren tot één taal die alles kan.
+Hierdoor is PL/I iets minder business georienteerd, waardoor sommige developers het iets toegankelijker vinden om mee te starten.
 
-Op zichzelf zijn PL/I (en Cobol) relatief eenvoudige talen, maar in de praktijk kom je ze vooral tegen in legacy omgevingen. 
+Op zichzelf zijn PL/I en Cobol relatief toegankelijke talen, maar in de praktijk kom je ze vooral tegen in legacy omgevingen. 
 Daar bevind zich nu net de complexiteit en uitdaging voor nieuwe developers.
-De systemen errond zijn door de jaren heen uitgebreid, aangepast en toegevoegt, waardoor de totale complexiteit sterk is toegenomen.
+De systemen er rond zijn door de jaren heen uitgebreid en aangepast waardoor de totale complexiteit sterk is toegenomen.
 
-Dat heeft ook te maken met de rol die deze applicaties spelen.
-Bij financiële instellingen draaien ze vaak de meest kritieke workloads. 
-Veranderingen in productie gebeuren er daarom heel strikt en zijn vaak beperkt. 
+
+Dat heeft ook te maken met de rol die deze applicaties spelen bij financiële instellingen,
+ daar draaien ze vaak de meest kritieke workloads. 
+Voor het veranderen van deze kritiek workloads in productie zijn de regels vaak heel beperkend.
 Door deze heel strikte en beperkte manier van werken worden nieuwe problemen soms opgelost met workarounds of minimale aanpassingen.
 Hierdoor zijn oplossingen niet altijd optimaal en de technische schuld blijft verder groeien.
+
+\subsection{CICS als transactieverwerker}%
+\label{sec:cics-transactie}
 
 CICS sluit hier sterk op aan.
 In veel mainframeomgevingen wordt CICS gebruikt om online transacties te verwerken.

@@ -21,6 +21,8 @@
 \contentsline {section}{\numberline {2.6}Onboarding van nieuwe ontwikkelaars in legacy omgevingen }{8}{section.2.6}%
 \contentsline {section}{\numberline {2.7}Competentieframeworks als fundament voor opleidingsopbouw}{9}{section.2.7}%
 \contentsline {section}{\numberline {2.8}PL/I en CICS binnen z/OS-ontwikkeling}{10}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}PL/I als ontwikkeltaal op het mainframe}{10}{subsection.2.8.1}%
+\contentsline {subsection}{\numberline {2.8.2}CICS als transactieverwerker}{11}{subsection.2.8.2}%
 \contentsline {section}{\numberline {2.9}Nood aan een PL/I en CICS-gericht framework}{11}{section.2.9}%
 \contentsline {chapter}{\numberline {3}Methodologie}{12}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Opbouw van de methodologie}{12}{section.3.1}%

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  2 MAY 2026 11:08
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  2 MAY 2026 15:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2017,7 +2017,7 @@ Overfull \hbox (5.75507pt too wide) in paragraph at lines 183--183
 
 
 [36]
-runsystem(latexminted cleantemp  --timestamp 20260502110809 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+runsystem(latexminted cleantemp  --timestamp 20260502150025 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
@@ -2025,16 +2025,16 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `VanHerpeRobbe.out' has not changed.
-(rerunfilecheck)             Checksum: 151EA9D5137E37F23B3456C59D707F1C;10515.
+(rerunfilecheck)             Checksum: 05B9FBCD7C08D6C71ED347017FD99EE1;10995.
 Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 \openout1 = `VanHerpeRobbe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50071 strings out of 473832
- 1034223 string characters out of 5729480
- 2277634 words of memory out of 5000000
- 72345 multiletter control sequences out of 15000+600000
+ 50081 strings out of 473832
+ 1034529 string characters out of 5729480
+ 2277851 words of memory out of 5000000
+ 72355 multiletter control sequences out of 15000+600000
  561857 words of font info for 103 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,12n,131p,1186b,5641s stack positions out of 10000i,1000n,20000p,200000b,200000s

@@ -195,6 +195,79 @@
       \verb https://www.redbooks.ibm.com/abstracts/sg247803.html
       \endverb
     \endentry
+    \entry{dau2024xmainframe}{misc}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=b8e5e682580d65f7796903a74aa427e1}{%
+           family={Dau},
+           familyi={D\bibinitperiod},
+           given={Anh\bibnamedelimb T.\bibnamedelimi V.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68abaf1c4b9a0e0c83c2be05942d663d}{%
+           family={Dao},
+           familyi={D\bibinitperiod},
+           given={Hieu\bibnamedelima Trung},
+           giveni={H\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6daad0fe5e333283760125e3f89966e}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Anh\bibnamedelima Tuan},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac4ed5cf7fc1ea1acd5c94ae8dbf8ca6}{%
+           family={Tran},
+           familyi={T\bibinitperiod},
+           given={Hieu\bibnamedelima Trung},
+           giveni={H\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4add850b5addf3151d69dd56fbea8fac}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Phong\bibnamedelima X.},
+           giveni={P\bibinitperiod\bibinitdelim X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4501a7b8d1881f12ce1f43478d8ec3f}{%
+           family={Bui},
+           familyi={B\bibinitperiod},
+           given={Nghi\bibnamedelimb D.\bibnamedelimi Q.},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{70b65a904975987b80dff3bcbac9937f}
+      \strng{fullhash}{d62abe30634197fd420829de0a7d441c}
+      \strng{fullhashraw}{d62abe30634197fd420829de0a7d441c}
+      \strng{bibnamehash}{d62abe30634197fd420829de0a7d441c}
+      \strng{authorbibnamehash}{d62abe30634197fd420829de0a7d441c}
+      \strng{authornamehash}{70b65a904975987b80dff3bcbac9937f}
+      \strng{authorfullhash}{d62abe30634197fd420829de0a7d441c}
+      \strng{authorfullhashraw}{d62abe30634197fd420829de0a7d441c}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{month}{8}
+      \field{note}{Open access via arXiv}
+      \field{title}{{XMainframe}: A Large Language Model for Mainframe Modernization}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.48550/arXiv.2408.04660
+      \endverb
+      \verb{eprint}
+      \verb 2408.04660
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2408.04660
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2408.04660
+      \endverb
+    \endentry
     \entry{ebbers2005}{book}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=0572753d621e10f0b9d63fd3e44eee30}{%
@@ -1004,6 +1077,79 @@
       \endverb
       \verb{url}
       \verb https://www.redbooks.ibm.com/abstracts/sg247803.html
+      \endverb
+    \endentry
+    \entry{dau2024xmainframe}{misc}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=b8e5e682580d65f7796903a74aa427e1}{%
+           family={Dau},
+           familyi={D\bibinitperiod},
+           given={Anh\bibnamedelimb T.\bibnamedelimi V.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68abaf1c4b9a0e0c83c2be05942d663d}{%
+           family={Dao},
+           familyi={D\bibinitperiod},
+           given={Hieu\bibnamedelima Trung},
+           giveni={H\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6daad0fe5e333283760125e3f89966e}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Anh\bibnamedelima Tuan},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac4ed5cf7fc1ea1acd5c94ae8dbf8ca6}{%
+           family={Tran},
+           familyi={T\bibinitperiod},
+           given={Hieu\bibnamedelima Trung},
+           giveni={H\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4add850b5addf3151d69dd56fbea8fac}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Phong\bibnamedelima X.},
+           giveni={P\bibinitperiod\bibinitdelim X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4501a7b8d1881f12ce1f43478d8ec3f}{%
+           family={Bui},
+           familyi={B\bibinitperiod},
+           given={Nghi\bibnamedelimb D.\bibnamedelimi Q.},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{70b65a904975987b80dff3bcbac9937f}
+      \strng{fullhash}{d62abe30634197fd420829de0a7d441c}
+      \strng{fullhashraw}{d62abe30634197fd420829de0a7d441c}
+      \strng{bibnamehash}{d62abe30634197fd420829de0a7d441c}
+      \strng{authorbibnamehash}{d62abe30634197fd420829de0a7d441c}
+      \strng{authornamehash}{70b65a904975987b80dff3bcbac9937f}
+      \strng{authorfullhash}{d62abe30634197fd420829de0a7d441c}
+      \strng{authorfullhashraw}{d62abe30634197fd420829de0a7d441c}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{month}{8}
+      \field{note}{Open access via arXiv}
+      \field{title}{{XMainframe}: A Large Language Model for Mainframe Modernization}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.48550/arXiv.2408.04660
+      \endverb
+      \verb{eprint}
+      \verb 2408.04660
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2408.04660
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2408.04660
       \endverb
     \endentry
     \entry{ebbers2005}{book}{}{}
