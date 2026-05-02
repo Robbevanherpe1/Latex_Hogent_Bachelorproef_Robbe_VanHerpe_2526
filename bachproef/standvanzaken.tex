@@ -75,21 +75,36 @@ Een mainframe is gebouwd om de downtime zo veel mogelijk te verkleinen om bedrij
 \subsection{Veiligheid}%
 \label{sec:Veiligheid-mainframe}
 
-Een van de belangerijkste kenmerken van een mainframe is zijn securability.
-Dit wordt dan ook besproken in de vershillende studies en papers van onderandere \cite{spruth2010} en \cite{ebbers2005}.
+Een van de belangerijkste kenmerken van een mainframe is zijn hoge securability,
+ wat besproken in vershillende studies en papers van onder andere \cite{spruth2010} en \cite{ebbers2005}.
 Een mainframe is van bij het begin ontworpen om zo veilig mogelijk gemaakt te worden.
-Dit mag wel niet in verwarring gebracht worden met "secure by design", want een mainframe is maar zo veilig als de beveiliging die er is op gezet.
-Maar over het algemeen is de mainframe in veel bedrijven het meest veilige systeem tegen cybercriminals.
 
-De nieuwste mainframes zijn zelfs "quantom safe" wat wil zeggen dat met een quantom computer zijn beveiligings algoritmes niet te kraken zijn.
-Net hiervoor zetten veel bedrijven nog steeds in op de mainframe voor hun meest kritieke workloads op te draaien.
+Dit mag wel niet in verwarring gebracht worden met "secure by design", een mainframe is maar zo veilig als de beveiligings maatregelen die er op geconfigureerd worden \cite{buecker2016security}.
+
+Maar over het algemeen is de mainframe in veel bedrijven het meest veilige systeem tegen cybercriminelen,
+ mede doordat IBM de hardware en software ontwikkeld wat mogelijk maakt om beveiligingen op alle niveaus te plaatsen \cite{buecker2016security}.
+
+Een voorbeeld van dit hoge niveau aan veiligheid is dat vanaf de Z16 mainframe de beveiliging kwantum veilig is.
+De Z16 was het eerste systeem in de industrie die kwantum cryptograpfie over verschillende lagen van firmware toepaste.
+Dit werd bereikt door het toepassen van algoritmes bij versleuteling die geselecteerd zijn door NIST als post kwantum standaart \cite{bradbury2021quantumsafe}.
+Zo is de mainframe met zijn beveiligings algoritmes bestand tegen toekomstige kwantum computers, wat een extra troef is tegenover andere systemen.
+
 
 \subsection{Virtualisatie}%
 \label{sec:virtualisatie-mainframe}
 
-Een tweede kenmerk van een mainframe is het gebruik van virtualisatie door LPARS, dit zijn logishe partities op een software niveau dat er voor zorgen dat één systeem zich kan gedragen als twee afhankelijke systemen.
-Deze twee systemen kunnen een eigen operating systeem draaien en beschikken ook over hun eigen resources binnen het systeem.
-Het groote voordeel hiervan is dat de workload kan verdeelt worden over de vershillende Lpars en wanneer iets foutloopt binnen een LPAR blijft de impact beperkt tot zijn resouces.
+Een tweede kenmerk van een mainframe is de ondersteuning voor virtualisatie door het gebruik van logische partieties (LPARS).
+Deze LPARS zijn logsihe partieties die een fysieke machine opslitsen in meerdere compleet afhankelijke virtuele systemen \cite{buecker2016security}.
+De mainframe wordt dan op software niveau verdeelt zodat elke LPAR  over zijn eigen resources beschikt.
+Daarnaast kan iedere LPAR zijn eigen besturingssyteem draaien wat zorgt voor het zeer hoge flexibiliteit.
+
+Deze virtualisatie laag brengt dan enkele concrete voordelen.
+Ten eerste laat het toe om workloads heel flexibel te verdelen tussen vershillende partities, wat zorgt voor optimaal gebruik van de resources.
+Een tweede voordeel dat een virtualisatie laag bied is dat fouten binnen een LPAR beperkt blijven tot zijn resources.
+Naast deze voordelen voor het systeem en de workloads geeft het ook de mogelijkhied om de machine op te delen in vershillende enviroments.
+Deze enviroments kunnen dan op één machine dienen voor ontwikkeling of test omgevingen, wat organisaties extra flexibiliteit geeft bij het beslissen van hoeveel machines ze nodig hebben.
+Door het opdelen van het systeem met een tussen laag kan er ook extra beveiliging aan gebracht worden tussen deze lagen.
+Hierdoor is het gebruik logishe partities binnen een mainframe heel voordelig binnen grote organisaties..
 
 \subsection{Beschikbaarheid en betrouwbaarheid}%
 \label{sec:beschikbaarheid-mainframe}
@@ -142,10 +157,6 @@ Door deze evolutie is de rekenkracht tot wel 4 maal vergroot, wat de mainframe i
 \section{Mainframe-ontwikkeling in een hedendaagse context}%
 \label{sec:mainframe_context}
 
-Daarnaast worden mainframes gebruikt voor het hosten van commerciële databanken, transactieservers en toepassingen die een hoge mate van veiligheid, beschikbaarheid en betrouwbaarheid vereisen \cite{ebbers2005}.
-Daardoor zijn zij bijzonder geschikt voor bedrijfskritische omgevingen waarin grote aantallen gebruikers, toepassingen en transacties gelijktijdig verwerkt moeten worden \cite{ebbers2005}.
-
-
 Hoewel mainframe-technologie vaak als verouderd technologie wordt beschouwd, blijft door voorgaande kenmerken de mainframe een cruciaal onderdeel om bedrijfskritische processen te draaien in bepaalde sectoren.
 Organisaties die sterk inzetten op betrouwbaarheid, beschikbaarheid en voorspelbare verwerking blijven daarom investeren in z/OS-omgevingen. 
 Voor deze organisaties word de mainframe gezien als een gespecialiseerd platform voor hun bedrijfskritieke teopassingen.
@@ -177,15 +188,14 @@ Hierdoor ontstaat een vicieuze cirkel, minder onderwijsaanbod leidt tot minder i
 Voor organisaties zoals Euroclear betekent dit een reëel risico op kennisverlies wanneer ervaren medewerkers op pensioen gaan en hun expertise onvoldoende kan worden overgedragen naar de nieuwe werknemers.
 
 
-
 \section{Initiatieven om instroom van nieuw talent te vergroten}%
 \label{sec:instroom_initiatieven}
 
 Voor dit probleem op te lossen en de kloof te verkleinen zijn er verschillende initiatieven ingezet de laatste jaren om de toegankelijkheid van leermateriaal te vergroten.
 Programma’s zoals IBM Z Xplore verlagen de drempel door deelnemers stapsgewijs kennis te laten opbouwen en die vooruitgang zichtbaar te maken via badges of certificaten. 
-Het gebruiken van certificaten kan zeer motiverend werken en geef een meetbaar element om hun vaardigheden te meten gebruiken als bewijsstuk.
+Door het gebruik van deze certificaten kunnen ze een meetbaar bewijstuk aanbregen van hun vaardigheden en daarnaast werkt dit heel motiverend.
 Ook leertrajecten die dichter aansluiten bij het werkveld zoals IBM apprenticeships.
-Hier word gebruik gemaakt van rolgericht verwachtingen en praktische begeleiding, door een duidelijk pad te hebben voor zich voor te bereiden op een bepaalde job \autocite{ibm_mainframe_apprentice_2023}.
+Hier wordt gebruik gemaakt van rolgericht verwachtingen en praktische begeleiding, door een duidelijk pad te hebben voor zich voor te bereiden op een bepaalde job \autocite{ibm_mainframe_apprentice_2023}.
 Deze initiatieven tonen dat er een duidelijke nood is aan gestructureerde leerpaden, maar ze benadrukken ook dat er een nood is aan validatie en een overzicht van de nodige competenties.
 
 \section{Onboarding van nieuwe ontwikkelaars in legacy omgevingen }%
@@ -193,21 +203,21 @@ Deze initiatieven tonen dat er een duidelijke nood is aan gestructureerde leerpa
 
 Met dit structureel tekort aan nieuw talent is het heel belangerijk om de startende ontwikkelaars zo effectief mogelijk 
 te laten integreren in een team.
-Dit begint al bij de onboarding en waar enkele punten criciaal zijn voor het opbouwen van kennis en vertrouwen bij een nieuw teamlid.
-Literatuur over developer onboarding \autocite{Britto2017} toont aan dat de instroom van nieuwe ontwikkelaars niet enkel afhangt van technishe opleidingen.
+Dit begint al bij de onboarding waar enkele punten criciaal zijn voor het opbouwen van kennis en vertrouwen bij een nieuw teamlid.
+Literatuur over developer onboarding \autocite{Britto2017} toont aan dat de instroom van nieuwe ontwikkelaars niet enkel afhangt van technishe opleidingen, maar dat er meer aspecten dit beinvloeden.
 Het gestructureed inwerkingsprocess blijkt een soms even groot belang te hebben als de technishe skills.
 Britto \autocite{Britto2017} toont aan dat onboarding van developers in legacy softwareteams opgebouwd is uit drie delen: 
 leren, zelfvertrouwen en sociale integratie binnen het team.
 Uit deze studie blijkt dat de eerste taken die een ontwikkelaar krijgt sterk kan beinvloeden hoe snel een nieuwe ontwikkelaar productief kan worden.
 Daarnaast is het belang van goede initiële begeleiding niet te onderschatten.
-Een zelfverzekerde en goed begeleide beginner gaat veer sneller complexe codebasses snappen doordat ze fouten durven te maken.
+Een zelfverzekerde en goed begeleide beginner gaat veer sneller complexe code achitectuur snappen doordat ze fouten durven te maken.
 Daarnaast is het communiceren met ervaren medewerkers een van de punten die een nieuwe ontwikkelaar,
 het meeste kunnen helpen om de complexe systemen van hun bedrijf te snappen.
 Dit is zeer relevant bij legacy systemen waar de complexitiet zeer hoog is en een groot deel de historishe kennis als een vereiste heeft om het hedendaagse te kunnen begrijpen.
 
 Maar voor deze onboarding vlotter te laten verlopen is een kennis aan geschiedenis in legacy systemen 
 en een kleine basis in technishe skills soms net het gene dat iemand heel snel productief kan maken.
-Hiervoor is het gebruik van een competentie framework ideaal en geeft een duidelijkbeeld aan wat nog moet gewerkt worden om productief te zijn.
+Hiervoor is het gebruik van een competentie framework ideaal en geeft een duidelijk beeld over aan wat nog moet gewerkt worden om productief te zijn.
 
 
 \section{Competentieframeworks als fundament voor opleidingsopbouw}%

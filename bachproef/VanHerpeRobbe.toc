@@ -13,7 +13,7 @@
 \contentsline {section}{\numberline {2.2}Belangrijkste kenmerken van een mainframe}{5}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Veiligheid}{5}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Virtualisatie}{5}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Beschikbaarheid en betrouwbaarheid}{5}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.3}Beschikbaarheid en betrouwbaarheid}{6}{subsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.2.4}Mainframe AI}{6}{subsection.2.2.4}%
 \contentsline {section}{\numberline {2.3}Mainframe-ontwikkeling in een hedendaagse context}{7}{section.2.3}%
 \contentsline {section}{\numberline {2.4}Skills gap en vergrijzing als structureel probleem}{7}{section.2.4}%
@@ -21,7 +21,7 @@
 \contentsline {section}{\numberline {2.6}Onboarding van nieuwe ontwikkelaars in legacy omgevingen }{8}{section.2.6}%
 \contentsline {section}{\numberline {2.7}Competentieframeworks als fundament voor opleidingsopbouw}{9}{section.2.7}%
 \contentsline {section}{\numberline {2.8}PL/I en CICS binnen z/OS-ontwikkeling}{10}{section.2.8}%
-\contentsline {section}{\numberline {2.9}Nood aan een PL/I en CICS-gericht framework}{10}{section.2.9}%
+\contentsline {section}{\numberline {2.9}Nood aan een PL/I en CICS-gericht framework}{11}{section.2.9}%
 \contentsline {chapter}{\numberline {3}Methodologie}{12}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Opbouw van de methodologie}{12}{section.3.1}%
 \contentsline {section}{\numberline {3.2}analyse van competenties en requirements }{12}{section.3.2}%

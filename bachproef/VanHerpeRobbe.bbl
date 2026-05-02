@@ -19,6 +19,51 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{bradbury2021quantumsafe}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=533318ed259a4a7f116db4d0baa10d3b}{%
+           family={Bradbury},
+           familyi={B\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b539bf02f6b6c38070d874037138a527}{%
+           family={Hess},
+           familyi={H\bibinitperiod},
+           given={Basil},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {National Institute of Standards}%
+        {Technology (NIST)}%
+      }
+      \strng{namehash}{001cb5c195cfc35f38b477952e1efbdb}
+      \strng{fullhash}{001cb5c195cfc35f38b477952e1efbdb}
+      \strng{fullhashraw}{001cb5c195cfc35f38b477952e1efbdb}
+      \strng{bibnamehash}{001cb5c195cfc35f38b477952e1efbdb}
+      \strng{authorbibnamehash}{001cb5c195cfc35f38b477952e1efbdb}
+      \strng{authornamehash}{001cb5c195cfc35f38b477952e1efbdb}
+      \strng{authorfullhash}{001cb5c195cfc35f38b477952e1efbdb}
+      \strng{authorfullhashraw}{001cb5c195cfc35f38b477952e1efbdb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Third NIST Post-Quantum Cryptography Standardization Conference}
+      \field{note}{Freely available via NIST CSRC}
+      \field{title}{Fast Quantum-Safe Cryptography on {IBM Z}}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/hess-fast-quantum-safe-pqc2021.pdf
+      \endverb
+      \verb{url}
+      \verb https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/hess-fast-quantum-safe-pqc2021.pdf
+      \endverb
+    \endentry
     \entry{Britto2017}{thesis}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3a9d96b2b0349f2f9c69f3c72df5f775}{%
@@ -62,6 +107,92 @@
       \endverb
       \verb{url}
       \verb https://bth.diva-portal.org/smash/get/diva2:1143875/FULLTEXT03.pdf
+      \endverb
+    \endentry
+    \entry{buecker2016security}{book}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=9a53b7a1206afc022ade3bf51a798cd4}{%
+           family={Buecker},
+           familyi={B\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0df544ac19ec27a604e850584a50c85c}{%
+           family={Chakrabarty},
+           familyi={C\bibinitperiod},
+           given={Boudhayan},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b921eadaeb4736bc82b655b89565ac87}{%
+           family={Dymoke-Bradshaw},
+           familyi={D\bibinithyphendelim B\bibinitperiod},
+           given={Lennie},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0207805686e91c2f5880e3f6eadc968}{%
+           family={Goldkorn},
+           familyi={G\bibinitperiod},
+           given={Cesar},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5867d8c0d37ea2fb34ec95b74c99bb65}{%
+           family={Hugenbruch},
+           familyi={H\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86f417b8808d3f604879a726bae1924e}{%
+           family={Nali},
+           familyi={N\bibinitperiod},
+           given={Madhukar\bibnamedelima Reddy},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32ddbdc34220d57abdaf3bfb3b787d74}{%
+           family={Ramalingam},
+           familyi={R\bibinitperiod},
+           given={Vinodkumar},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96bdc86f5bb88e88bd703d252bf3c80d}{%
+           family={Thalouth},
+           familyi={T\bibinitperiod},
+           given={Botrous},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ed0f0b86447a0a9d977fb1f9b78c77b}{%
+           family={Thielmann},
+           familyi={T\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IBM Redbooks}%
+      }
+      \strng{namehash}{4608a9157f9fc75b80bfd71425ddee03}
+      \strng{fullhash}{388b2ee216829ddaca13133fb4bd074f}
+      \strng{fullhashraw}{388b2ee216829ddaca13133fb4bd074f}
+      \strng{bibnamehash}{388b2ee216829ddaca13133fb4bd074f}
+      \strng{authorbibnamehash}{388b2ee216829ddaca13133fb4bd074f}
+      \strng{authornamehash}{4608a9157f9fc75b80bfd71425ddee03}
+      \strng{authorfullhash}{388b2ee216829ddaca13133fb4bd074f}
+      \strng{authorfullhashraw}{388b2ee216829ddaca13133fb4bd074f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Freely available via IBM Redbooks}
+      \field{number}{SG24-7803-01}
+      \field{title}{Reduce Risk and Improve Security on {IBM} Mainframes: Volume 1 Architecture and Platform Security}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.redbooks.ibm.com/abstracts/sg247803.html
+      \endverb
+      \verb{url}
+      \verb https://www.redbooks.ibm.com/abstracts/sg247803.html
       \endverb
     \endentry
     \entry{ebbers2005}{book}{}{}
@@ -699,6 +830,51 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
+    \entry{bradbury2021quantumsafe}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=533318ed259a4a7f116db4d0baa10d3b}{%
+           family={Bradbury},
+           familyi={B\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b539bf02f6b6c38070d874037138a527}{%
+           family={Hess},
+           familyi={H\bibinitperiod},
+           given={Basil},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {National Institute of Standards}%
+        {Technology (NIST)}%
+      }
+      \strng{namehash}{001cb5c195cfc35f38b477952e1efbdb}
+      \strng{fullhash}{001cb5c195cfc35f38b477952e1efbdb}
+      \strng{fullhashraw}{001cb5c195cfc35f38b477952e1efbdb}
+      \strng{bibnamehash}{001cb5c195cfc35f38b477952e1efbdb}
+      \strng{authorbibnamehash}{001cb5c195cfc35f38b477952e1efbdb}
+      \strng{authornamehash}{001cb5c195cfc35f38b477952e1efbdb}
+      \strng{authorfullhash}{001cb5c195cfc35f38b477952e1efbdb}
+      \strng{authorfullhashraw}{001cb5c195cfc35f38b477952e1efbdb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Third NIST Post-Quantum Cryptography Standardization Conference}
+      \field{note}{Freely available via NIST CSRC}
+      \field{title}{Fast Quantum-Safe Cryptography on {IBM Z}}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/hess-fast-quantum-safe-pqc2021.pdf
+      \endverb
+      \verb{url}
+      \verb https://csrc.nist.gov/CSRC/media/Events/third-pqc-standardization-conference/documents/accepted-papers/hess-fast-quantum-safe-pqc2021.pdf
+      \endverb
+    \endentry
     \entry{Britto2017}{thesis}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3a9d96b2b0349f2f9c69f3c72df5f775}{%
@@ -742,6 +918,92 @@
       \endverb
       \verb{url}
       \verb https://bth.diva-portal.org/smash/get/diva2:1143875/FULLTEXT03.pdf
+      \endverb
+    \endentry
+    \entry{buecker2016security}{book}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=9a53b7a1206afc022ade3bf51a798cd4}{%
+           family={Buecker},
+           familyi={B\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0df544ac19ec27a604e850584a50c85c}{%
+           family={Chakrabarty},
+           familyi={C\bibinitperiod},
+           given={Boudhayan},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b921eadaeb4736bc82b655b89565ac87}{%
+           family={Dymoke-Bradshaw},
+           familyi={D\bibinithyphendelim B\bibinitperiod},
+           given={Lennie},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0207805686e91c2f5880e3f6eadc968}{%
+           family={Goldkorn},
+           familyi={G\bibinitperiod},
+           given={Cesar},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5867d8c0d37ea2fb34ec95b74c99bb65}{%
+           family={Hugenbruch},
+           familyi={H\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86f417b8808d3f604879a726bae1924e}{%
+           family={Nali},
+           familyi={N\bibinitperiod},
+           given={Madhukar\bibnamedelima Reddy},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32ddbdc34220d57abdaf3bfb3b787d74}{%
+           family={Ramalingam},
+           familyi={R\bibinitperiod},
+           given={Vinodkumar},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96bdc86f5bb88e88bd703d252bf3c80d}{%
+           family={Thalouth},
+           familyi={T\bibinitperiod},
+           given={Botrous},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ed0f0b86447a0a9d977fb1f9b78c77b}{%
+           family={Thielmann},
+           familyi={T\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IBM Redbooks}%
+      }
+      \strng{namehash}{4608a9157f9fc75b80bfd71425ddee03}
+      \strng{fullhash}{388b2ee216829ddaca13133fb4bd074f}
+      \strng{fullhashraw}{388b2ee216829ddaca13133fb4bd074f}
+      \strng{bibnamehash}{388b2ee216829ddaca13133fb4bd074f}
+      \strng{authorbibnamehash}{388b2ee216829ddaca13133fb4bd074f}
+      \strng{authornamehash}{4608a9157f9fc75b80bfd71425ddee03}
+      \strng{authorfullhash}{388b2ee216829ddaca13133fb4bd074f}
+      \strng{authorfullhashraw}{388b2ee216829ddaca13133fb4bd074f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Freely available via IBM Redbooks}
+      \field{number}{SG24-7803-01}
+      \field{title}{Reduce Risk and Improve Security on {IBM} Mainframes: Volume 1 Architecture and Platform Security}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.redbooks.ibm.com/abstracts/sg247803.html
+      \endverb
+      \verb{url}
+      \verb https://www.redbooks.ibm.com/abstracts/sg247803.html
       \endverb
     \endentry
     \entry{ebbers2005}{book}{}{}
