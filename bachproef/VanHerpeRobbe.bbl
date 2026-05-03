@@ -317,6 +317,46 @@
       \verb https://www.mabu.org/zosbasic.pdf
       \endverb
     \endentry
+    \entry{horswill2000cics}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=66a7c7bbb6cc54928733840079042026}{%
+           family={Horswill},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=862e2a302decc3e68c5fa71faf4a90d1}{%
+           family={{Members of the CICS Development Team at IBM Hursley}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media}%
+      }
+      \strng{namehash}{bcc5bf02f512700b5fc926772ad935d3}
+      \strng{fullhash}{bcc5bf02f512700b5fc926772ad935d3}
+      \strng{fullhashraw}{bcc5bf02f512700b5fc926772ad935d3}
+      \strng{bibnamehash}{bcc5bf02f512700b5fc926772ad935d3}
+      \strng{authorbibnamehash}{bcc5bf02f512700b5fc926772ad935d3}
+      \strng{authornamehash}{bcc5bf02f512700b5fc926772ad935d3}
+      \strng{authorfullhash}{bcc5bf02f512700b5fc926772ad935d3}
+      \strng{authorfullhashraw}{bcc5bf02f512700b5fc926772ad935d3}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781565926455}
+      \field{title}{Designing and Programming {CICS} Applications}
+      \field{year}{2000}
+      \verb{urlraw}
+      \verb https://books.google.be/books?id=73HYZLODkXEC
+      \endverb
+      \verb{url}
+      \verb https://books.google.be/books?id=73HYZLODkXEC
+      \endverb
+    \endentry
     \entry{ibm_z_sysadmin_level1}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
@@ -348,10 +388,10 @@
       \field{type}{techreport}
       \field{year}{2023}
       \verb{urlraw}
-      \verb https://www.ibm.com/training/credentials
+      \verb https://community.ibm.com/zsystems/uploads/document/slider/now8w2cj1q.pdf
       \endverb
       \verb{url}
-      \verb https://www.ibm.com/training/credentials
+      \verb https://community.ibm.com/zsystems/uploads/document/slider/now8w2cj1q.pdf
       \endverb
     \endentry
     \entry{ibm_z_sysadmin_level2}{report}{}{}
@@ -385,10 +425,10 @@
       \field{type}{techreport}
       \field{year}{2023}
       \verb{urlraw}
-      \verb https://www.ibm.com/training/credentials
+      \verb https://community.ibm.com/zsystems/uploads/document/slider/c101df0smuh.pdf
       \endverb
       \verb{url}
-      \verb https://www.ibm.com/training/credentials
+      \verb https://community.ibm.com/zsystems/uploads/document/slider/c101df0smuh.pdf
       \endverb
     \endentry
     \entry{ibm_mainframe_apprentice_2023}{manual}{}{}
@@ -1201,6 +1241,46 @@
       \verb https://www.mabu.org/zosbasic.pdf
       \endverb
     \endentry
+    \entry{horswill2000cics}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=66a7c7bbb6cc54928733840079042026}{%
+           family={Horswill},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=862e2a302decc3e68c5fa71faf4a90d1}{%
+           family={{Members of the CICS Development Team at IBM Hursley}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media}%
+      }
+      \strng{namehash}{bcc5bf02f512700b5fc926772ad935d3}
+      \strng{fullhash}{bcc5bf02f512700b5fc926772ad935d3}
+      \strng{fullhashraw}{bcc5bf02f512700b5fc926772ad935d3}
+      \strng{bibnamehash}{bcc5bf02f512700b5fc926772ad935d3}
+      \strng{authorbibnamehash}{bcc5bf02f512700b5fc926772ad935d3}
+      \strng{authornamehash}{bcc5bf02f512700b5fc926772ad935d3}
+      \strng{authorfullhash}{bcc5bf02f512700b5fc926772ad935d3}
+      \strng{authorfullhashraw}{bcc5bf02f512700b5fc926772ad935d3}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781565926455}
+      \field{title}{Designing and Programming {CICS} Applications}
+      \field{year}{2000}
+      \verb{urlraw}
+      \verb https://books.google.be/books?id=73HYZLODkXEC
+      \endverb
+      \verb{url}
+      \verb https://books.google.be/books?id=73HYZLODkXEC
+      \endverb
+    \endentry
     \entry{ibm_z_sysadmin_level1}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
@@ -1232,10 +1312,10 @@
       \field{type}{techreport}
       \field{year}{2023}
       \verb{urlraw}
-      \verb https://www.ibm.com/training/credentials
+      \verb https://community.ibm.com/zsystems/uploads/document/slider/now8w2cj1q.pdf
       \endverb
       \verb{url}
-      \verb https://www.ibm.com/training/credentials
+      \verb https://community.ibm.com/zsystems/uploads/document/slider/now8w2cj1q.pdf
       \endverb
     \endentry
     \entry{ibm_z_sysadmin_level2}{report}{}{}
@@ -1269,10 +1349,10 @@
       \field{type}{techreport}
       \field{year}{2023}
       \verb{urlraw}
-      \verb https://www.ibm.com/training/credentials
+      \verb https://community.ibm.com/zsystems/uploads/document/slider/c101df0smuh.pdf
       \endverb
       \verb{url}
-      \verb https://www.ibm.com/training/credentials
+      \verb https://community.ibm.com/zsystems/uploads/document/slider/c101df0smuh.pdf
       \endverb
     \endentry
     \entry{ibm_mainframe_apprentice_2023}{manual}{}{}
