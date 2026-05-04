@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  4 MAY 2026 16:26
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  4 MAY 2026 19:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1956,13 +1956,15 @@ Hoofdstuk 6.
 
 [28
 
-])
+]
 
-[29]
+[29])
+
+[30]
 B\ij lage A.
 (../voorstel/voorstel-inhoud.tex
 
-[30
+[31
 
 ]
 Overfull \hbox (0.17656pt too wide) in paragraph at lines 92--93
@@ -1971,9 +1973,9 @@ Overfull \hbox (0.17656pt too wide) in paragraph at lines 92--93
 
 
 
-[31]
-
 [32]
+
+[33]
 File: ../voorstel/Gantt Chart.png Graphic file (type bmp)
 <../voorstel/Gantt Chart.png>
 
@@ -1983,16 +1985,16 @@ Overfull \hbox (32.93776pt too wide) in paragraph at lines 160--168
 
 
 
-[33]
+[34]
 Overfull \hbox (7.41966pt too wide) in paragraph at lines 223--226
 \TU/Montserrat(1)/m/n/10.95 competentieframework voor PL1 en CICS developers. Aan de hand van deze learning-
  []
 
 
 
-[34])
+[35])
 
-[35]
+[36]
 Overfull \hbox (17.40071pt too wide) in paragraph at lines 183--183
 [][][][][][][][][][][][][][][] [][] [][][][][][][][][][] [] [][][][][][][][][] [] [][][][][][][][] [][] [][][][][][] [] [][][][] [][] [][][][] [][] [][][][][][][] [][]
  []
@@ -2008,7 +2010,7 @@ Overfull \hbox (7.64673pt too wide) in paragraph at lines 183--183
 
 
 
-[36
+[37
 
 
 ]
@@ -2018,8 +2020,8 @@ Overfull \hbox (5.75507pt too wide) in paragraph at lines 183--183
 
 
 
-[37]
-runsystem(latexminted cleantemp  --timestamp 20260504162629 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+[38]
+runsystem(latexminted cleantemp  --timestamp 20260504193543 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
@@ -2027,18 +2029,18 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `VanHerpeRobbe.out' has not changed.
-(rerunfilecheck)             Checksum: 138A25F060B36374310426551E6FCC7E;11257.
+(rerunfilecheck)             Checksum: 923A3D6B122A2CF346889F282A314451;12442.
 Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 \openout1 = `VanHerpeRobbe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50096 strings out of 473832
- 1034887 string characters out of 5729480
- 2279006 words of memory out of 5000000
- 72370 multiletter control sequences out of 15000+600000
+ 50100 strings out of 473832
+ 1035035 string characters out of 5729480
+ 2278349 words of memory out of 5000000
+ 72374 multiletter control sequences out of 15000+600000
  561857 words of font info for 103 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,12n,131p,1186b,5641s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on VanHerpeRobbe.pdf (46 pages).
+Output written on VanHerpeRobbe.pdf (47 pages).
