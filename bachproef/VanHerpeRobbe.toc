@@ -48,10 +48,10 @@
 \contentsline {subsubsection}{short}{23}{subsection.5.2.2}%
 \contentsline {subsubsection}{short}{23}{subsection.5.2.2}%
 \contentsline {subsection}{\numberline {5.2.3}Bepalen opbouw van de modules}{23}{subsection.5.2.3}%
-\contentsline {subsubsection}{short}{24}{subsection.5.2.3}%
-\contentsline {subsubsection}{short}{24}{subsection.5.2.3}%
-\contentsline {subsubsection}{short}{25}{subsection.5.2.3}%
-\contentsline {section}{\numberline {5.3}competenties learned in proof of concept}{26}{section.5.3}%
+\contentsline {subsection}{\numberline {5.2.4}short}{24}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}short}{24}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}short}{25}{subsection.5.2.6}%
+\contentsline {subsection}{\numberline {5.2.7}Competenties per module}{26}{subsection.5.2.7}%
 \contentsline {chapter}{\numberline {6}Conclusie}{28}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Antwoord op de onderzoeksvraag}{28}{section.6.1}%
 \contentsline {section}{\numberline {6.2}Bijdrage aan het onderzoeksdomein}{29}{section.6.2}%

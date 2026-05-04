@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  4 MAY 2026 19:44
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  4 MAY 2026 22:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1798,11 +1798,7 @@ Overfull \hbox (15.11966pt too wide) in paragraph at lines 86--87
 
 
 
-[2]
-
-LaTeX Warning: Reference `ch:Intervieuws' on page 3 undefined on input line 114.
-
-) (./standvanzaken.tex
+[2]) (./standvanzaken.tex
 
 [3]
 Hoofdstuk 2.
@@ -1904,51 +1900,62 @@ File: ../graphics/site5.png Graphic file (type bmp)
 [22]
 
 [23]
-File: ../graphics/site3.png Graphic file (type bmp)
-<../graphics/site3.png>
+File: ../graphics/theorie.png Graphic file (type bmp)
+<../graphics/theorie.png>
 
 
 [24]
-File: ../graphics/site2.png Graphic file (type bmp)
-<../graphics/site2.png>
-File: ../graphics/site4.png Graphic file (type bmp)
-<../graphics/site4.png>
+File: ../graphics/exercise.png Graphic file (type bmp)
+<../graphics/exercise.png>
 
 
 [25]
-Overfull \hbox (1.48328pt too wide) in paragraph at lines 239--244
-\TU/Montserrat(1)/m/n/10.95 wacht wordt en doorloopt steeds dezelfde logische opbouw: eerst begrijpen daarna
+File: ../graphics/quiz.png Graphic file (type bmp)
+<../graphics/quiz.png>
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
+(Font)              scaled to size 10.00107pt on input line 260.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
+(Font)              scaled to size 7.00075pt on input line 260.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
+(Font)              scaled to size 5.00053pt on input line 260.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 260.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 260.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 260.
+
+Underfull \hbox (badness 6125) in paragraph at lines 265--265
+[]|\TU/Montserrat(2)/b/n/10 Origins and Evolution of
  []
 
 
-Underfull \hbox (badness 5954) in paragraph at lines 261--261
-[]|\TU/Montserrat(2)/b/n/10.95 Origins and Evolution of
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
+[]|\TU/Montserrat(2)/b/n/10 Environment Setup and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 267--267
-[]|\TU/Montserrat(2)/b/n/10.95 Environment Setup and
+Underfull \hbox (badness 1762) in paragraph at lines 293--293
+[]|\TU/Montserrat(2)/b/n/10 PL/I and CICS Integration
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 268--271
-\TU/Montserrat(1)/m/n/10.95 Zelfstandig navigeren binnen de mainframe-
+Underfull \hbox (badness 10000) in paragraph at lines 294--298
+\TU/Montserrat(2)/m/n/10 concepten zoals gegevensdoorgifte tussen pro-
  []
 
 
-Underfull \hbox (badness 2310) in paragraph at lines 280--283
-\TU/Montserrat(1)/m/n/10.95 De samenhang tussen PL/I-programma’s en
+Underfull \hbox (badness 2961) in paragraph at lines 294--298
+\TU/Montserrat(2)/m/n/10 gramma’s en transactiestappen toe in een geïnte-
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 291--291
-[]|\TU/Montserrat(2)/b/n/10.95 PL/I and CICS Integration
+Underfull \hbox (badness 1490) in paragraph at lines 294--298
+\TU/Montserrat(2)/b/n/10 11.0 Codeanalyse en onderhoud: \TU/Montserrat(2)/m/n/10 de student leert
  []
 
 
-Underfull \hbox (badness 5022) in paragraph at lines 292--295
-[]|\TU/Montserrat(1)/m/n/10.95 PL/I-programma’s correct integreren binnen
- []
+LaTeX Warning: Float too large for page by 175.14288pt on input line 301.
 
 ) (./conclusie.tex
 
@@ -2025,29 +2032,25 @@ Overfull \hbox (5.75507pt too wide) in paragraph at lines 183--183
 
 
 [38]
-runsystem(latexminted cleantemp  --timestamp 20260504194459 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+runsystem(latexminted cleantemp  --timestamp 20260504220545 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `VanHerpeRobbe.out' has not changed.
-(rerunfilecheck)             Checksum: A2C6B806F16C4B0A8D2F05C287865B09;12422.
+(rerunfilecheck)             Checksum: 9431BA87EAA0CA2DB2630F6B6A416E09;12596.
 Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 \openout1 = `VanHerpeRobbe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50101 strings out of 473832
- 1035047 string characters out of 5729480
- 2279344 words of memory out of 5000000
- 72375 multiletter control sequences out of 15000+600000
- 561857 words of font info for 103 fonts, out of 8000000 for 9000
+ 50172 strings out of 473832
+ 1037674 string characters out of 5729480
+ 2279351 words of memory out of 5000000
+ 72429 multiletter control sequences out of 15000+600000
+ 562653 words of font info for 117 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,12n,131p,1186b,5641s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
