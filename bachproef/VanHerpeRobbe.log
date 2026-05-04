@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  4 MAY 2026 19:35
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  4 MAY 2026 19:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1798,7 +1798,11 @@ Overfull \hbox (15.11966pt too wide) in paragraph at lines 86--87
 
 
 
-[2]) (./standvanzaken.tex
+[2]
+
+LaTeX Warning: Reference `ch:Intervieuws' on page 3 undefined on input line 114.
+
+) (./standvanzaken.tex
 
 [3]
 Hoofdstuk 2.
@@ -2021,24 +2025,28 @@ Overfull \hbox (5.75507pt too wide) in paragraph at lines 183--183
 
 
 [38]
-runsystem(latexminted cleantemp  --timestamp 20260504193543 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+runsystem(latexminted cleantemp  --timestamp 20260504194459 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `VanHerpeRobbe.out' has not changed.
-(rerunfilecheck)             Checksum: 923A3D6B122A2CF346889F282A314451;12442.
+(rerunfilecheck)             Checksum: A2C6B806F16C4B0A8D2F05C287865B09;12422.
 Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 \openout1 = `VanHerpeRobbe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50100 strings out of 473832
- 1035035 string characters out of 5729480
- 2278349 words of memory out of 5000000
- 72374 multiletter control sequences out of 15000+600000
+ 50101 strings out of 473832
+ 1035047 string characters out of 5729480
+ 2279344 words of memory out of 5000000
+ 72375 multiletter control sequences out of 15000+600000
  561857 words of font info for 103 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,12n,131p,1186b,5641s stack positions out of 10000i,1000n,20000p,200000b,200000s

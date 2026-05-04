@@ -29,13 +29,13 @@
 \contentsline {section}{\numberline {3.1}Opbouw van de methodologie}{13}{section.3.1}%
 \contentsline {section}{\numberline {3.2}analyse van competenties en requirements }{13}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Opstellen initeel competentieframework}{13}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Intervieuws met professional uit het werkveld}{14}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.2}Interviews met professional uit het werkveld}{14}{subsection.3.2.2}%
 \contentsline {section}{\numberline {3.3}ontwikkelen proof of concept }{15}{section.3.3}%
 \contentsline {section}{\numberline {3.4}valideren competentieframework }{16}{section.3.4}%
-\contentsline {chapter}{\numberline {4}intervieuws}{17}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Structuur en opbouw van de intervieuws}{17}{section.4.1}%
+\contentsline {chapter}{\numberline {4}interviews}{17}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Structuur en opbouw van de interviews}{17}{section.4.1}%
 \contentsline {section}{\numberline {4.2}antwoorden van professionals}{18}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Conclusie van de intervieuws}{19}{section.4.3}%
+\contentsline {section}{\numberline {4.3}Conclusie van de interviews}{19}{section.4.3}%
 \contentsline {chapter}{\numberline {5}Framework en PoC}{20}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Structuur en opbouw van het framework}{20}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Structuur en opbouw van de PoC leersite}{20}{section.5.2}%
