@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  3 MAY 2026 16:37
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  4 MAY 2026 11:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1912,37 +1912,37 @@ File: ../graphics/site4.png Graphic file (type bmp)
 
 
 [25]
-Overfull \hbox (1.48328pt too wide) in paragraph at lines 240--245
+Overfull \hbox (1.48328pt too wide) in paragraph at lines 239--244
 \TU/Montserrat(1)/m/n/10.95 wacht wordt en doorloopt steeds dezelfde logische opbouw: eerst begrijpen daarna
  []
 
 
-Underfull \hbox (badness 5954) in paragraph at lines 262--262
+Underfull \hbox (badness 5954) in paragraph at lines 261--261
 []|\TU/Montserrat(2)/b/n/10.95 Origins and Evolution of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 267--267
 []|\TU/Montserrat(2)/b/n/10.95 Environment Setup and
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 269--272
+Underfull \hbox (badness 1472) in paragraph at lines 268--271
 \TU/Montserrat(1)/m/n/10.95 Zelfstandig navigeren binnen de mainframe-
  []
 
 
-Underfull \hbox (badness 2310) in paragraph at lines 281--284
+Underfull \hbox (badness 2310) in paragraph at lines 280--283
 \TU/Montserrat(1)/m/n/10.95 De samenhang tussen PL/I-programma’s en
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 292--292
+Underfull \hbox (badness 1688) in paragraph at lines 291--291
 []|\TU/Montserrat(2)/b/n/10.95 PL/I and CICS Integration
  []
 
 
-Underfull \hbox (badness 5022) in paragraph at lines 293--296
+Underfull \hbox (badness 5022) in paragraph at lines 292--295
 []|\TU/Montserrat(1)/m/n/10.95 PL/I-programma’s correct integreren binnen
  []
 
@@ -2019,7 +2019,7 @@ Overfull \hbox (5.75507pt too wide) in paragraph at lines 183--183
 
 
 [37]
-runsystem(latexminted cleantemp  --timestamp 20260503163702 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+runsystem(latexminted cleantemp  --timestamp 20260504110339 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
@@ -2033,10 +2033,10 @@ Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50088 strings out of 473832
- 1034788 string characters out of 5729480
- 2278001 words of memory out of 5000000
- 72362 multiletter control sequences out of 15000+600000
+ 50089 strings out of 473832
+ 1034799 string characters out of 5729480
+ 2279006 words of memory out of 5000000
+ 72363 multiletter control sequences out of 15000+600000
  561857 words of font info for 103 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,12n,131p,1186b,5641s stack positions out of 10000i,1000n,20000p,200000b,200000s
