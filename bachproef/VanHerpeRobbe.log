@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  7 MAY 2026 20:38
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  8 MAY 2026 21:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1909,55 +1909,55 @@ File: ../graphics/theorie.png Graphic file (type bmp)
 [25]
 File: ../graphics/exercise.png Graphic file (type bmp)
 <../graphics/exercise.png>
-File: ../graphics/quiz.png Graphic file (type bmp)
-<../graphics/quiz.png>
 
 
 [26]
+File: ../graphics/quiz.png Graphic file (type bmp)
+<../graphics/quiz.png>
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 300.
+(Font)              scaled to size 10.00107pt on input line 312.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 300.
+(Font)              scaled to size 7.00075pt on input line 312.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 300.
+(Font)              scaled to size 5.00053pt on input line 312.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 300.
+(Font)              scaled to size 9.99893pt on input line 312.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 300.
+(Font)              scaled to size 6.99925pt on input line 312.
 LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 300.
+(Font)              scaled to size 4.99947pt on input line 312.
 
-Underfull \hbox (badness 6125) in paragraph at lines 305--305
+Underfull \hbox (badness 6125) in paragraph at lines 317--317
 []|\TU/Montserrat(2)/b/n/10 Origins and Evolution of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--310
+Underfull \hbox (badness 10000) in paragraph at lines 322--322
 []|\TU/Montserrat(2)/b/n/10 Environment Setup and
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 333--333
+Underfull \hbox (badness 1762) in paragraph at lines 345--345
 []|\TU/Montserrat(2)/b/n/10 PL/I and CICS Integration
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--338
+Underfull \hbox (badness 10000) in paragraph at lines 346--350
 \TU/Montserrat(2)/m/n/10 concepten zoals gegevensdoorgifte tussen pro-
  []
 
 
-Underfull \hbox (badness 2961) in paragraph at lines 334--338
+Underfull \hbox (badness 2961) in paragraph at lines 346--350
 \TU/Montserrat(2)/m/n/10 gramma’s en transactiestappen toe in een geïnte-
  []
 
 
-Underfull \hbox (badness 1490) in paragraph at lines 334--338
+Underfull \hbox (badness 1490) in paragraph at lines 346--350
 \TU/Montserrat(2)/b/n/10 11.0 Codeanalyse en onderhoud: \TU/Montserrat(2)/m/n/10 de student leert
  []
 
 
-LaTeX Warning: Float too large for page by 175.14288pt on input line 341.
+LaTeX Warning: Float too large for page by 175.14288pt on input line 353.
 
 ) (./conclusie.tex
 
@@ -2034,7 +2034,7 @@ Overfull \hbox (5.75507pt too wide) in paragraph at lines 183--183
 
 
 [39]
-runsystem(latexminted cleantemp  --timestamp 20260507203814 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+runsystem(latexminted cleantemp  --timestamp 20260508210408 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
@@ -2042,16 +2042,16 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `VanHerpeRobbe.out' has not changed.
-(rerunfilecheck)             Checksum: B8B21967DF21C00A12287536EEB41A93;13262.
+(rerunfilecheck)             Checksum: F4694B0E61F7285C7915A55CA845606E;13269.
 Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 \openout1 = `VanHerpeRobbe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50140 strings out of 473832
- 1036919 string characters out of 5729480
- 2279541 words of memory out of 5000000
- 72401 multiletter control sequences out of 15000+600000
+ 50143 strings out of 473832
+ 1037015 string characters out of 5729480
+ 2279713 words of memory out of 5000000
+ 72404 multiletter control sequences out of 15000+600000
  562653 words of font info for 117 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,12n,131p,1186b,5641s stack positions out of 10000i,1000n,20000p,200000b,200000s
