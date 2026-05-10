@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  8 MAY 2026 21:04
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  10 MAY 2026 17:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1721,44 +1721,29 @@ Overfull \hbox (4.12587pt too wide) in paragraph at lines 14--4
 
 [5
 
-])
+]
+
+[6])
 \tf@toc=\write7
 \openout7 = `VanHerpeRobbe.toc'.
 
 
 
-[6] (./VanHerpeRobbe.lof)
+[7] (./VanHerpeRobbe.lof)
 \tf@lof=\write8
 \openout8 = `VanHerpeRobbe.lof'.
 
 
 
-[7
+[8
 
-] (./VanHerpeRobbe.lot
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `FiraMathRegular' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
-(Font)              scaled to size 10.95116pt on input line 7.
-LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
-(Font)              scaled to size 7.88484pt on input line 7.
-LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
-(Font)              scaled to size 6.35167pt on input line 7.
-LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 7.
-LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
-(Font)              scaled to size 7.88315pt on input line 7.
-LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
-(Font)              scaled to size 6.35031pt on input line 7.
-)
+] (./VanHerpeRobbe.lot)
 \tf@lot=\write9
 \openout9 = `VanHerpeRobbe.lot'.
 
 
 
-[8
+[9
 
 ] (./VanHerpeRobbe.lol)
 \tf@lol=\write10
@@ -1766,7 +1751,7 @@ LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
 
 
 
-[9
+[10
 
 
 ] (./inleiding.tex
@@ -1893,8 +1878,15 @@ Hoofdstuk 5.
 ]
 
 [21]
-File: ../graphics/mainscreen.png Graphic file (type bmp)
-<../graphics/mainscreen.png>
+Overfull \hbox (4.0894pt too wide) in paragraph at lines 95--96
+[]\TU/Montserrat(2)/b/n/10.95 Buildprocessen en Foutafhandeling (Competentie 8-10): \TU/Montserrat(1)/m/n/10.95 Behandelt de build-
+ []
+
+
+Overfull \hbox (5.4934pt too wide) in paragraph at lines 97--98
+\TU/Montserrat(1)/m/n/10.95 de historische context en modernisering. Dit is cruciaal om de blijvende waarde
+ []
+
 
 
 [22]
@@ -1902,82 +1894,63 @@ File: ../graphics/mainscreen.png Graphic file (type bmp)
 [23]
 
 [24]
+
+[25]
+Overfull \hbox (1.14893pt too wide) in paragraph at lines 237--241
+\TU/Montserrat(1)/m/n/10.95 Voor theorie inhoud wordt waar mogelijk Markdown gebruikt, omdat het laagdrem-
+ []
+
+
+
+[26]
+File: ../graphics/mainscreen.png Graphic file (type bmp)
+<../graphics/mainscreen.png>
+
+
+[27]
+Overfull \hbox (4.84494pt too wide) in paragraph at lines 281--282
+[]\TU/Montserrat(1)/m/n/10.95 Deze module sluit direct aan op competentie 12.0 (Historische en enterprise-context)
+ []
+
+
+Overfull \hbox (6.71367pt too wide) in paragraph at lines 315--318
+\TU/Montserrat(1)/m/n/10.95 om later PL1 programma’s succesvol in een transactionele omgeving te laten draaien.
+ []
+
+
+
+[28]
+
+[29]
 File: ../graphics/theorie.png Graphic file (type bmp)
 <../graphics/theorie.png>
 
 
-[25]
+[30]
 File: ../graphics/exercise.png Graphic file (type bmp)
 <../graphics/exercise.png>
 
 
-[26]
+[31]
 File: ../graphics/quiz.png Graphic file (type bmp)
 <../graphics/quiz.png>
-LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 312.
-LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 312.
-LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 312.
-LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 312.
-LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 312.
-LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 312.
-
-Underfull \hbox (badness 6125) in paragraph at lines 317--317
-[]|\TU/Montserrat(2)/b/n/10 Origins and Evolution of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 322--322
-[]|\TU/Montserrat(2)/b/n/10 Environment Setup and
- []
-
-
-Underfull \hbox (badness 1762) in paragraph at lines 345--345
-[]|\TU/Montserrat(2)/b/n/10 PL/I and CICS Integration
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 346--350
-\TU/Montserrat(2)/m/n/10 concepten zoals gegevensdoorgifte tussen pro-
- []
-
-
-Underfull \hbox (badness 2961) in paragraph at lines 346--350
-\TU/Montserrat(2)/m/n/10 gramma’s en transactiestappen toe in een geïnte-
- []
-
-
-Underfull \hbox (badness 1490) in paragraph at lines 346--350
-\TU/Montserrat(2)/b/n/10 11.0 Codeanalyse en onderhoud: \TU/Montserrat(2)/m/n/10 de student leert
- []
-
-
-LaTeX Warning: Float too large for page by 175.14288pt on input line 353.
-
 ) (./conclusie.tex
 
-[27]
-
-[28]
+[32]
 Hoofdstuk 6.
 
 
-[29
+[33
 
 ]
 
-[30])
+[34])
 
-[31]
+[35]
 B\ij lage A.
 (../voorstel/voorstel-inhoud.tex
 
-[32
+[36
 
 ]
 Overfull \hbox (0.17656pt too wide) in paragraph at lines 92--93
@@ -1986,9 +1959,9 @@ Overfull \hbox (0.17656pt too wide) in paragraph at lines 92--93
 
 
 
-[33]
+[37]
 
-[34]
+[38]
 File: ../voorstel/Gantt Chart.png Graphic file (type bmp)
 <../voorstel/Gantt Chart.png>
 
@@ -1998,16 +1971,33 @@ Overfull \hbox (32.93776pt too wide) in paragraph at lines 160--168
 
 
 
-[35]
+[39]
 Overfull \hbox (7.41966pt too wide) in paragraph at lines 223--226
 \TU/Montserrat(1)/m/n/10.95 competentieframework voor PL1 en CICS developers. Aan de hand van deze learning-
  []
 
 
 
-[36])
+[40])
 
-[37]
+[41]
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `FiraMathRegular' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
+(Font)              scaled to size 10.95116pt on input line 183.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
+(Font)              scaled to size 7.88484pt on input line 183.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(2)/m/n' will be
+(Font)              scaled to size 6.35167pt on input line 183.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
+(Font)              scaled to size 10.94882pt on input line 183.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
+(Font)              scaled to size 7.88315pt on input line 183.
+LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
+(Font)              scaled to size 6.35031pt on input line 183.
+
 Overfull \hbox (17.40071pt too wide) in paragraph at lines 183--183
 [][][][][][][][][][][][][][][] [][] [][][][][][][][][][] [] [][][][][][][][][] [] [][][][][][][][] [][] [][][][][][] [] [][][][] [][] [][][][] [][] [][][][][][][] [][]
  []
@@ -2023,7 +2013,7 @@ Overfull \hbox (7.64673pt too wide) in paragraph at lines 183--183
 
 
 
-[38
+[42
 
 
 ]
@@ -2033,8 +2023,8 @@ Overfull \hbox (5.75507pt too wide) in paragraph at lines 183--183
 
 
 
-[39]
-runsystem(latexminted cleantemp  --timestamp 20260508210408 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+[43]
+runsystem(latexminted cleantemp  --timestamp 20260510173338 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
@@ -2042,18 +2032,18 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `VanHerpeRobbe.out' has not changed.
-(rerunfilecheck)             Checksum: F4694B0E61F7285C7915A55CA845606E;13269.
+(rerunfilecheck)             Checksum: 0531FD3B43DB9CAB956EF7ADAF54D993;15484.
 Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 \openout1 = `VanHerpeRobbe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50143 strings out of 473832
- 1037015 string characters out of 5729480
- 2279713 words of memory out of 5000000
- 72404 multiletter control sequences out of 15000+600000
- 562653 words of font info for 117 fonts, out of 8000000 for 9000
+ 50101 strings out of 473832
+ 1035085 string characters out of 5729480
+ 2280799 words of memory out of 5000000
+ 72378 multiletter control sequences out of 15000+600000
+ 561841 words of font info for 101 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
- 110i,12n,131p,1186b,5641s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,12n,131p,1186b,5923s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on VanHerpeRobbe.pdf (48 pages).
+Output written on VanHerpeRobbe.pdf (53 pages).

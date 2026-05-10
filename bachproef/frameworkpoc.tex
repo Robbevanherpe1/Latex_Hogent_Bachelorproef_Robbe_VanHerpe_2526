@@ -14,7 +14,6 @@ Het doel van dit hoofdstuk is dus tweeledig, enderzijds wordt aangetoont hoe het
 Anderzijds wordt uitgelegd hoe het framework omgezet werd naar een praktish leerplatform dat gebruikt kan worden op het basis niveau 1 van PL/1 en CICS development op IBM Z te leren.
 
 
-
 \section{Structuur en opbouw van het framework}%
 \label{sec:opbouw-van-het-framework}
 
@@ -40,9 +39,9 @@ Hierdoor is het framework niet enkel theoretisch maar ook praktisch toepasbaar.
 \subsection{Criteria voor het bepalen van de competenties}
 \label{sec:criteria-bepalen-competenties}
 
-De competenties binnen het framework zijn bepaald aan de hand van meerder criteria.
-Op deze manier sluit het framework zo goed mogelijk aan bij de kennis die een beginnende PL1 en CICS developer nodig heeft.
-Het Competentie framework PL1 / CICS developer op z/OS level 1 gebruikt hiervoor volgende citeria.
+De competenties binnen het framework zijn bepaald aan de hand van meerder criteria,
+op deze manier sluit het framework zo goed mogelijk aan bij de kennis die een beginnende PL1 en CICS developer nodig heeft.
+Het Competentie framework PL1 / CICS developer op z/OS level 1 vertrekt vanuit volgende punten.
 
 \subsubsection{Basiskennis mainframe}
 \label{sec:Basiskennis-mainframeontwikkeling}
@@ -60,39 +59,112 @@ Het gebruik van lussen, variabelen en datatypes, dit zijn concepten die aan de b
 \subsubsection{Praktijk gericht}
 \label{sec:Praktijk-gericht}
 
-Een volgende criteria voor het competentieframework is dat het genoeg praktijk gericht moet zijn.
-Het framework focust niet enkel op theorie maar ook op vaardigheden die nodig zijn om bestaande code te kunnen lezen en aanpassen. 
+Een derde criteria is een sterke focus op de praktijk.
+Het framework is bewust niet puur theoretisch ingestoken.
+Er is juist veel aandacht voor de daadwerkelijke vaardigheden die op de werkvloer nodig zijn, zoals het efficiënt kunnen lezen en veilig aanpassen van bestaande legacy code.
 
+\subsubsection{De link met CICS}
+\label{sec:link-met-cics}
 
+Een vierde criteria is de integratie met CICS.
+Voor online transactieverwerking op mainframes wordt PL/I zelden geïsoleerd gebruikt, maar vrijwel altijd in combinatie met CICS.
+Daarom moeten concepten zoals transacties, tasks en datadoorgave via een COMMAREA of channels direct meegenomen worden in de basisopleiding.
 
+\subsubsection{Hedendaagse IT landschap}
+\label{sec:Hedendaagse-IT-landschap}
+
+Een laatste criterium is de connectie met het hedendaagse IT landschap.
+Legacy systemen zoals IBM mainframes opereren binnen een groter geheel,
+om te begrijpen waarom deze talen vandaag de dag nog steeds cruciaal zijn voor grote ondernemingen moet er in het framework ook aandacht zijn voor modernisering,
+en de manier waarop PL/I en CICS toepassingen integreren met moderne architecturen.
 
 
 \subsection{Nodige Competenties}%
 \label{sec:Nodige-Competenties}
 
-aan de hand van de interviews en literatuur studie kunne we bepalen dat het competentie framework gaat bestaan uit 13 competenties.
+Aan de hand van de interviews en literatuurstudie is bepaald dat het competentieframework bestaat uit dertien kerncompetenties.
+Deze zijn gegroepeerd in vijf categorieën die samen de basis vormen voor een Level 1 developer:
 
-deze zijn opgesplitsd in vershillende captegorie :
+\begin{itemize}
+    \item \textbf{Fundamenten en Systeemcontext (Competentie 1-2):} Omvat algemene programmeerlogica en IBM Z basiskennis. Deze zijn noodzakelijk om de technische omgeving en de werking van het mainframe ecosysteem te begrijpen voordat specifieke talen worden aangeleerd.
+    
+    \item \textbf{PL/I Taalbeheersing (Competentie 3-4):} Behandelt de theoretische syntax en de praktische toepassing van PL/I. Dit is essentieel omdat PL/I de primaire programmeertaal is waarin de bedrijfslogica geschreven wordt.
+    
+    \item \textbf{CICS Transactieverwerking (Competentie 5-7):} Richt zich op CICS concepten en de integratie hiervan in PL/I programma's. Dit is onmisbaar voor het ontwikkelen en begrijpen van online transactiesystemen op de mainframe.
+    
+    \item \textbf{Buildprocessen en Foutafhandeling (Competentie 8-10):} Behandelt de buildflow, JCL basis en systematische troubleshooting. Deze kennis is nodig om code succesvol te compileren en bugs te verhelpen.
+    
+    \item \textbf{Bedrijfscontext en Onderhoud (Competentie 11-13):} Focust op codeanalyse, de historische context en modernisering. Dit is cruciaal om de blijvende waarde van legacyvsystemen te begrijpen en ze veilig te kunnen onderhouden binnen moderne IT architecturen.
+\end{itemize}
 
-
-
-
-Het gemaakte 
+Het gemaakte framework vormt hiermee de inhoudelijke blauwdruk voor de leerstof, waarbij de dertien competenties de basis leggen voor het praktische gedeelte van deze proef.
 
 \subsection{Volgende niveau Competenties}%
 \label{sec:Volgende-Competenties}
 
-Het gemaakte 
+Bewust is gekozen voor een scherpe afbakening op een basis niveau of junior profiel, dit waarborgt een haalbare leercurve.
+De overgang naar een volgende niveau aangeduid als Level 2 of medior profiel markeert de stap van concentuele kennis naar praktishe complexe applicatie ontwikkeling.
+Waar niveau 1 zich richt op de oriëntatie binnen het ecosysteem en het uitvoeren van kleine aanpassingen, vereist niveau 2 dat een developer zelfstandig volledige programma architecturen kan opzetten en optimaliseren.
+De volgende competenties vormen de kern van deze verdieping:
 
+
+\subsubsection{Geavanceerde PL1}
+\label{sec:geavanceerde-pli}
+Op Niveau 1 ligt de focus op de basis van PL/I zoals variabelen en simpele procedures.
+Niveau 2 gaat dieper in op het geheugenbeheer, hier leert de ontwikkelaar werken met dynamic storage allocation via pointers en based of controlled variabelen. 
+Daarnaast is het op dit niveau essentieel om complexe foutafhandeling te implementeren via ON-units, waardoor applicaties niet simpelweg crashen, maar gecontroleerd kunnen herstellen van runtime fouten.
+Dit zorgt voor de robuustheid die in een enterprise omgeving vereist is.
+
+\subsubsection{CICS verdieping}
+\label{sec:cics-verdieping}
+De stap naar Niveau 2 binnen CICS betekent de overgang van het lezen van code naar het bouwen van volledige online applicaties.
+Dit omvat de ontwikkeling van gebruikersinterfaces via BMS-maps (Basic Mapping Support) voor 3270-terminals. 
+Verder leert de ontwikkelaar hoe hij via File Control rechtstreeks gegevens kan wegschrijven, updaten of verwijderen in VSAM bestanden.
+Ook het efficiënt gebruik van Temporary Storage Queues (TSQ) voor tijdelijke dataopslag gedurende een sessie is een cruciaal onderdeel van deze gevorderde kennis.
+
+\subsubsection{Geavanceerde tooling en diagnostiek}
+\label{sec:geavanceerde-tooling}
+Waar een junior vaak afhankelijk is van eenvoudige "display" statements of compiler listings voor debugging, maakt een Niveau 2 developer gebruik van gespecialiseerde tools.
+Dit omvat het beheersen van de IBM z/OS Debugger om stap voor stap door complexe programmaflows te lopen. 
+Daarnaast leert men op dit niveau hoe men systeem dumps moet interpreteren (bijvoorbeeld via IPCS) om de exacte oorzaak van een abend (applicatie crash) in de systeemkern te achterhalen.
+
+\subsubsection{Performantie optimalisatie en efficiëntie}
+\label{sec:performantie-optimalisatie}
+In een omgeving waar miljoenen transacties per seconde worden verwerkt, is efficiëntie alles.
+Een Niveau 2 developer begrijpt de impact van code op het CPU verbruik. 
+Men leert technieken om I/O operaties te minimaliseren en SQL queries of CICS commando's te tunen. 
+De focus verschuift hier van "de code werkt" naar "de code werkt met een minimale footprint".
+
+\subsubsection{Security architectuur}
+\label{sec:security-architectuur}
+Beveiliging op Niveau 2 gaat verder dan het simpelweg hebben van een inlogcode.
+De ontwikkelaar leert hoe applicatiecode moet integreren met externe security managers zoals RACF.
+Dit houdt in dat men begrijpt hoe men autorisatie checks uitvoert binnen de code, zodat gevoelige bedrijfsdata enkel toegankelijk is voor geautoriseerde gebruikers of specifieke transactie ID's.
+
+\subsubsection{Modernisering}
+\label{sec:modernisering-api-integratie}
+Niveau 2 slaat de definitieve brug naar moderne IT.
+De ontwikkelaar leert hoe hij legacy PL1 en CICS programma's kan verbinden met RESTful API's via z/OS Connect.
+Hierdoor kan de ontwikkelaar copybooks (mainframe datastructuren) omzetten naar JSON formaat.
+Als resultaat kan legacy backend logica eenvoudig communiceren met moderne web applicaties en mobiele interfaces in een hybride cloud omgeving.
+
+
+\section{Van framework naar Proof of Concept}
+\label{sec:van-framework-naar-proof-of-concept}
+
+Het uitgewerkte framework wordt gebruikt als de functionele blauwdruk voor de Proof of Concept.
+Waar het framework antwoord geeft op de 'wat' vraag (wat moet men kennen?), beantwoordt de PoC de 'hoe' vraag (Hoe leer je deze concepten?).
+De PoC is gerealiseerd als een laagdrempelige leersite die de student begeleid in het verwerven van de gedefinieerde competenties.
+
+Door de chronologie van het framework te respecteren en eerst universele logica, dan de taal, gevolgd door debugging en context wordt het bregen van te moeilijke leerstof vermeden.
+Dit verlaagt de drempel aanzienlijk voor IT'ers die nog nooit een mainframe in contact zijn gekomen.
 
 \section{Structuur en opbouw van de PoC leersite}%
 \label{sec:opbouw-van-de-leersite}
 
-Na het opstellen van het framework is een proof of concept leersite ontwikkeld die dit framework als basis gebruikt. 
 
-De opbouw van de proof of concept leersite bestaat uit verschillende fases.
-
-Deze fases zijn:
+De leersite is modulair opgebouwd, waarbij elke pagina direct te herleiden is naar één of meerdere leerdoelen uit het opgestelde competentie framework. 
+De vaste flow ziet er als volgt uit:
 
 \begin{itemize}
     \item \textbf{Fase 1:} Bepalen nodige technologieën voor ontwikkeling van basis site.
@@ -100,24 +172,90 @@ Deze fases zijn:
     \item \textbf{Fase 3:} Aan hand van literatuurstudie en interviews relevante inhoud toevoegen.
 \end{itemize}
 
-\subsection{Bepalen technologien}%
+\subsection{Bepalen van technologieën}%
 \label{sec:Bepalen-van-technologien}
 
-In de eerste fase van het ontwikkelen werd bepaald welke technologien de leersite als basis gaat gebruiken.
-Met als doel om de meest efficiente technologieën te kiezen voor een eenvoudige maar praktishe leersite te kunnen maken.
-Hiervoor hield men rekening met enkele criteria, de hoofd criteria waren de flexibiliteit en de vertrouwdheid met de technologien.
-Het is belangerijk dat er makkelijk kan worden uitgebreid aan de leersite maar dat het zo efficient mogelijk kan gebeuren.
-Daarnaast is de bijhorende kost ook een belangerijk aspect.
-Aangezien er geen budget voor hosting is bleef het aantal opties relatief beperkt.
+In de opstartfase van dit project werd bewust tijd vrijgemaakt om de technologie keuzes af te toetsen aan het doel van de proof of concept.
+Het doel van de leersite was een toegankelijke leersite rond PL/I en CICS met theorie, oefeningen en quizzen die vlot kan uitgebreid worden zonder extra hostingkost.
+De keuze ging daarom niet naar de meest exotische of meest enterprise stack, maar naar een set technieken die snel resultaat opleveren en gemakkelijk onderhoudbaar zijn en tegelijk voldoende structuur bieden voor groei.
 
-Op basis van deze criteria werd een selectie gemaakt van technologieën voor het ontwikkelen van de proof of concept.
+\subsection{Selectiecriteria}%
+\label{sec:Selectiecriteria-technologien}
+De technologieën werden beoordeeld op volgende criteria:
+\begin{itemize}
+  \item \textbf{Flexibiliteit en uitbreidbaarheid}: nieuwe cursussen en onderdelen (theorie, oefening, quiz) moeten toegevoegd kunnen worden zonder ingrijpende code wijzigingen.
+  \item \textbf{Vertrouwdheid en leercurve}: de ontwikkeltijd is beperkt dus de stack moest aansluiten bij bestaande webkennis.
+  \item \textbf{Kost en deploybaarheid}: aangezien er geen budget is voor hosting, moet de leersite goedkoop publiceerbaar zijn.
+  \item \textbf{Performantie en gebruikservaring}: snelle laadtijden en een responsieve interface zijn belangrijk om de leersite aangenaam te gebruiken.
+  \item \textbf{Veilig omgaan met leercontent}: leerinhoud bevat opmaak en soms embedded media dat moet veilig weergegeven worden in de browser.
+\end{itemize}
 
-De gekozen technieken zijn wel gekende web onwikkelings talen, er wordt gebruik gemaakt van de meest voorkomende talen javascript, css en html.
-Om deze technologien allemaal te verbinden word er gebruik gemaakt van het Vite framework,
-dit stel men in staat om veel snellere lokale develompent uit te voeren.
-Het vergroot de flexibiliteit en verlaagt de tijd die nodig is voor het maken van een complexe site.
+\subsection{Gekozen basis van webtechnologieën}%
+\label{sec:basis-webtechnologieën}
+De proof of concept is een webapplicatie en gebruikt daarom de klassieke web basis: HTML voor structuur, CSS voor styling en JavaScript voor interactiviteit.
+Deze keuze sluit aan bij het doelpubliek (leren via een browser, zonder extra installatie) en maakt het mogelijk om de site als statisch pakket te publiceren.
 
-Deze technologien zijn de basis geweest in het ontwikkelen van de leersite tot een dynamish en flexibel platform.
+\subsection{React als UI laag}%
+\label{sec:React-ui}
+Voor de gebruikersinterface werd gekozen voor React.
+De leersite bevat meerdere schermen en componenten waaronder cursusoverzichten, hoofdstukken, theoriepagina’s, oefeneditor en quizes waarbij de UI dynamisch mee evolueert met de selectie van de gebruiker.
+React maakt het eenvoudiger om zulke herbruikbare componenten op te bouwen en toestand zoals de geselecteerde cursus of het thema consistent te beheren.
+Concreet in dit project:
+\begin{itemize}
+  \item cursussen worden in de interface als kaarten gepresenteerd en leiden naar een detailpagina met hoofdstuknavigatie.
+  \item het thema donker en licht wordt opgeslagen in localStorage zodat de voorkeur bewaard blijft.
+  \item verschillende onderdelen Theory,Exercise en Quiz delen dezelfde navigatiestructuur en layout wat component hergebruik stimuleert.
+\end{itemize}
+
+\subsection{Vite als build en ontwikkeltool}%
+\label{sec:vite-build}
+Om de ontwikkelervaring snel en efficiënt te houden werd Vite gekozen als buildtool rond React.
+Vite staat bekend om snelle lokale ontwikkeling (snelle herlaadtijden en Hot Module Replacement) en levert ook een geoptimaliseerde productie build.
+Voor een proof of concept is dit essentieel, de focus blijft op functionaliteit en content zonder onnodige tijd te verliezen aan trage builds of complexe configuratie.
+Daarnaast past Vite goed bij het deploy doel, de output kan als statische site worden gehost.
+
+\subsection{Tailwind CSS voor consistente en schaalbare styling}%
+\label{sec:Tailwind-styling}
+Voor de vormgeving werd Tailwind CSS gebruikt aangevuld met PostCSS en Autoprefixer.
+Tailwind ondersteunt een utility first aanpak waarmee de interface snel consistent kan worden opgebouwd, zonder dat een grote hoeveelheid aparte CSS bestanden en naming conventies nodig is.
+Dit is nuttig in een leerplatform waar veel herhaalpatronen bestaan (panelen, knoppen, kaarten, navigatie) én waar het ontwerp later nog kan evolueren.
+In dit project is ook expliciet gekozen voor dark mode via een class strategie, omdat die aanpak goed werkt met Tailwind en eenvoudig te onderhouden is.
+
+\subsection{Content als JSON eenvoudig uitbreiden met nieuwe cursussen}%
+\label{sec:JSON-cursussen}
+Een belangrijk ontwerpdoel was uitbreidbaarheid, nieuwe leerinhoud moet toegevoegd kunnen worden zonder telkens React code aan te passen.
+Daarom wordt course content per cursus opgeslagen in een index.json bestand met een vaste structuur bestaande uit hoofdstukken, theorie, oefeningen en quizvragen.
+Deze aanpak heeft meerdere voordelen:
+\begin{itemize}
+  \item \textbf{schaalbaar}: nieuwe cursussen of hoofdstukken toevoegen is in grote mate een inhouds taak;
+  \item \textbf{versiebeheerbaar}: JSON bestanden zijn ideaal om in Git te beheren en te reviewen;
+  \item \textbf{scheiding van verantwoordelijkheden}: UI en content blijven duidelijk gescheiden.
+\end{itemize}
+
+\subsection{Markdown en veilige HTML rendering}%
+\label{sec:Markdown-rendering}
+Voor theorie inhoud wordt waar mogelijk Markdown gebruikt, omdat het laagdrempelig is om te schrijven en leesbaar blijft in bronvorm.
+Bij het renderen in de browser wordt Markdown omgezet naar HTML.
+Om te vermijden dat content onveilig of ongewenst HTML/JavaScript zou injecteren, wordt de output gefiltert met DOMPurify.
+Embedded video’s worden gecontroleerd toegelaten, zodat de leersite veilig blijft terwijl interactieve content toch mogelijk is.
+
+\subsection{Lokale media zonder extra backend}%
+\label{sec:Lokale-backend}
+De leersite ondersteunt videomateriaal door bestanden in de folder public/videos/ te plaatsen en die via bestandsnaam te refereren in de JSON content.
+Dit is een pragmatische keuze voor een proof of concept want er is geen aparte backend of streamingplatform nodig, en toch kan de leerervaring verrijkt worden met videos en afbeeldingen.
+
+\subsection{Waarom geen backend of database?}%
+\label{sec:backend-database}
+Er is bewust geen server side component toegevoegd in deze fase.
+De kern van de proof of concept is het valideren van de leerflow, de contentstructuur en de gebruikerservaring.
+Door te kiezen voor een statische front end met JSON content blijft de deploy eenvoudig en kosteloos, en kunnen iteraties snel gebeuren.
+Mocht later behoefte ontstaan aan voortgangsopslag of gepersonaliseerde trajecten dan kan er in een volgende fase alsnog een backend worden toegevoegd.
+
+\subsection{Conclusie technologieën}%
+\label{sec:Conclusie-technologien}
+De uiteindelijke technologie set (React, Vite, Tailwind CSS, JSON content, Markdown met filtering en statische media) sluit nauw aan bij de projectdoelen:
+snelle ontwikkeling, lage kost, veilige contentweergave en een structuur die het toevoegen van nieuwe PL1 en CICS leermodules zo eenvoudig mogelijk maakt.
+
 
 \subsection{Modules in de leersite}%
 \label{sec:Modules-in-leersite}
@@ -135,74 +273,81 @@ mainframecontext met elkaar samenhangen en zijn ontstaan.
 De module \textbf{Origins and Evolution of PL/I and CICS} werd opgenomen omdat het belangrijk is dat studenten eerst 
 begrijpen waar deze technologieën vandaan komen en waarom ze vandaag nog steeds even relevant zijn. 
 
-Zonder de historische en conceptuele kennis zouden PL/I en CICS kunnen overkomen als niet relevante en eerder verouderde systemen.
-Net die systemen die voor veel bedrijven nog steed een zeer cruciale rol spelen binnen de financiele sector.
+Zonder de historische en conceptuele kennis zouden PL/I en CICS kunnen overkomen als niet relevante en eerder verouderde technologieën.
+Net die systemen die voor veel bedrijven nog steeds een zeer cruciale rol spelen binnen de financiele sector.
 Door te beginnen met de oorsprong en evolutie van deze technologieën krijgt de student een beter inzicht in hun
 plaats binnen enterprise computing en de redenen waarom organisaties er nog steeds op vertrouwen voor kritieke toepassingen.
+
+Deze module sluit direct aan op competentie 12.0 (Historische en enterprise-context) en competentie 13.0 (Modernisering en integratie) van het competentie framework. 
+
 
 \subsubsection[short]{Environment Setup and ISPF Fundamentals}%
 \label{sec:Environment-pl1cics}
 
-De module \textbf{Environment Setup and ISPF Fundamentals} is essentieel omdat de student efficient moet kunnen werken
-met ISPF of zowe Xplorer.
-Het beheersen van je coderomgeving is cruciaal om je te kunnen focussen op de code en niet de editor.
-In mainframeomgeving is dit nog een grotere kloof want technologien zoals ISPF zijn niet zo gebruiksvriendelijk voor nieuwe studenten.
-Studenten zijn code editor zoals vscode gewoon en kunnen hierdoor efficienter werken met tools zoals zowe Xplorer.
-Daarom is deze module gefocussed op beide manieren om de drempel zo laag mogelijk te maken voor nieuwe ontwikkelaars.
-Er word gefocused op het volbregen van enkele praktishe zaken zoals: het navigeren van de verschillende shermstructuren, bestanden openen en bewerken,
-aanmaken van nieuwe datasets en verwijderen van datasets.
-Deze zouden de student een goede basis moeten geven om zich te navigeren en kunnen zich focussen op het leren van PL1 en CICS.
 
+De module \textbf{Environment Setup and ISPF Fundamentals} legt de praktishe basis om te leren werken met ISPF en zowe Xplorer.
+Het leren werken met deze code editors behandeld de competentie 2.0 (IBM Z basiskennis) en stelt de student in staat om zij ontwikkelingsomgeving te beheersen.
+De student leert navigeren door schermstructuren en beheert datasets en jobs, wat essentieel is voor een goede start binnen het ecosysteem.
+Legacy technologieën zoals ISPF hebben een sterke leercurve voor nieuwe developers, daarom word er ook gefocused in dit thema op alternatieven zoals Zowe Xplorer.
+Studenten zijn code editor zoals vscode gewoon en kunnen hierdoor efficienter werken met deze tools.
+Daarom is deze module gefocussed op beide manieren om de drempel zo laag mogelijk te maken voor nieuwe ontwikkelaars.
+Deze module zou als eindresultaat de student een goede basis moeten geven om zich te navigeren in hun ontwikkelingsomgeving waardoor ze zich kunnen focussen op het leren van PL1 en CICS.
 
 
 \subsubsection[short]{PL/I Core Concepts}%
 \label{sec:core-pl1}
 
-De module \textbf{PL/I Core Concepts} vormt de basis voor het programmeergedeelte van de leersite en is daarom cruciaal. 
-Voordat studenten  meer complexe problemen in de bedrijfswereld kunne oplossen moeten ze de basis leren.
-Deze bouwstenen vormen de kennis waarom kan gebouwd worden met meer complexe en realistishe voorbeelden.
-In deze module is belangrijk omdat ze de basisprincipes van de taal worden aangebracht, zoals de structuur en syntax 
-maar ook de logica sommige principes. 
-Dat zorgt ervoor dat de student niet alleen code leert lezen, maar ook begrijpt waarom PL/I op een bepaalde manier is opgebouwd en hoe die taal gebruikt
-wordt binnen professionele mainframeomgevingen.
+De module \textbf{PL/I Core Concepts} vormt de basis voor het programmeergedeelte van de leersite en is daarom cruciaal.
+Het behandeld enkele competenties waaronder competentie 3.0 (PL/I taalbasis) en competentie 4.0 (PL/I programmeerpraktijk).
+Daarnaast wordt hier ook Competentie 1.0 (Fundamenten in programmeren) opgefrist in een mainframe context.
+Studenten leren de specifieke syntaxis en declaraties m van PL1 samen met de programmastructuren.
+Dit zorgt ervoor dat ze niet alleen code leren reproduceren maar ook begrijpen hoe PL1 logisch is opgebouwd binnen een professionele omgeving.
+Deze module vormt de bouwstenen waarop verder kan gebouwd worden om te werken binnen complexe legacy systemen als een developer.
+
 
 \subsubsection[short]{CICS Core Concepts}%
 \label{sec:core-cics}
 
-De module \textbf{CICS Core Concepts} is opgenomen omdat kennis van de programmeertaal alleen niet volstaat wanneer men wil werken in transactionele mainframesystemen.
+De module \textbf{CICS Core Concepts} is opgenomen omdat kennis van PL1 alleen niet volstaat wanneer men wil werken in transactionele mainframesystemen.
 CICS is een cruciaal onderdeel van veel bedrijfsapplicaties en bepaalt hoe transacties worden uitgevoerd.
 Daarnaast zorgt CICS voor het controleren van gegevensstromen en het verwerken van gebruikersinteracties met het systeem.
-Het is dus belangrijk dat de student inzicht krijgt in de werking van CICS als systeemlaag naast de programmeertaal zelf.
-Deze module legt daarom de noodzakelijke conceptuele basis om later te begrijpen hoe PL/I-programma’s zich gedragen binnen een transactionele omgeving.
+
+Het is dus belangrijk dat de student inzicht krijgt in de werking van CICS als systeemlaag naast het gebruik binnen PL1 zelf.
+De module legt uit wat transacties, tasks en resources zijn zodat de student de noodzakelijke conceptuele basis heeft om later PL1 programma’s succesvol in een transactionele omgeving te laten draaien.
+Hiermeer volbrengt deze module de competentie 5.0 (CICS concepten).
+
 
 \subsubsection[short]{Debugging Basics}%
 \label{sec:debug-pl1cics}
 
 De module \textbf{Debugging Basics} is belangrijk omdat leren programmeren of werken met mainframes niet alleen draait om het schrijven van correcte code,
-maar ook om het kunnen herkennen, analyseren en oplossen van fouten. 
-In technische opleidingen is debugging een fundamentele vaardigheid.
-Het geeft studenten een beter beeld tijdens het programeren wanneer ze geconfronteerd worden met een probleem.
-Doordat hier een apparte module is voor voorzien zijn studenten beter gewapend tijdens hun eerste weken op de werkvloer wanneer ze geconfronteerd
-worden met problemen.
+maar ook om het kunnen herkennen, analyseren en oplossen van fouten.
+In deze module leren studenten het onderscheid maken tussen de vershillende soorten fouten en maken ze kennis met het gebruik van IBM message manuals.
+Door deze eigenschappen kan de module gekoppeld worden aan competentie 10.0 (Foutanalyse en troubleshooting).
+In technische opleidingen is debugging een fundamentele vaardigheid, het geeft studenten een beter beeld tijdens het programeren wanneer ze geconfronteerd worden met een probleem.
+Doordat hier een apparte module is voor voorzien zijn studenten beter gewapend tijdens hun eerste weken op de werkvloer wanneer ze zelfstandig problemen moeten oplossen.
 Deze module verhoogt dus niet alleen de technische kennis, maar ook het probleemoplossend denken van de student.
+
 
 \subsubsection[short]{PL/I and CICS Integration Mastery}%
 \label{sec:mastery-pl1cics}
 
 Tot slot is de module \textbf{PL/I and CICS Integration Mastery} opgenomen omdat je met al deze concepten appart niet het volledige beeld ziet.
 Hiervoor is een module nodig die al deze afzonderlijke domeinen samenbrengt tot een meer geavanceerde en realistische context.
-Nadat de student inzicht heeft verworven in zowel PL/I als CICS afzonderlijk, is het noodzakelijk om te tonen hoe beide in de praktijk met elkaar geïntegreerd worden.
+Nadat de student inzicht heeft verworven in zowel PL1 als CICS afzonderlijk, is het noodzakelijk om te tonen hoe beide in de praktijk met elkaar geïntegreerd worden.
 
-Deze module is daarom belangrijk als afsluiting van het leertraject.
-Studenten maken de overstap van geïsoleerde leerinhouden naar een meer realistische toepassing binnen een mainframeomgeving. 
-Op die manier ziet de student niet alleen hoe de onderdelen technisch samenwerken maar ook waarom 
-het beheersen van de totaal visie relevant is voor echte professionele situaties.
+Deze module integreert de competenties: 6.0 (CICS programmeerbasis), 7.0 (Gegevensuitwisseling in CICS), 8.0 (Build- en compileflow) en 11.0 (Codeanalyse en onderhoud) om tot een geheel te bekomen.
 
-Samen zorgen deze zes modules voor een opbouw die gestructureed, logishe en opbouwend is. 
-De structuur van de leersite ondersteunt de gebruiker van introductie en context, 
-over technische basiskennis, naar praktische toepassing. 
-Daardoor ontstaat een leeromgeving die niet enkel kennis overdraagt maar ook gericht is op begrip, samenhang en toepasbaarheid.
+Studenten maken hier de overstap naar geavanceerde toepassingen, waarbij ze leren hoe programma’s via de COMMAREA communiceren en hoe een volledige buildflow van translate tot link edit verloopt.
+Op deze manier leert de student niet alleen de onderdelen technisch te beheersen, maar ook de totale visie te behouden die nodig is voor professionele applicatieontwikkeling.
 
+Deze module is daarom belangrijk als afsluiting van het leertraject, want studenten leren om de geïsoleerde leerinhouden toe te passen in een meer realistische mainframeomgevingomgeving. 
+
+Samen zorgen deze zes modules voor een opbouw die logishe en opbouwend is. 
+
+De structuur van het leerplatform begeleidt de gebruiker stapsgewijs: van de initiële introductie en theoretische context, via de technische fundamenten, naar de uiteindelijke praktische implementatie.
+Hierdoor ontstaat er een leeromgeving die studenten aanzet om verder te gaan met de theoretisch kennis die word opgedaan.
+Als resultaat bekomen we studenten die de brug kunnen slaan tussen abstracte theorie en de complexe realiteit van een professionele mainframeomgeving, en zo met vertrouwen hun eerste stappen als junior developer kunnen zetten.
 
 
 
@@ -210,7 +355,7 @@ Daardoor ontstaat een leeromgeving die niet enkel kennis overdraagt maar ook ger
 \label{sec:opbouw-van-modules}
 
 Nadat de vershillende modules zijn gekozen is het bepalen van de opbouw van deze onderdelen cruciaal.
-Er moet een logishe opbouw zijn zodat Studenten hun kennis steeds kunnen opbouwen en dan testen.
+Er moet een logishe opbouw zijn zodat studenten hun kennis steeds kunnen opbouwen en dan testen.
 
 De opbouw van elk hoofdstuk binnen de leersite is bewust opgedeeld in drie vaste onderdelen, 
 een theoretisch gedeelte, een oefengedeelte en een afsluitende quiz. 
@@ -223,7 +368,7 @@ Op deze manier wordt de student ondersteund bij ieder onderwerp en hebben ze ste
 die hun motiveren doorheen het hele process.
 
 
-\subsection[short]{Theorie in modules}%
+\subsubsection[short]{Theorie in modules}%
 \label{sec:Theorie-module}
 
 In het eerste onderdeel \textbf{de theorie}, wordt de inhoud van het hoofdstuk uitgebreid toegelicht.
@@ -243,7 +388,7 @@ Studenten met meer interesse of voorkennis kunnen zich zo verder ontwikkelen ter
 
 \includegraphics[width=0.45\textwidth]{../graphics/theorie.png}
 
-\subsection[short]{Oefeningen in modules}%
+\subsubsection[short]{Oefeningen in modules}%
 \label{sec:Oefeningen-module}
 
 Na het theoretische gedeelte volgt een onderdeel met \textbf{de oefeningen}. 
@@ -266,7 +411,7 @@ De oefeningen zorgen er dus voor dat de leerstof niet oppervlakkig blijft maar e
 
 
 
-\subsection[short]{Quiz in modules}%
+\subsubsection[short]{Quiz in modules}%
 \label{sec:Quiz-module}
 
 Als afsluiting van elk hoofdstuk is er \textbf{een finale} quiz voorzien. 
@@ -295,62 +440,6 @@ Die herhaling in structuur verhoogt de gebruiksvriendelijkheid van de leersite e
 Het zorgt ervoor dat de focus niet ligt op het zoeken naar informatie of navigeren door de inhoud maar op het effectief verwerven van kennis. 
 Zo draagt de gekozen module structuur rechtstreeks bij aan de kwaliteit en de praktische bruikbaarheid van de volledige leeromgeving.
 
-
-
-\subsection{Competenties per module}%
-\label{sec:Competenties-module}
-
-De modules in de proof of concept zijn gemaakt om de vershillende competententies aan te leren die een developer nodig heeft.
-Iedere module leert een aantal competenties aan die samen tot een geheel horen.
-
-In onderstaande tabel worden deze linken tussen module en competenties getoont.
-
-\begin{table}[htbp]
-   \centering
-   \small
-   \renewcommand{\arraystretch}{1.25}
-   \begin{tabular}{p{0.32\textwidth} p{0.61\textwidth}}
-     \toprule
-     \textbf{Hoofdstuk proof of concept} & \textbf{Vervulde competenties} \\
-     \midrule
-
-     \textbf{Origins and Evolution of PL/I and CICS} &
-     \textbf{12.0 Historische en enterprise-context:} de student begrijpt de oorsprong, evolutie en blijvende relevantie van PL/I en CICS binnen bedrijfskritische omgevingen.\newline
-     \textbf{13.0 Modernisering en integratie:} de student begrijpt waarom bestaande PL/I en CICS toepassingen vandaag nog steeds belangrijk zijn binnen moderne enterprise architecturen. \\
-     \addlinespace
-
-     \textbf{Environment Setup and ISPF Fundamentals} &
-     \textbf{2.0 IBM Z basiskennis:} de student leert werken binnen een IBM Z omgeving en maakt kennis met basisconcepten zoals datasets, navigatie en ontwikkelomgevingen.\newline
-     \textbf{9.0 JCL-basis voor development:} de student krijgt inzicht in de rol van jobs, datasets en uitvoeringsstructuren binnen een mainframe ontwikkelomgeving. \\
-     \addlinespace
-
-     \textbf{PL/I Core Concepts} &
-     \textbf{1.0 Fundamenten in programmeren:} de student past algemene programmeerprincipes toe, zoals variabelen, datatypes, voorwaarden, lussen en procedures.\newline
-     \textbf{3.0 PL/I-taalbasis:} de student begrijpt de structuur, syntax en kernconcepten van PL1 programma's.\newline
-     \textbf{4.0 PL/I-programmeerpraktijk:} de student leert eenvoudige PL1 programma's lezen, schrijven, testen en verbeteren. \\
-     \addlinespace
-
-     \textbf{CICS Core Concepts} &
-     \textbf{5.0 CICS-concepten:} de student begrijpt de rol van CICS binnen online transactieverwerking op IBM Z.\newline
-     \textbf{6.0 CICS-programmeerbasis:} de student leert eenvoudige CICS programmalogica herkennen en interpreteren binnen PL1 code.\newline
-     \textbf{7.0 Gegevensuitwisseling in CICS:} de student krijgt inzicht in hoe gegevens worden doorgegeven tussen CICS programma's en transactiestappen. \\
-     \addlinespace
-
-     \textbf{Debugging Basics} &
-     \textbf{10.0 Foutanalyse en troubleshooting:} de student leert PL/I, CICS en buildfouten herkennen, analyseren en systematisch oplossen.\newline
-     \textbf{4.0 PL/I-programmeerpraktijk:} de student leert compileerfouten, syntaxisfouten en foutief programmagedrag herkennen en corrigeren.\newline
-     \textbf{9.0 JCL-basis voor development:} de student leert fouten situeren binnen de uitvoerings of buildflow van een job. \\
-     \addlinespace
-
-     \textbf{PL/I and CICS Integration Mastery} &
-     \textbf{6.0 CICS-programmeerbasis:} de student begrijpt hoe PL/I programma's samenwerken met CICS services en de runtimeomgeving.\newline
-     \textbf{7.0 Gegevensuitwisseling in CICS:} de student past concepten zoals gegevensdoorgifte tussen programma's en transactiestappen toe in een geïntegreerde context.\newline
-     \textbf{8.0 Build- en compileflow:} de student begrijpt hoe PL/I en CICS programma's worden vertaald, gecompileerd, gelinkt en uitgevoerd op IBM Z.\newline
-     \textbf{11.0 Codeanalyse en onderhoud:} de student leert bestaande PL/I  en CICS code functioneel lezen, analyseren en onderhouden. \\
-     \bottomrule
-   \end{tabular}
-   \caption[Overzicht van proof of concept hoofdstukken en competenties]{\label{tab:pl1cics_competenties}Overzicht van de proof of concept hoofdstukken en de bijhorende competenties.}
-\end{table}
 
 
 
