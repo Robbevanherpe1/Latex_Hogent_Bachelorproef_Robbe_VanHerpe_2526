@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  10 MAY 2026 17:33
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  11 MAY 2026 11:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1762,26 +1762,6 @@ Hoofdstuk 1.
 
 
 ]
-Overfull \hbox (25.02821pt too wide) in paragraph at lines 76--80
-\TU/Montserrat(1)/m/n/10.95 meetbaar competentie framework. Daarnaast wordt ook een proof-of-concept learning
- []
-
-
-Overfull \hbox (0.88467pt too wide) in paragraph at lines 83--84
-\TU/Montserrat(1)/m/n/10.95 op realistische verwachtingen binnen organisaties zoals Euroclear die met PL/I
- []
-
-
-Overfull \hbox (1.75334pt too wide) in paragraph at lines 84--85
-[]\TU/Montserrat(1)/m/n/10.95 Het competentieframework is \TU/Montserrat(2)/b/n/10.95 meetbaar\TU/Montserrat(1)/m/n/10.95 : elke competentie is beschreven met
- []
-
-
-Overfull \hbox (15.11966pt too wide) in paragraph at lines 86--87
-[]\TU/Montserrat(1)/m/n/10.95 Het proof-of-concept leerplatform \TU/Montserrat(2)/b/n/10.95 implementeert het competentiekader\TU/Montserrat(1)/m/n/10.95 : com-
- []
-
-
 
 [2]) (./standvanzaken.tex
 
@@ -2024,7 +2004,7 @@ Overfull \hbox (5.75507pt too wide) in paragraph at lines 183--183
 
 
 [43]
-runsystem(latexminted cleantemp  --timestamp 20260510173338 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+runsystem(latexminted cleantemp  --timestamp 20260511112649 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
