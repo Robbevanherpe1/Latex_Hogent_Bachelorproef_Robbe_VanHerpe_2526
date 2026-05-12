@@ -9,12 +9,12 @@
 \contentsline {section}{\numberline {1.4}Opzet van deze bachelorproef}{3}{section.1.4}%
 \contentsline {chapter}{\numberline {2}Stand van zaken}{4}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Het begrip mainframe}{4}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}definitie van een mainframe}{4}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.1}Definitie van een mainframe}{4}{subsection.2.1.1}%
 \contentsline {section}{\numberline {2.2}Belangrijkste kenmerken van een mainframe}{5}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Veiligheid}{5}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Virtualisatie}{5}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}Beschikbaarheid en betrouwbaarheid}{6}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}Mainframe AI}{6}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.4}Mainframe modernisatie}{6}{subsection.2.2.4}%
 \contentsline {section}{\numberline {2.3}Mainframe-ontwikkeling in een hedendaagse context}{7}{section.2.3}%
 \contentsline {section}{\numberline {2.4}Skills gap en vergrijzing als structureel probleem}{7}{section.2.4}%
 \contentsline {section}{\numberline {2.5}Initiatieven om instroom van nieuw talent te vergroten}{8}{section.2.5}%

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  11 MAY 2026 12:44
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  12 MAY 2026 20:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1781,6 +1781,11 @@ Overfull \hbox (6.34775pt too wide) in paragraph at lines 152--154
  []
 
 
+Overfull \hbox (4.89963pt too wide) in paragraph at lines 160--165
+\TU/Montserrat(1)/m/n/10.95 Hoewel mainframe-technologie vaak als verouderde technologie wordt beschouwd,
+ []
+
+
 Overfull \hbox (15.84843pt too wide) in paragraph at lines 176--180
 \TU/Montserrat(1)/m/n/10.95 teerd wordt met vergrijzing en hierdoor een verlies aan kennis tegemoet gaat. Sharma
  []
@@ -1788,6 +1793,11 @@ Overfull \hbox (15.84843pt too wide) in paragraph at lines 176--180
 
 
 [7]
+Overfull \hbox (11.9685pt too wide) in paragraph at lines 181--183
+\TU/Montserrat(1)/m/n/10.95 lingen mainframegerichte opleidingsonderdelen aanbieden. Hierdoor is de instroom
+ []
+
+
 
 [8]
 Overfull \hbox (19.88333pt too wide) in paragraph at lines 223--223
@@ -2004,7 +2014,7 @@ Overfull \hbox (5.75507pt too wide) in paragraph at lines 183--183
 
 
 [43]
-runsystem(latexminted cleantemp  --timestamp 20260511124412 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+runsystem(latexminted cleantemp  --timestamp 20260512205003 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
@@ -2012,7 +2022,7 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `VanHerpeRobbe.out' has not changed.
-(rerunfilecheck)             Checksum: 0531FD3B43DB9CAB956EF7ADAF54D993;15484.
+(rerunfilecheck)             Checksum: 9E311987D8E46E290F0453E3DC25F7CB;15534.
 Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 \openout1 = `VanHerpeRobbe.run.xml'.
 
@@ -2020,7 +2030,7 @@ Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 Here is how much of TeX's memory you used:
  50101 strings out of 473832
  1035085 string characters out of 5729480
- 2279799 words of memory out of 5000000
+ 2280809 words of memory out of 5000000
  72378 multiletter control sequences out of 15000+600000
  561841 words of font info for 101 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191

@@ -50,9 +50,9 @@
 %   \caption[Voorbeeld tabel]{\label{tab:example}Voorbeeld van een tabel.}
 % \end{table}
 
-Dit hoofdstuk bouwt verder op de probleemstelling uit de inleiding, en schets de huidige stand van zaken rond de instroom van nieuwe mainframe PL1 en CICS ontwikkelaars.
-Daarnaast word het belang van PL1 met CICS en mainframes aangetoond op basis van actuele metingen in het arbeid veld.
-Tenslotte wordt er gekeken naar andere frameworks en waarom een competentie framework essentieel is voor het aanbrengen van PL1 en CICS bij nieuw talent.
+Dit hoofdstuk bouwt verder op de probleemstelling uit de inleiding, en schetst de huidige stand van zaken rond de instroom van nieuwe mainframe PL/1 en CICS ontwikkelaars.
+Daarnaast wordt het belang van PL/1 met CICS en mainframes aangetoond op basis van actuele metingen in het werkveld.
+Tenslotte wordt er gekeken naar andere frameworks en waarom een competentieframework essentieel is voor het aanbrengen van PL/1 en CICS bij nieuw talent.
 
 \section{Het begrip mainframe}%
 \label{sec:begrip-mainframe}
@@ -62,12 +62,12 @@ De term wordt in de praktijk soms gebruikt alsof het gewoon om een zeer grote se
 Binnen de literatuur en documentatie over enterprise computing verwijst een mainframe naar een specifiek type platform dat ontworpen is voor continuïteit,
 grootschalige verwerking, en hoge betrouwbaarheid \cite{spruth2010}.
 
-\subsection{definitie van een mainframe}%
+\subsection{Definitie van een mainframe}%
 \label{sec:definitie-mainframe}
 
-Een mainframe kan omschreven worden als een enorm sterke computer, maar tot in tegenstelling van andere servers is zijn doel heel specifiek.
+Een mainframe kan omschreven worden als een enorm sterke computer, maar in tegenstelling tot andere servers is zijn doel heel specifiek.
 Het doel is het verwerken van enorm veel transacties op een zeer betrouwbare manier.
-Een mainframe is gebouwd om de downtime zo veel mogelijk te verkleinen om bedrijfskritieke toepassinengen steeds draaiende te houden.
+Een mainframe is gebouwd om de downtime zo veel mogelijk te verkleinen om bedrijfskritieke toepassingen steeds draaiende te houden.
 
 \section{Belangrijkste kenmerken van een mainframe}
 \label{sec:kenmerken-mainframe}
@@ -75,79 +75,79 @@ Een mainframe is gebouwd om de downtime zo veel mogelijk te verkleinen om bedrij
 \subsection{Veiligheid}%
 \label{sec:Veiligheid-mainframe}
 
-Een van de belangerijkste kenmerken van een mainframe is zijn hoge securability,
- wat besproken in vershillende studies en papers van onder andere \cite{spruth2010} en \cite{ebbers2005}.
+Een van de belangrijkste kenmerken van een mainframe is zijn hoge securability,
+ wat besproken in verschillende studies en papers van onder andere \cite{spruth2010} en \cite{ebbers2005}.
 Een mainframe is van bij het begin ontworpen om zo veilig mogelijk gemaakt te worden.
 
-Dit mag wel niet in verwarring gebracht worden met "secure by design", een mainframe is maar zo veilig als de beveiligings maatregelen die er op geconfigureerd worden \cite{buecker2016security}.
+Dit mag wel niet in verwarring gebracht worden met "secure by design", een mainframe is maar zo veilig als de beveiligingsmaatregelen die er op geconfigureerd worden \cite{buecker2016security}.
 
 Maar over het algemeen is de mainframe in veel bedrijven het meest veilige systeem tegen cybercriminelen,
- mede doordat IBM de hardware en software ontwikkeld wat mogelijk maakt om beveiligingen op alle niveaus te plaatsen \cite{buecker2016security}.
+ mede doordat IBM de hardware en software ontwikkelt, wat mogelijk maakt om beveiligingen op alle niveaus te plaatsen \cite{buecker2016security}.
 
 Een voorbeeld van dit hoge niveau aan veiligheid is dat vanaf de Z16 mainframe de beveiliging kwantum veilig is.
-De Z16 was het eerste systeem in de industrie die kwantum cryptograpfie over verschillende lagen van firmware toepaste.
-Dit werd bereikt door het toepassen van algoritmes bij versleuteling die geselecteerd zijn door NIST als post kwantum standaart \cite{bradbury2021quantumsafe}.
-Zo is de mainframe met zijn beveiligings algoritmes bestand tegen toekomstige kwantum computers, wat een extra troef is tegenover andere systemen.
+De Z16 was het eerste systeem in de industrie die kwantumcryptografie over verschillende lagen van firmware toepaste.
+Dit werd bereikt door het toepassen van algoritmes bij versleuteling die geselecteerd zijn door NIST als post kwantum standaard \cite{bradbury2021quantumsafe}.
+Zo is de mainframe met zijn beveiligingsalgoritmes bestand tegen toekomstige kwantumcomputers, wat een extra troef is tegenover andere systemen.
 
 
 \subsection{Virtualisatie}%
 \label{sec:virtualisatie-mainframe}
 
 Een tweede kenmerk van een mainframe is de ondersteuning voor virtualisatie door het gebruik van logische partieties (LPARS).
-Deze LPARS zijn logsihe partieties die een fysieke machine opslitsen in meerdere compleet afhankelijke virtuele systemen \cite{buecker2016security}.
-De mainframe wordt dan op software niveau verdeelt zodat elke LPAR  over zijn eigen resources beschikt.
-Daarnaast kan iedere LPAR zijn eigen besturingssyteem draaien wat zorgt voor het zeer hoge flexibiliteit.
+Deze LPARS zijn logische partities die een fysieke machine opslitsen in meerdere compleet onafhankelijke virtuele systemen \cite{buecker2016security}.
+De mainframe wordt dan op softwareniveau verdeeld zodat elke LPAR over zijn eigen resources beschikt.
+Daarnaast kan iedere LPAR zijn eigen besturingssysteem draaien wat zorgt voor het zeer hoge flexibiliteit.
 
-Deze virtualisatie laag brengt dan enkele concrete voordelen.
-Ten eerste laat het toe om workloads heel flexibel te verdelen tussen vershillende partities, wat zorgt voor optimaal gebruik van de resources.
-Een tweede voordeel dat een virtualisatie laag bied is dat fouten binnen een LPAR beperkt blijven tot zijn resources.
-Naast deze voordelen voor het systeem en de workloads geeft het ook de mogelijkhied om de machine op te delen in vershillende enviroments.
-Deze enviroments kunnen dan op één machine dienen voor ontwikkeling of test omgevingen, wat organisaties extra flexibiliteit geeft bij het beslissen van hoeveel machines ze nodig hebben.
-Door het opdelen van het systeem met een tussen laag kan er ook extra beveiliging aan gebracht worden tussen deze lagen.
-Hierdoor is het gebruik logishe partities binnen een mainframe heel voordelig binnen grote organisaties..
+Deze virtualisatielaag brengt dan enkele concrete voordelen.
+Ten eerste laat het toe om workloads heel flexibel te verdelen tussen verschillende partities, wat zorgt voor optimaal gebruik van de resources.
+Een tweede voordeel dat een virtualisatielaag biedt is dat fouten binnen een LPAR beperkt blijven tot zijn resources.
+Naast deze voordelen voor het systeem en de workloads geeft het ook de mogelijkheid om de machine op te delen in verschillende omgevingen.
+Deze omgevingen kunnen dan op één machine dienen voor ontwikkeling of testomgeving, wat organisaties extra flexibiliteit geeft bij het beslissen van hoeveel machines ze nodig hebben.
+Door het opdelen van het systeem met een tussenlaag kan er ook extra beveiliging aan gebracht worden tussen deze lagen.
+Hierdoor is het gebruik van logische partities binnen een mainframe heel voordelig binnen grote organisaties.
 
 \subsection{Beschikbaarheid en betrouwbaarheid}%
 \label{sec:beschikbaarheid-mainframe}
 
-Een derde en zeer belangerijke eigenschap van de mainframe is de zeer hoge betrouwbaarheid en beschikbaarheid \cite{raju2024ras}.
-Doordat IBM de hardware en de software ontwikkeld kan men veel dieper gaan en veel lagen van veiligheid inbouwen.
+Een derde en zeer belangrijke eigenschap van de mainframe is de zeer hoge betrouwbaarheid en beschikbaarheid \cite{raju2024ras}.
+Doordat IBM de hardware en de software ontwikkelt kan men veel dieper gaan en veel lagen van veiligheid inbouwen.
 Volgens IBM is de uptime dan ook 99,999 procent wat uitkomt op een 5 minuten per jaar van downtime.
-Dit is veel lager dan geditribueerde systemen en is vaak nog een onderschatting met nieuwe systemen zoals de Z17(nieuwste mainfame) die wel 99,9999999 procent uptime kunnen hebben.
+Dit is veel lager dan gedistribueerde systemen en is vaak nog een onderschatting met nieuwe systemen zoals de Z17(nieuwste mainframe) die wel 99,9999999 procent uptime kunnen hebben.
 Hierdoor is dit een van de meest geschikte machines voor bedrijfskritieke processen op te draaien binnen grote organisatie.
 
 Om deze hoge uptime te kunnen garanderen maakt IBM gebruik van software en hardware features die samen in harmonie werken om tot een heel betrouwbaar systeem te leiden \cite{spruth2010}.
 Enkele voorbeelden van deze features zijn:
-Op het laagste niveau de Recovery Unit(RU), dit is een hardware component die geintegreerd is in de chip zelf.
-Wanneer zich een fout voordoet in het systeem, bijvoorbeeld een bitflip of een defecte transistor detecteerd en isoleerd de RU dit probleem onmiddelijk.
-Het getroffen component wordt automatish vervangen door een backup component op de zelfde chip.
-Hierdoor is de impact op het complete syteem minimaal en kunnen andere processen ongestoord verder draaien.
+Op het laagste niveau de Recovery Unit(RU), dit is een hardwarecomponent die geïntegreerd is in de chip zelf.
+Wanneer zich een fout voordoet in het systeem, bijvoorbeeld een bitflip of een defecte transistor detecteert en isoleert de RU dit probleem onmiddellijk.
+Het getroffen component wordt automatisch vervangen door een backup component op dezelfde chip.
+Hierdoor is de impact op het complete systeem minimaal en kunnen andere processen ongestoord verder draaien.
 
-Een niveau hoger spreken we van de parallel sysplex achitectuur.
-Hierbij werken verschillende mainframes samen als één logish systeem en delen ze databases en resources.
+Een niveau hoger spreken we van de parallel sysplex architectuur.
+Hierbij werken verschillende mainframes samen als één logisch systeem en delen ze databases en resources.
 Door deze verbondenheid tussen machines kan in het geval dat er een uitvalt de workload verplaatst worden naar een ander systeem.
 Dit herstel op een ander systeem verloopt heel snel en zonder dataverlies, dit kan enkele seconden tot minuten duren.
 
-Dan op het hoogste niveau staat IBM GDPS(Geographically Disersed parallel sysplex).
+Dan op het hoogste niveau staat IBM GDPS(Geographically Dispersed parallel sysplex).
 Aan de hand van deze technologie is een failover tussen verschillende gescheiden datacenters mogelijk.
 Dit systeem is in staat om de replicatie van data en overschakeling van werklasten  tussen verschillende locaties te controleren.
-In geval van een cyber aanval of stroom panne op een bepaalde site is dit een laatse maar drastisch oplossing om het syteem draaiende te houden.
+In geval van een cyberaanval of stroompanne op een bepaalde site is dit een laatste maar drastische oplossing om het systeem draaiende te houden.
 
 Samen vormen deze drie niveaus voor een zeer robuuste architectuur waarbij gelokaliseerde fouten nooit kunnen uitgroeien tot problemen die het systeem stoppen.
-Grote financiele instellingen rekenen nu juist op deze betrouwbaarheid om er voor te zorgen dat de financiele wereled niet in elkaar valt.
+Grote financiële instellingen rekenen nu juist op deze betrouwbaarheid om er voor te zorgen dat de financiële wereld niet in elkaar valt.
 
-\subsection{Mainframe AI}%
+\subsection{Mainframe modernisatie}%
 \label{sec:AI-mainframe}
 
-Een vierde en steeds meer belagerijke eigenschap van de mainfame is de integratie met artificiële intelligentie.
+Een vierde en steeds meer belangrijke eigenschap van de mainframe is de integratie met artificiële intelligentie.
 Huidige systemen hebben deze integratie rechtstreeks ingebouwd op de processor zelf.
 Deze technologie is mogelijk gemaakt door de IBM telum chip zoals beschreven in de paper over de ai accelerator op de IBM telum processor van \cite{lichtenau2022telum}.
 
-De Telum chip is de eerste processor met een geintegreerde AI accelerator voor krachtige server computers.
-Het grote voordeel van een geintegreerde AI accelerator op de chip is de mogelijkheid om data te verwerken zonder dat deze de chip moet verlaten.
-Dit laat toe dat AI modelen zoals transactie fraude detectie kunnen draaien zonder dat hierdoor de transactie lang moet wachten.
+De Telum chip is de eerste processor met een geïntegreerde AI accelerator voor krachtige servercomputers.
+Het grote voordeel van een geïntegreerde AI accelerator op de chip is de mogelijkheid om data te verwerken zonder dat deze de chip moet verlaten.
+Dit laat toe dat AI modellen zoals transactiefraudedetectie kunnen draaien zonder dat hierdoor de transactie lang moet wachten.
 
-Hierdoor is het mogelijk om fraude detectie te draaien voor iedere transactie, in plaats van het gebruik van steekproeven.
-Grote financiële instellingen kunnen hierdoor elke creditkaart transactie laten controleren op fraude zonder dat dit zorgt voor merkbare vertraging.
+Hierdoor is het mogelijk om fraudedetectie te draaien voor iedere transactie, in plaats van het gebruik van steekproeven.
+Grote financiële instellingen kunnen hierdoor elke creditcardtransactie laten controleren op fraude zonder dat dit zorgt voor merkbare vertraging.
 
 In de nieuwste IBM systemen is deze technologie nog verder ontwikkeld met tweede generatie Telum chips en de Spyre accelerator.
 Door deze evolutie is de rekenkracht tot wel 4 maal vergroot, wat de mainframe in staat stelt om krachtigere algoritmes te draaien op iedere transactie.
@@ -157,16 +157,16 @@ Door deze evolutie is de rekenkracht tot wel 4 maal vergroot, wat de mainframe i
 \section{Mainframe-ontwikkeling in een hedendaagse context}%
 \label{sec:mainframe_context}
 
-Hoewel mainframe-technologie vaak als verouderd technologie wordt beschouwd, blijft door voorgaande kenmerken de mainframe een cruciaal onderdeel om bedrijfskritische processen te draaien in bepaalde sectoren.
+Hoewel mainframe-technologie vaak als verouderde technologie wordt beschouwd, blijft door voorgaande kenmerken de mainframe een cruciaal onderdeel om bedrijfskritische processen te draaien in bepaalde sectoren.
 Organisaties die sterk inzetten op betrouwbaarheid, beschikbaarheid en voorspelbare verwerking blijven daarom investeren in z/OS-omgevingen. 
-Voor deze organisaties word de mainframe gezien als een gespecialiseerd platform voor hun bedrijfskritieke teopassingen.
+Voor deze organisaties wordt de mainframe gezien als een gespecialiseerd platform voor hun bedrijfskritieke toepassingen.
 Waar moderne systemen vaak gericht zijn op flexibiliteit en snelle iteratie, ligt de sterkte van de mainframe juist in zijn stabiliteit en continue beschikbaarheid.
 Door dit blijvend belang van mainframes binnen deze organisaties is de nood aan ontwikkelaars om deze te onderhouden nog steeds even groot.
 
-Maar wat wordt nu juist bedoelt met een ontwikkelaars in deze mainframe context.
-Een mainframe developer is een softwareontwikkelaar die applicaties op de mainframe analyseerd, onderhoudt, uitbreidt en test.
-Voor PL1 en CICS ontwikkelaars betekend dit concreet dat zij bussineslogica analyseren en aanpassen, transactieflows begrijpen en onderzoeken van fouten en het oplossen hiervan binnen legacy code omgevingen.
-In deze rol wordt er dan niet enkel programmeer kennis verwacht maar ook een grote portie aan inzicht in de achitectuur, processen en historishe opbouw van het systeem.
+Maar wat wordt nu juist bedoeld met een ontwikkelaar in deze mainframecontext.
+Een mainframe developer is een softwareontwikkelaar die applicaties op de mainframe analyseert, onderhoudt, uitbreidt en test.
+Voor PL/1 en CICS ontwikkelaars betekent dit concreet dat zij businesslogica analyseren en aanpassen, transactieflows begrijpen en onderzoeken van fouten en het oplossen hiervan binnen legacy code omgevingen.
+In deze rol wordt er dan niet enkel programmeerkennis verwacht maar ook een grote portie aan inzicht in de architectuur, processen en historische opbouw van het systeem.
 Voor het onderhouden van deze systemen heeft men dus profielen nodig met enige ervaring in het onderhouden van legacy systemen, en net deze worden steeds moeilijker te vinden.
 
 
@@ -178,11 +178,11 @@ Sharma toont aan dat het aanleren van mainframevaardigheden in het onderwijs ste
 Ook Ngo-Ye beschrijft hoe de kloof tussen academische curricula en de verwachtingen van bedrijven blijft groeien \autocite{NgoYe2018TeachingMainframeSkills}..
 Dit zorgt dan voor een probleem bij het vinden van geschikte starters om deze legacy systemen te onderhouden.
 
-Het probleem wordt vergroot doordat slechts een beperkt aantal onderwijsinstellingen mainframe gerichte opleidingsonderdelen aanbieden.
+Het probleem wordt vergroot doordat slechts een beperkt aantal onderwijsinstellingen mainframegerichte opleidingsonderdelen aanbieden.
 Hierdoor is de instroom van nieuw talent beduidend laag, wat zorgt voor een groot probleem want de vraag in sectoren zoals de financiële wereld ligt hoger dan ooit.
 
-Niet alleen is er een tekort aan mainframe gerichte opleidingen maar ook een tekort aan motivatie bij studenten.
-Zij gaan sneller kiezen voor moderne technologieën die als toekomst gericht worden gezien.
+Niet alleen is er een tekort aan mainframegerichte opleidingen maar ook een tekort aan motivatie bij studenten.
+Zij gaan sneller kiezen voor moderne technologieën die als toekomstgericht worden gezien.
 Door dit kleiner aanbod aan studenten en verandering van focus bij onderwijsinstellingen is de instroom van nieuw talent voor de mainframe steeds aan het verkleinen \autocite{Phillips2013Mainframe}.
 Hierdoor ontstaat een vicieuze cirkel, minder onderwijsaanbod leidt tot minder interesse wat de instroom nog verder doet dalen. 
 Voor organisaties zoals Euroclear betekent dit een reëel risico op kennisverlies wanneer ervaren medewerkers op pensioen gaan en hun expertise onvoldoende kan worden overgedragen naar de nieuwe werknemers.
@@ -193,31 +193,31 @@ Voor organisaties zoals Euroclear betekent dit een reëel risico op kennisverlie
 
 Voor dit probleem op te lossen en de kloof te verkleinen zijn er verschillende initiatieven ingezet de laatste jaren om de toegankelijkheid van leermateriaal te vergroten.
 Programma’s zoals IBM Z Xplore verlagen de drempel door deelnemers stapsgewijs kennis te laten opbouwen en die vooruitgang zichtbaar te maken via badges of certificaten. 
-Door het gebruik van deze certificaten kunnen ze een meetbaar bewijstuk aanbregen van hun vaardigheden en daarnaast werkt dit heel motiverend.
+Door het gebruik van deze certificaten kunnen ze een meetbaar bewijsstuk aanbrengen van hun vaardigheden en daarnaast werkt dit heel motiverend.
 Ook leertrajecten die dichter aansluiten bij het werkveld zoals IBM apprenticeships.
-Hier wordt gebruik gemaakt van rolgericht verwachtingen en praktische begeleiding, door een duidelijk pad te hebben voor zich voor te bereiden op een bepaalde job \autocite{ibm_mainframe_apprentice_2023}.
+Hier wordt gebruik gemaakt van rolgerichte verwachtingen en praktische begeleiding, door een duidelijk pad te hebben om zich voor te bereiden op een bepaalde job \autocite{ibm_mainframe_apprentice_2023}.
 Deze initiatieven tonen dat er een duidelijke nood is aan gestructureerde leerpaden, maar ze benadrukken ook dat er een nood is aan validatie en een overzicht van de nodige competenties.
 
 \section{Onboarding van nieuwe ontwikkelaars in legacy omgevingen }%
 \label{sec:Onboarding_ontwikkelaars}
 
-Met dit structureel tekort aan nieuw talent is het heel belangerijk om de startende ontwikkelaars zo effectief mogelijk 
+Met dit structureel tekort aan nieuw talent is het heel belangrijk om de startende ontwikkelaars zo effectief mogelijk 
 te laten integreren in een team.
-Dit begint al bij de onboarding waar enkele punten criciaal zijn voor het opbouwen van kennis en vertrouwen bij een nieuw teamlid.
-Literatuur over developer onboarding \autocite{Britto2017} toont aan dat de instroom van nieuwe ontwikkelaars niet enkel afhangt van technishe opleidingen, maar dat er meer aspecten dit beinvloeden.
-Het gestructureed inwerkingsprocess blijkt een soms even groot belang te hebben als de technishe skills.
+Dit begint al bij de onboarding waar enkele punten cruciaal zijn voor het opbouwen van kennis en vertrouwen bij een nieuw teamlid.
+Literatuur over developer onboarding \autocite{Britto2017} toont aan dat de instroom van nieuwe ontwikkelaars niet enkel afhangt van technische opleidingen, maar dat er meer aspecten dit beïnvloeden.
+Het gestructureerd inwerkingsproces blijkt een soms even groot belang te hebben als de technische skills.
 Britto \autocite{Britto2017} toont aan dat onboarding van developers in legacy softwareteams opgebouwd is uit drie delen: 
 leren, zelfvertrouwen en sociale integratie binnen het team.
-Uit deze studie blijkt dat de eerste taken die een ontwikkelaar krijgt sterk kan beinvloeden hoe snel een nieuwe ontwikkelaar productief kan worden.
+Uit deze studie blijkt dat de eerste taken die een ontwikkelaar krijgt sterk kan beïnvloeden hoe snel een nieuwe ontwikkelaar productief kan worden.
 Daarnaast is het belang van goede initiële begeleiding niet te onderschatten.
-Een zelfverzekerde en goed begeleide beginner gaat veer sneller complexe code achitectuur snappen doordat ze fouten durven te maken.
+Een zelfverzekerde en goed begeleide beginner gaat veel sneller complexe code architectuur snappen doordat ze fouten durven te maken.
 Daarnaast is het communiceren met ervaren medewerkers een van de punten die een nieuwe ontwikkelaar,
 het meeste kunnen helpen om de complexe systemen van hun bedrijf te snappen.
-Dit is zeer relevant bij legacy systemen waar de complexitiet zeer hoog is en een groot deel de historishe kennis als een vereiste heeft om het hedendaagse te kunnen begrijpen.
+Dit is zeer relevant bij legacy systemen waar de complexiteit zeer hoog is en een groot deel de historische kennis als een vereiste heeft om het hedendaagse te kunnen begrijpen.
 
 Maar voor deze onboarding vlotter te laten verlopen is een kennis aan geschiedenis in legacy systemen 
-en een kleine basis in technishe skills soms net het gene dat iemand heel snel productief kan maken.
-Hiervoor is het gebruik van een competentie framework ideaal en geeft een duidelijk beeld over aan wat nog moet gewerkt worden om productief te zijn.
+en een kleine basis in technische skills soms net datgene wat iemand heel snel productief kan maken.
+Hiervoor is het gebruik van een competentieframework ideaal en geeft een duidelijk beeld over aan wat nog moet gewerkt worden om productief te zijn.
 
 
 \section{Competentieframeworks als fundament voor opleidingsopbouw}%
@@ -226,47 +226,47 @@ Hiervoor is het gebruik van een competentie framework ideaal en geeft een duidel
 
 Een competentieframework vertrekt vanuit een duidelijke definitie rond het begrip competentie.
 In de literatuur wordt een competentie niet beperkt tot het bezitten van kennis maar als een combinatie van kennis,
-vaardigheden en attitudes dat iemand is staat stelt om om effectief te kunnen functioneren in een profesionele rol.
+vaardigheden en attitudes die iemand in staat stelt om effectief te kunnen functioneren in een professionele rol.
 
 Een competentieframework maakt aan de hand van een overzicht duidelijk welke kennis en vaardigheden verwacht worden voor een bepaalde rol en helpen aan de hand van leerdoelen om de student een duidelijk stappenplan te bezorgen.
 
 Voor mainframe profielen bestaan er al meerdere competentieframeworks.
-IBM heeft bijvoorbeeld enkele frameworks zoals IBM Z Systems Administrator Level 1 en Level 2 gepubliceerde \autocite{ibm_z_sysadmin_level1,ibm_z_sysadmin_level2}.
-Deze bevatten bruikbare elementen zoals opbouw en formulering van competenties, maar zijn hoofdzakelijk gericht op de systeem en beheer kant van de mainframe. 
+IBM heeft bijvoorbeeld enkele frameworks zoals IBM Z Systems Administrator Level 1 en Level 2 gepubliceerd \autocite{ibm_z_sysadmin_level1,ibm_z_sysadmin_level2}.
+Deze bevatten bruikbare elementen zoals opbouw en formulering van competenties, maar zijn hoofdzakelijk gericht op de systeem en beheerkant van de mainframe. 
 Voor organisaties die vooral applicatieontwikkeling op z/OS willen ondersteunen is de meerwaarde daarom beperkt.
 
 Daarnaast bestaat er een breder development georiënteerd framework van IBM om Z/OS ontwikkelaars algemene skills aan te brengen.
-Het Application Developer on IBM Z competentieframework \autocite{ibm_app_dev_z_2023} geeft een overzicht van belangrijke onderwerpen voor z/OS development, maar blijft op verschillende punten te algemeen om gebruikt te worden als framework voor PL1 en CICS developers binnen een bedrijf als Euroclear.
-De focus van dit framework ligt te veel op COBOL development, maar de structuur en aanpak om development te leren zijn wel twee aspecten die een grote meerwaarde zijn voor het ontwerpen van een nieuw PL1 en CICS development competentie framework.
+Het Application Developer on IBM Z competentieframework \autocite{ibm_app_dev_z_2023} geeft een overzicht van belangrijke onderwerpen voor z/OS development, maar blijft op verschillende punten te algemeen om gebruikt te worden als framework voor PL/1 en CICS developers binnen een bedrijf als Euroclear.
+De focus van dit framework ligt te veel op COBOL development, maar de structuur en aanpak om development te leren zijn wel twee aspecten die een grote meerwaarde zijn voor het ontwerpen van een nieuw PL/1 en CICS development competentieframework.
 
 \section{PL/I en CICS binnen z/OS-ontwikkeling}%
 \label{sec:pli_cics_zos} 
 
 
 
-De technologieën die worden gebruikt op de mainframe zijn historish verbonden aan de achitectuur van de hardware zelf.
-Twee technologieën die heel belangerijk zijn binnen mainframe developement zijn PL1 en CICS.
-Samen vormen ze de ruggengraat binnen veel organisaties voor hun bedrijfscritieke applicaties op IBM Z systemen. 
+De technologieën die worden gebruikt op de mainframe zijn historisch verbonden aan de architectuur van de hardware zelf.
+Twee technologieën die heel belangrijk zijn binnen mainframe development zijn PL/1 en CICS.
+Samen vormen ze de ruggengraat binnen veel organisaties voor hun bedrijfskritieke applicaties op IBM Z systemen. 
 
 \subsection{PL/I als ontwikkeltaal op het mainframe}%
 \label{sec:pli-taal}
 
 Naast Cobol en Java is PL/I (Programming Language One) een van de meest gebruikte talen voor ontwikkeling op het mainframe. 
-PL1 werd in 1964 door IBM ontwikkeld met als doel een programeertaal te maken die wetenshappelijke toepassingen kon maken maar ook zakelijke.
+PL/1 werd in 1964 door IBM ontwikkeld met als doel een programmeertaal te maken die wetenschappelijke toepassingen kon maken maar ook zakelijke.
 
 
 Je ziet PL/I bijvoorbeeld in de financiële sector bij organisaties zoals Euroclear, maar ook in andere omgevingen zoals staalverwerking bij ArcelorMittal. 
 Dat is niet toevallig, de taal is gebouwd om grote hoeveelheden transacties efficiënt te verwerken net zoals Cobol \cite{dau2024xmainframe}. 
 IBM probeerde de wiskundige kracht van Fortran en de zakelijke kracht van Cobol te combineren tot één taal die alles kan.
-Hierdoor is PL/I iets minder business georienteerd, waardoor sommige developers het iets toegankelijker vinden om mee te starten.
+Hierdoor is PL/I iets minder business georiënteerd, waardoor sommige developers het iets toegankelijker vinden om mee te starten.
 
 Op zichzelf zijn PL/I en Cobol relatief toegankelijke talen, maar in de praktijk kom je ze vooral tegen in legacy omgevingen. 
-Daar bevind zich nu net de complexiteit en uitdaging voor nieuwe developers.
+Daar bevindt zich nu net de complexiteit en uitdaging voor nieuwe developers.
 De systemen er rond zijn door de jaren heen uitgebreid en aangepast waardoor de totale complexiteit sterk is toegenomen.
 
 Dat heeft ook te maken met de rol die deze applicaties spelen binnen financiële instellingen,
  daar draaien ze vaak de meest kritieke workloads. 
-Voor het veranderen van deze kritiek toepassingen in productie zijn de regels vaak heel beperkend.
+Voor het veranderen van deze kritieke toepassingen in productie zijn de regels vaak heel beperkend.
 Door deze heel strikte en beperkte manier van werken worden nieuwe problemen soms opgelost met workarounds of minimale aanpassingen.
 Hierdoor zijn oplossingen niet altijd optimaal en de technische schuld blijft verder groeien.
 
@@ -275,35 +275,35 @@ Hierdoor zijn oplossingen niet altijd optimaal en de technische schuld blijft ve
 
 CICS (Customer Information Control System) is een middlewareplatform dat werkt als een OLTP (online transactie verwerkings systeem) tussen het z/OS besturingssysteem en de bedrijfsapplicaties \cite{horswill2000cics}.
 Het werd in 1968 ontwikkeld door IBM als een tijdelijke oplossing voor System/360 machines.
-Desondanks is deze tehcnologie uitgegroeid tot een van de grootste software platformen binnen de mainframe industrie.
-Vandaag verwerkt deze technologie meer dan tientallen miljarden transacties per dag, en wordt gebruikt in vershillende industrieën.
-CICS word ingezet in de financiele wereld bij banken en verzekeraars maar ook in de gezondsheidzorg, overheid en winkelketens.
+Desondanks is deze technologie uitgegroeid tot een van de grootste softwareplatformen binnen de mainframe industrie.
+Vandaag verwerkt deze technologie meer dan tientallen miljarden transacties per dag, en wordt gebruikt in verschillende industrieën.
+CICS wordt ingezet in de financiële wereld bij banken en verzekeraars maar ook in de gezondheidszorg, overheid en winkelketens.
 
-Het belangerjkste kenmerk dat CICS relevant heef gehouden is de hoge flexibiliteit en taalondersteuning.
-CICS is compatibel met vershillende talen zoals COBOL, PL1, Java en C++, wat het makkelijk laat integreren met nieuwe en bestaande applicatielagen.
+Het belangrijkste kenmerk dat CICS relevant heeft gehouden is de hoge flexibiliteit en taalondersteuning.
+CICS is compatibel met verschillende talen zoals COBOL, PL/1, Java en C++, wat het makkelijk laat integreren met nieuwe en bestaande applicatielagen.
 
 
 \subsection{PL/I en CICS als complementair geheel}%
 \label{sec:pli-cics-samen}
 
-PL1 en CICS vormen samen een complimentaire basis binnen mainframe achitectuur.
-PL1 implementeerd de businesslogica en CICS de trasactielaag die de bussineslogica naar de eindgebruiker brengt.
-Zonder deze samenhang van de technologiën zouden veel kritieke aplicaties in de financiële sector niet kunnen functioneren op de schaal en betrouwbaarheid die vandaag verreist is.
+PL/1 en CICS vormen samen een complementaire basis binnen mainframearchitectuur.
+PL/1 implementeert de businesslogica en CICS de transactielaag die de businesslogica naar de eindgebruiker brengt.
+Zonder deze samenhang van de technologieën zouden veel kritieke applicaties in de financiële sector niet kunnen functioneren op de schaal en betrouwbaarheid die vandaag vereist is.
 
-De samenwerking van deze technologieën loopt in lijn met de hoofddoellen van een mainframe systeem.
-Het zorgt voor betrouwbaarheid en schaalbaarheid met een sterke focus op het onderhouden van oude en nieuwe teopassingen.
+De samenwerking van deze technologieën loopt in lijn met de hoofddoelen van een mainframesysteem.
+Het zorgt voor betrouwbaarheid en schaalbaarheid met een sterke focus op het onderhouden van oude en nieuwe toepassingen.
 
 
 \section{Nood aan een PL/I en CICS-gericht framework}%
 \label{sec:nood_framework}
 
 De bestaande frameworks tonen aan dat het opbouwen van een competentieframework rond IBM Z mogelijk is,
-maar het zijn steeds rol specifieke frameworks.
-Voorgaande framework zijn niet gericht op PL1 en CICS developers, met als voorbeeld het sysadmin framework van IBM \autocite{ibm_app_dev_z_2023,ibm_z_sysadmin_level1,ibm_z_sysadmin_level2}.
+maar het zijn steeds rolspecifieke frameworks.
+Voorgaande frameworks zijn niet gericht op PL/1 en CICS developers, met als voorbeeld het sysadmin framework van IBM \autocite{ibm_app_dev_z_2023,ibm_z_sysadmin_level1,ibm_z_sysadmin_level2}.
 
 Het bewezen belang van deze frameworks zijn een duidelijk beeld geven van de competenties die een student moet beheersen om succesvol te zijn in het huidige werkveld.
 Hierdoor gaat de student sneller inzetbaar worden binnen teams en is de skill gap waar interne training voor nodig is zo klein mogelijk \autocite{Sharma2011TeachOrNotTeach,NgoYe2018TeachingMainframeSkills}.
-Voor bedrijven zoals Euroclear waar kennisborging en betrouwbaarheid centraal staan is een framework heel belangerijk.
+Voor bedrijven zoals Euroclear waar kennisborging en betrouwbaarheid centraal staan is een framework heel belangrijk.
 Een framework kan helpen om impliciet kennis van ervaren personen over te brengen en geeft starters een groeipad dat ze kunnen volgen om succesvol te worden binnen hun positie.
 
 
