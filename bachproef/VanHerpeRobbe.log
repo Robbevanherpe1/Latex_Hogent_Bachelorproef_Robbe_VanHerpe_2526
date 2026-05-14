@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  12 MAY 2026 20:50
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  14 MAY 2026 15:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1815,6 +1815,11 @@ Overfull \hbox (19.88333pt too wide) in paragraph at lines 223--223
 [12]
 Hoofdstuk 3.
 
+Overfull \hbox (11.37112pt too wide) in paragraph at lines 56--58
+[]\TU/Montserrat(1)/m/n/10.95 In deze fase wordt gebruikgemaakt van de voorgaande literatuurstudie en bestaande
+ []
+
+
 
 [13
 
@@ -1826,18 +1831,8 @@ File: ../graphics/compframework5.png Graphic file (type bmp)
 
 
 [14]
-File: ../graphics/mainscreen.png Graphic file (type bmp)
-<../graphics/mainscreen.png>
-File: ../graphics/theorie.png Graphic file (type bmp)
-<../graphics/theorie.png>
-File: ../graphics/exercise.png Graphic file (type bmp)
-<../graphics/exercise.png>
 
-
-[15]
-File: ../graphics/quiz.png Graphic file (type bmp)
-<../graphics/quiz.png>
-) (./intervieuws.tex
+[15]) (./intervieuws.tex
 
 [16]
 Hoofdstuk 4.
@@ -2014,7 +2009,7 @@ Overfull \hbox (5.75507pt too wide) in paragraph at lines 183--183
 
 
 [43]
-runsystem(latexminted cleantemp  --timestamp 20260512205003 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+runsystem(latexminted cleantemp  --timestamp 20260514151701 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
@@ -2022,16 +2017,16 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `VanHerpeRobbe.out' has not changed.
-(rerunfilecheck)             Checksum: 9E311987D8E46E290F0453E3DC25F7CB;15534.
+(rerunfilecheck)             Checksum: 9D3D8AC3D7D80D8FF2BA721DE5F64577;16098.
 Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 \openout1 = `VanHerpeRobbe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50101 strings out of 473832
- 1035085 string characters out of 5729480
- 2280809 words of memory out of 5000000
- 72378 multiletter control sequences out of 15000+600000
+ 50102 strings out of 473832
+ 1035123 string characters out of 5729480
+ 2280931 words of memory out of 5000000
+ 72379 multiletter control sequences out of 15000+600000
  561841 words of font info for 101 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,12n,131p,1186b,5923s stack positions out of 10000i,1000n,20000p,200000b,200000s
