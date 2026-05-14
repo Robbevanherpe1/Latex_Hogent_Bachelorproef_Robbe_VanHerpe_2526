@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  14 MAY 2026 15:17
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  14 MAY 2026 19:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1863,12 +1863,12 @@ Hoofdstuk 5.
 ]
 
 [21]
-Overfull \hbox (4.0894pt too wide) in paragraph at lines 95--96
+Overfull \hbox (4.0894pt too wide) in paragraph at lines 94--95
 []\TU/Montserrat(2)/b/n/10.95 Buildprocessen en Foutafhandeling (Competentie 8-10): \TU/Montserrat(1)/m/n/10.95 Behandelt de build-
  []
 
 
-Overfull \hbox (5.4934pt too wide) in paragraph at lines 97--98
+Overfull \hbox (5.4934pt too wide) in paragraph at lines 96--97
 \TU/Montserrat(1)/m/n/10.95 de historische context en modernisering. Dit is cruciaal om de blijvende waarde
  []
 
@@ -1881,7 +1881,7 @@ Overfull \hbox (5.4934pt too wide) in paragraph at lines 97--98
 [24]
 
 [25]
-Overfull \hbox (1.14893pt too wide) in paragraph at lines 237--241
+Overfull \hbox (1.14893pt too wide) in paragraph at lines 235--239
 \TU/Montserrat(1)/m/n/10.95 Voor theorie inhoud wordt waar mogelijk Markdown gebruikt, omdat het laagdrem-
  []
 
@@ -1893,25 +1893,24 @@ File: ../graphics/mainscreen.png Graphic file (type bmp)
 
 
 [27]
-Overfull \hbox (4.84494pt too wide) in paragraph at lines 281--282
+Overfull \hbox (4.84494pt too wide) in paragraph at lines 277--278
 []\TU/Montserrat(1)/m/n/10.95 Deze module sluit direct aan op competentie 12.0 (Historische en enterprise-context)
- []
-
-
-Overfull \hbox (6.71367pt too wide) in paragraph at lines 315--318
-\TU/Montserrat(1)/m/n/10.95 om later PL1 programma’s succesvol in een transactionele omgeving te laten draaien.
  []
 
 
 
 [28]
+Overfull \hbox (11.40027pt too wide) in paragraph at lines 314--317
+\TU/Montserrat(1)/m/n/10.95 om later PL/1 programma’s succesvol in een transactionele omgeving te laten draaien.
+ []
+
+
 
 [29]
-File: ../graphics/theorie.png Graphic file (type bmp)
-<../graphics/theorie.png>
-
 
 [30]
+File: ../graphics/theorie.png Graphic file (type bmp)
+<../graphics/theorie.png>
 File: ../graphics/exercise.png Graphic file (type bmp)
 <../graphics/exercise.png>
 
@@ -1919,6 +1918,11 @@ File: ../graphics/exercise.png Graphic file (type bmp)
 [31]
 File: ../graphics/quiz.png Graphic file (type bmp)
 <../graphics/quiz.png>
+
+Overfull \hbox (3.99596pt too wide) in paragraph at lines 431--436
+\TU/Montserrat(1)/m/n/10.95 wacht wordt en doorloopt steeds dezelfde logische opbouw: eerst begrijpen, daarna
+ []
+
 ) (./conclusie.tex
 
 [32]
@@ -2009,7 +2013,7 @@ Overfull \hbox (5.75507pt too wide) in paragraph at lines 183--183
 
 
 [43]
-runsystem(latexminted cleantemp  --timestamp 20260514151701 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+runsystem(latexminted cleantemp  --timestamp 20260514193629 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
@@ -2017,16 +2021,16 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `VanHerpeRobbe.out' has not changed.
-(rerunfilecheck)             Checksum: 9D3D8AC3D7D80D8FF2BA721DE5F64577;16098.
+(rerunfilecheck)             Checksum: 471082AC75BADCD2845A3C6CF5832A7A;18850.
 Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 \openout1 = `VanHerpeRobbe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50102 strings out of 473832
- 1035123 string characters out of 5729480
- 2280931 words of memory out of 5000000
- 72379 multiletter control sequences out of 15000+600000
+ 50103 strings out of 473832
+ 1035120 string characters out of 5729480
+ 2280879 words of memory out of 5000000
+ 72380 multiletter control sequences out of 15000+600000
  561841 words of font info for 101 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,12n,131p,1186b,5923s stack positions out of 10000i,1000n,20000p,200000b,200000s
