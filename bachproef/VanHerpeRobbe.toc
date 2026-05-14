@@ -35,7 +35,7 @@
 \contentsline {section}{\numberline {3.5}Fase 4: Valideren van het competentieframework en de PoC}{15}{section.3.5}%
 \contentsline {chapter}{\numberline {4}interviews}{17}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Structuur en opbouw van de interviews}{17}{section.4.1}%
-\contentsline {section}{\numberline {4.2}antwoorden van professionals}{18}{section.4.2}%
+\contentsline {section}{\numberline {4.2}Antwoorden van professionals}{18}{section.4.2}%
 \contentsline {section}{\numberline {4.3}Conclusie van de interviews}{19}{section.4.3}%
 \contentsline {chapter}{\numberline {5}Framework en PoC}{20}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Structuur en opbouw van het framework}{20}{section.5.1}%
