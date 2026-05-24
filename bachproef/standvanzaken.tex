@@ -84,7 +84,7 @@ Dit mag wel niet in verwarring gebracht worden met "secure by design", een mainf
 Maar over het algemeen is de mainframe in veel bedrijven het meest veilige systeem tegen cybercriminelen,
  mede doordat IBM de hardware en software ontwikkelt, wat mogelijk maakt om beveiligingen op alle niveaus te plaatsen \cite{buecker2016security}.
 
-Een voorbeeld van dit hoge niveau aan veiligheid is dat vanaf de Z16 mainframe de beveiliging kwantum veilig is.
+Een voorbeeld van het hoge niveau aan veiligheid is dat vanaf de Z16 mainframe de beveiliging kwantum veilig is.
 De Z16 was het eerste systeem in de industrie die kwantumcryptografie over verschillende lagen van firmware toepaste.
 Dit werd bereikt door het toepassen van algoritmes bij versleuteling die geselecteerd zijn door NIST als post kwantum standaard \cite{bradbury2021quantumsafe}.
 Zo is de mainframe met zijn beveiligingsalgoritmes bestand tegen toekomstige kwantumcomputers, wat een extra troef is tegenover andere systemen.
@@ -96,7 +96,7 @@ Zo is de mainframe met zijn beveiligingsalgoritmes bestand tegen toekomstige kwa
 Een tweede kenmerk van een mainframe is de ondersteuning voor virtualisatie door het gebruik van logische partieties (LPARS).
 Deze LPARS zijn logische partities die een fysieke machine opslitsen in meerdere compleet onafhankelijke virtuele systemen \cite{buecker2016security}.
 De mainframe wordt dan op softwareniveau verdeeld zodat elke LPAR over zijn eigen resources beschikt.
-Daarnaast kan iedere LPAR zijn eigen besturingssysteem draaien wat zorgt voor het zeer hoge flexibiliteit.
+Daarnaast kan iedere LPAR zijn eigen besturingssysteem draaien wat zorgt voor zeer hoge flexibiliteit.
 
 Deze virtualisatielaag brengt dan enkele concrete voordelen.
 Ten eerste laat het toe om workloads heel flexibel te verdelen tussen verschillende partities, wat zorgt voor optimaal gebruik van de resources.
@@ -147,7 +147,7 @@ Het grote voordeel van een geïntegreerde AI accelerator op de chip is de mogeli
 Dit laat toe dat AI modellen zoals transactiefraudedetectie kunnen draaien zonder dat hierdoor de transactie lang moet wachten.
 
 Hierdoor is het mogelijk om fraudedetectie te draaien voor iedere transactie, in plaats van het gebruik van steekproeven.
-Grote financiële instellingen kunnen hierdoor elke creditcardtransactie laten controleren op fraude zonder dat dit zorgt voor merkbare vertraging.
+Grote financiële instellingen kunnen hierdoor elke creditcard transactie laten controleren op fraude zonder dat dit zorgt voor merkbare vertraging.
 
 In de nieuwste IBM systemen is deze technologie nog verder ontwikkeld met tweede generatie Telum chips en de Spyre accelerator.
 Door deze evolutie is de rekenkracht tot wel 4 maal vergroot, wat de mainframe in staat stelt om krachtigere algoritmes te draaien op iedere transactie.
@@ -214,10 +214,35 @@ Een zelfverzekerde en goed begeleide beginner gaat veel sneller complexe code ar
 Daarnaast is het communiceren met ervaren medewerkers een van de punten die een nieuwe ontwikkelaar,
 het meeste kunnen helpen om de complexe systemen van hun bedrijf te snappen.
 Dit is zeer relevant bij legacy systemen waar de complexiteit zeer hoog is en een groot deel de historische kennis als een vereiste heeft om het hedendaagse te kunnen begrijpen.
+Om deze technische basis en historische kennis vlot over te brengen, volstaat de klassieke schoolse aanpak echter niet.
+Er is nood aan gerichte leerstrategieën die specifiek aansluiten bij de behoeften van jonge professionals.
 
-Maar voor deze onboarding vlotter te laten verlopen is een kennis aan geschiedenis in legacy systemen 
-en een kleine basis in technische skills soms net datgene wat iemand heel snel productief kan maken.
-Hiervoor is het gebruik van een competentieframework ideaal en geeft een duidelijk beeld over aan wat nog moet gewerkt worden om productief te zijn.
+\section{Leerstrategieën en kennisoverdracht bij jonge IT professionals}%
+\label{sec:leerstrategieen-jong-talent}
+
+Om de instroom en onboarding van nieuw talent in een mainframeomgeving succesvol te laten verlopen, volstaat het niet om enkel technische documentatie aan te bieden.
+De manier waarop jonge professionals leren, vereist een specifieke aanpak.
+Uit recent onderzoek blijkt dat software engineering educatie het meest effectief is wanneer theorie direct gekoppeld wordt aan de praktijk via \textit{experiential learning} \autocite{holmes2018dimensions}.
+
+\subsection{Ervaringsgericht leren in een veilige context}
+Experientiële leertrajecten bieden startende ontwikkelaars de kans om aan de slag te gaan met authentieke taken en reële projecten uit de industrie \autocite{holmes2018dimensions}.
+Binnen een mainframecontext betekent dit dat starters de theorie (zoals z/OS commando's of CICS transacties) direct moeten kunnen toepassen in een veilige testomgeving.
+Dit actieve proces van interactie en reflectie versnelt niet enkel de leercurve, maar helpt ingenieurs ook om complexe ontwerpprincipes en beperkingen in de praktijk sneller te begrijpen \autocite{sotaquira2024hackathons}.
+
+\subsection{Gamification}
+Tot slot leren moderne IT professionals het vlotst wanneer de theorie niet overweldigt, maar juist motiveert via snelle feedback.
+Een goed voorbeeld hiervan is microlearning, waarbij de leerstof wordt opgesplitst in kleine behapbare blokken.
+Dit blijkt in de praktijk heel effectief om technische vaardigheden aan te leren en gerichte kennisgaten snel op te vullen \autocite{granatella}.
+Als je deze aanpak ook nog combineert met gamification, zoals het behalen van badges in IBM Z Xplore (zie sectie \ref{sec:instroom_initiatieven}), raken starters sneller betrokken.
+Hierdoor blijft de motivatie om zichzelf te blijven ontwikkelen ook op de lange termijn behouden \autocite{dinardo2024usage}.
+
+Hoewel deze didactische methoden de \textit{manier waarop} starters leren optimaliseren, vereisen ze wel een duidelijke inhoudelijke structuur.
+Het moet helder zijn \textit{welke} specifieke vaardigheden en domeinkennis in deze leermodules of samenwerkingssessies aan bod moeten komen.
+Hier biedt een competentieframework de benodigde houvast.
+
+
+
+
 
 
 \section{Competentieframeworks als fundament voor opleidingsopbouw}%
@@ -241,8 +266,6 @@ De focus van dit framework ligt te veel op COBOL development, maar de structuur 
 
 \section{PL/I en CICS binnen z/OS-ontwikkeling}%
 \label{sec:pli_cics_zos} 
-
-
 
 De technologieën die worden gebruikt op de mainframe zijn historisch verbonden aan de architectuur van de hardware zelf.
 Twee technologieën die heel belangrijk zijn binnen mainframe development zijn PL/1 en CICS.

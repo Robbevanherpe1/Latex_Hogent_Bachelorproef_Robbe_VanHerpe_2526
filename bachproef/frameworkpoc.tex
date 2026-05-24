@@ -196,13 +196,13 @@ Deze keuze sluit aan bij het doelpubliek (leren via een browser, zonder extra in
 \subsection{React als UI laag}%
 \label{sec:React-ui}
 Voor de gebruikersinterface werd gekozen voor React.
-De leersite bevat meerdere schermen en componenten waaronder cursusoverzichten, hoofdstukken, theoriepagina’s, oefeneditor en quizes waarbij de UI dynamisch mee evolueert met de selectie van de gebruiker.
+De leersite bevat meerdere schermen en componenten waaronder cursusoverzichten, hoofdstukken, theoriepagina’s, oefeningen en quizes waarbij de UI dynamisch mee evolueert met de selectie van de gebruiker.
 React maakt het eenvoudiger om zulke herbruikbare componenten op te bouwen en toestand zoals de geselecteerde cursus of het thema consistent te beheren.
 Concreet in dit project:
 \begin{itemize}
-  \item cursussen worden in de interface als kaarten gepresenteerd en leiden naar een detailpagina met hoofdstuknavigatie.
-  \item het thema donker en licht wordt opgeslagen in localStorage zodat de voorkeur bewaard blijft.
-  \item verschillende onderdelen Theory,Exercise en Quiz delen dezelfde navigatiestructuur en layout wat component hergebruik stimuleert.
+  \item Cursussen worden in de interface als kaarten gepresenteerd en leiden naar een detailpagina met hoofdstuknavigatie.
+  \item Het thema donker en licht wordt opgeslagen in localStorage zodat de voorkeur bewaard blijft.
+  \item Verschillende onderdelen waaronder: theorie,oefeningen en de quiz delen dezelfde navigatiestructuur en layout wat component hergebruik stimuleert.
 \end{itemize}
 
 \subsection{Vite als build en ontwikkeltool}%
@@ -217,7 +217,7 @@ Daarnaast past Vite goed bij het deploy doel, de output kan als statische site w
 Voor de vormgeving werd Tailwind CSS gebruikt aangevuld met PostCSS en Autoprefixer.
 Tailwind ondersteunt een utility first aanpak waarmee de interface snel consistent kan worden opgebouwd, zonder dat een grote hoeveelheid aparte CSS bestanden en naming conventies nodig is.
 Dit is nuttig in een leerplatform waar veel herhaalpatronen bestaan (panelen, knoppen, kaarten, navigatie) én waar het ontwerp later nog kan evolueren.
-In dit project is ook expliciet gekozen voor dark mode via een class strategie, omdat die aanpak goed werkt met Tailwind en eenvoudig te onderhouden is.
+In dit project is expliciet gekozen om dark mode te implementeren via de class strategie, aangezien deze aanpak uitstekend samenwerkt met Tailwind en eenvoudig te onderhouden is.
 
 \subsection{Content als JSON eenvoudig uitbreiden met nieuwe cursussen}%
 \label{sec:JSON-cursussen}
@@ -252,7 +252,7 @@ Mocht later behoefte ontstaan aan voortgangsopslag of gepersonaliseerde trajecte
 \subsection{Conclusie technologieën}%
 \label{sec:Conclusie-technologien}
 De uiteindelijke technologie set (React, Vite, Tailwind CSS, JSON content, Markdown met filtering en statische media) sluit nauw aan bij de projectdoelen:
-snelle ontwikkeling, lage kost, veilige contentweergave en een structuur die het toevoegen van nieuwe PL1 en CICS leermodules zo eenvoudig mogelijk maakt.
+snelle ontwikkeling, lage kost, veilige contentweergave en een structuur die het toevoegen van nieuwe PL/1 en CICS leermodules zo eenvoudig mogelijk maakt.
 
 
 \section{Verschillende modules in de leersite}%
@@ -262,9 +262,13 @@ De leersite is opgebouwd uit zes modules die samen een volledig en geleidelijk l
 Elke module heeft een eigen plaats binnen het traject en werd opgenomen aan de hand van de feedback door professionals.
 Hierdoor leren studenten niet alleen afzonderlijke concepten zoals de PL/1 syntax, maar begrijpen ze hoe die in een bredere mainframecontext met elkaar samenhangen en zijn ontstaan.
 
-\includegraphics[width=0.45\textwidth]{../graphics/mainscreen.png}
+\begin{figure}
+   \centering
+   \includegraphics[width=0.8\textwidth]{../graphics/mainscreen.png}
+   \caption[Startscherm figuur.]{\label{fig:Startscherm}Webite Startscherm.}
+ \end{figure}
 
-\subsection[short]{Origins and Evolution of PL/I and CICS}%
+\subsection{Origins and Evolution of PL/I and CICS}%
 \label{sec:origins-pl1cics}
 
 De module \textbf{Origins and Evolution of PL/I and CICS} werd opgenomen omdat het belangrijk is dat studenten eerst
@@ -277,7 +281,7 @@ Door te beginnen met de oorsprong en evolutie van deze technologieën krijgt de 
 Deze module sluit direct aan op competentie 12.0 (Historische en enterprise-context) en competentie 13.0 (Modernisering en integratie) van het competentieframework.
 
 
-\subsection[short]{Environment Setup and ISPF Fundamentals}%
+\subsection{Environment Setup and ISPF Fundamentals}%
 \label{sec:Environment-pl1cics}
 
 
@@ -292,7 +296,7 @@ Deze module zou als eindresultaat de student een goede basis moeten geven om te 
  waardoor ze zich vervolgens kunnen focussen op het leren van PL/1 en CICS.
 
 
-\subsection[short]{PL/I Core Concepts}%
+\subsection{PL/I Core Concepts}%
 \label{sec:core-pl1}
 
 De module \textbf{PL/I Core Concepts} vormt de basis voor het programmeergedeelte van de leersite en is daarom cruciaal.
@@ -304,7 +308,7 @@ Dit zorgt ervoor dat ze niet alleen code leren reproduceren maar ook begrijpen h
 Deze module vormt de bouwstenen waarop verder gebouwd kan worden om te werken binnen complexe legacysystemen als developer.
 
 
-\subsection[short]{CICS Core Concepts}%
+\subsection{CICS Core Concepts}%
 \label{sec:core-cics}
 
 De module \textbf{CICS Core Concepts} is opgenomen omdat kennis van PL/1 alleen niet volstaat wanneer men wil werken in transactionele mainframesystemen.
@@ -316,7 +320,7 @@ De module legt uit wat transacties, tasks en resources zijn zodat de student de 
 Hiermee volbrengt deze module competentie 5.0 (CICS concepten).
 
 
-\subsection[short]{Debugging Basics}%
+\subsection{Debugging Basics}%
 \label{sec:debug-pl1cics}
 
 De module \textbf{Debugging Basics} is belangrijk omdat leren programmeren of werken met mainframes niet alleen draait om het schrijven van correcte code maar ook om het kunnen herkennen, analyseren en oplossen van fouten.
@@ -327,7 +331,7 @@ Doordat hier een aparte module voor is voorzien zijn studenten beter gewapend ti
 Deze module verhoogt dus niet alleen de technische kennis, maar ook het probleemoplossend denken van de student.
 
 
-\subsection[short]{PL/I and CICS Integration Mastery}%
+\subsection{PL/I and CICS Integration Mastery}%
 \label{sec:mastery-pl1cics}
 
 Tot slot is de module \textbf{PL/I and CICS Integration Mastery} opgenomen omdat je met al deze concepten apart niet het volledige totaalbeeld ziet.
@@ -364,7 +368,7 @@ en tot slot wordt nagegaan in welke mate de inhoud daadwerkelijk begrepen en beh
 Op deze manier wordt de student ondersteund bij ieder onderwerp en ervaren ze steeds kleine mini succesjes die hen motiveren doorheen het hele proces.
 
 
-\subsection[short]{Theorie in modules}%
+\subsection{Theorie in modules}%
 \label{sec:Theorie-module}
 
 In het eerste onderdeel \textbf{de theorie}, wordt de inhoud van het hoofdstuk uitgebreid toegelicht.
@@ -388,7 +392,7 @@ Ook kunnen ze aan de hand van deze bronnen de leerstof herbekijken wanneer iets 
 Dit voorkomt dat de leersite een gesloten leeromgeving is, maar geeft studenten juist de mogelijkheid tot zelfstandig leren.
 Studenten met meer interesse of voorkennis kunnen zich zo verder ontwikkelen terwijl anderen de basisinhoud op hun eigen tempo kunnen verwerken.
 
-\subsection[short]{Oefeningen in modules}%
+\subsection{Oefeningen in modules}%
 \label{sec:Oefeningen-module}
 
 Na het theoretische gedeelte volgt het onderdeel met \textbf{de oefeningen}. 
@@ -415,7 +419,7 @@ De oefeningen zorgen er dus voor dat de leerstof niet oppervlakkig blijft maar e
 
 
 
-\subsection[short]{Quiz in modules}%
+\subsection{Quiz in modules}%
 \label{sec:Quiz-module}
 
 
