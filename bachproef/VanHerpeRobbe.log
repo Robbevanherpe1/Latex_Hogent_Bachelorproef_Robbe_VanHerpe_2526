@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  24 MAY 2026 16:06
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  24 MAY 2026 16:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1904,29 +1904,27 @@ File: ../graphics/compframework5.png Graphic file (type bmp)
 
 [14]
 
-[15]
+[15]) (./intervieuws.tex
 
-[16]) (./intervieuws.tex
-
-[17]
+[16]
 Hoofdstuk 4.
 
 
-[18
+[17
 
 ]
 
-[19]) (./frameworkpoc.tex
+[18]) (./frameworkpoc.tex
 
-[20]
+[19]
 Hoofdstuk 5.
 
 
-[21
+[20
 
 ]
 
-[22]
+[21]
 Overfull \hbox (4.0894pt too wide) in paragraph at lines 94--95
 []\TU/Montserrat(2)/b/n/10.95 Buildprocessen en Foutafhandeling (Competentie 8-10): \TU/Montserrat(1)/m/n/10.95 Behandelt de build-
  []
@@ -1938,20 +1936,20 @@ Overfull \hbox (5.4934pt too wide) in paragraph at lines 96--97
 
 
 
+[22]
+
 [23]
 
 [24]
 
 [25]
-
-[26]
 Overfull \hbox (1.14893pt too wide) in paragraph at lines 235--239
 \TU/Montserrat(1)/m/n/10.95 Voor theorie inhoud wordt waar mogelijk Markdown gebruikt, omdat het laagdrem-
  []
 
 
 
-[27]
+[26]
 File: ../graphics/mainscreen.png Graphic file (type bmp)
 <../graphics/mainscreen.png>
 
@@ -1961,26 +1959,26 @@ Overfull \hbox (4.84494pt too wide) in paragraph at lines 281--282
 
 
 
-[28]
+[27]
 
-[29]
+[28]
 Overfull \hbox (11.40027pt too wide) in paragraph at lines 318--321
 \TU/Montserrat(1)/m/n/10.95 om later PL/1 programma’s succesvol in een transactionele omgeving te laten draaien.
  []
 
 
 
-[30]
+[29]
 File: ../graphics/theorie.png Graphic file (type bmp)
 <../graphics/theorie.png>
 
 
-[31]
+[30]
 File: ../graphics/exercise.png Graphic file (type bmp)
 <../graphics/exercise.png>
 
 
-[32]
+[31]
 File: ../graphics/quiz.png Graphic file (type bmp)
 <../graphics/quiz.png>
 
@@ -1990,28 +1988,28 @@ Overfull \hbox (3.99596pt too wide) in paragraph at lines 450--455
 
 
 
-[33]) (./conclusie.tex
+[32]) (./conclusie.tex
 
-[34]
+[33]
 Hoofdstuk 6.
 
 
-[35
+[34
 
 ]
 
-[36]
+[35]
 Overfull \hbox (10.07413pt too wide) in paragraph at lines 89--93
 \TU/Montserrat(1)/m/n/10.95 seerd op de vraag of externe begeleiding nodig is. Het integreren van een AI-assistent
  []
 
 )
 
-[37]
+[36]
 B\ij lage A.
 (../voorstel/voorstel-inhoud.tex
 
-[38
+[37
 
 ]
 Overfull \hbox (0.17656pt too wide) in paragraph at lines 92--93
@@ -2020,9 +2018,9 @@ Overfull \hbox (0.17656pt too wide) in paragraph at lines 92--93
 
 
 
-[39]
+[38]
 
-[40]
+[39]
 File: ../voorstel/Gantt Chart.png Graphic file (type bmp)
 <../voorstel/Gantt Chart.png>
 
@@ -2032,16 +2030,16 @@ Overfull \hbox (32.93776pt too wide) in paragraph at lines 160--168
 
 
 
-[41]
+[40]
 Overfull \hbox (7.41966pt too wide) in paragraph at lines 223--226
 \TU/Montserrat(1)/m/n/10.95 competentieframework voor PL1 en CICS developers. Aan de hand van deze learning-
  []
 
 
 
-[42])
+[41])
 
-[43]
+[42]
 Overfull \hbox (17.40071pt too wide) in paragraph at lines 183--183
 [][][][][][][][][][][][][][][] [][] [][][][][][][][][][] [] [][][][][][][][][] [] [][][][][][][][] [][] [][][][][][] [] [][][][] [][] [][][][] [][] [][][][][][][] [][]
  []
@@ -2057,7 +2055,7 @@ Overfull \hbox (7.64673pt too wide) in paragraph at lines 183--183
 
 
 
-[44
+[43
 
 
 ]
@@ -2067,8 +2065,8 @@ Overfull \hbox (5.75507pt too wide) in paragraph at lines 183--183
 
 
 
-[45]
-runsystem(latexminted cleantemp  --timestamp 20260524160622 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+[44]
+runsystem(latexminted cleantemp  --timestamp 20260524161145 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
@@ -2076,18 +2074,18 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `VanHerpeRobbe.out' has not changed.
-(rerunfilecheck)             Checksum: 3DA4D84DF068DC236830F03B81B9EA3D;20723.
+(rerunfilecheck)             Checksum: FC5E442D0B66CE08316C1E4BEB3D8EB7;20723.
 Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 \openout1 = `VanHerpeRobbe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50126 strings out of 473832
- 1035658 string characters out of 5729480
- 2280632 words of memory out of 5000000
- 72401 multiletter control sequences out of 15000+600000
+ 50125 strings out of 473832
+ 1035657 string characters out of 5729480
+ 2281561 words of memory out of 5000000
+ 72400 multiletter control sequences out of 15000+600000
  561857 words of font info for 103 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,12n,131p,1186b,5923s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on VanHerpeRobbe.pdf (55 pages).
+Output written on VanHerpeRobbe.pdf (54 pages).

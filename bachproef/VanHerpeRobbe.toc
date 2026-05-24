@@ -34,69 +34,69 @@
 \contentsline {section}{\numberline {3.3}Fase 2: Opstellen van het competentieframework}{14}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}Opstellen initieel competentieframework}{14}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.3.2}Interviews met professionals uit het werkveld}{14}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3.4}Fase 3: Ontwikkelen van de proof-of-concept}{16}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Fase 4: Valideren van het competentieframework en de PoC}{17}{section.3.5}%
-\contentsline {chapter}{\numberline {4}Interviews}{18}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Structuur en opbouw van de interviews}{18}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Antwoorden van professionals}{19}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Conclusie van de interviews}{20}{section.4.3}%
-\contentsline {chapter}{\numberline {5}Framework en PoC}{21}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Structuur en opbouw van het framework}{21}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Criteria voor het bepalen van de competenties}{22}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Basiskennis mainframe}{22}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Basis programmeerkennis}{22}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Praktijk gericht}{22}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.2.4}De link met CICS}{22}{subsection.5.2.4}%
-\contentsline {subsection}{\numberline {5.2.5}Hedendaagse IT landschap}{23}{subsection.5.2.5}%
-\contentsline {section}{\numberline {5.3}Nodige Competenties}{23}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Volgende niveau Competenties}{23}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Geavanceerde PL1}{24}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}CICS verdieping}{24}{subsection.5.4.2}%
-\contentsline {subsection}{\numberline {5.4.3}Geavanceerde tooling en diagnostiek}{24}{subsection.5.4.3}%
-\contentsline {subsection}{\numberline {5.4.4}Performantie optimalisatie en efficiëntie}{24}{subsection.5.4.4}%
-\contentsline {subsection}{\numberline {5.4.5}Security architectuur}{24}{subsection.5.4.5}%
-\contentsline {subsection}{\numberline {5.4.6}Modernisering}{25}{subsection.5.4.6}%
-\contentsline {section}{\numberline {5.5}Van framework naar Proof of Concept}{25}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Structuur en opbouw van de PoC leersite}{25}{section.5.6}%
-\contentsline {section}{\numberline {5.7}Bepalen van technologieën}{25}{section.5.7}%
-\contentsline {subsection}{\numberline {5.7.1}Selectiecriteria}{26}{subsection.5.7.1}%
-\contentsline {subsection}{\numberline {5.7.2}Gekozen basis van webtechnologieën}{26}{subsection.5.7.2}%
-\contentsline {subsection}{\numberline {5.7.3}React als UI laag}{26}{subsection.5.7.3}%
-\contentsline {subsection}{\numberline {5.7.4}Vite als build en ontwikkeltool}{27}{subsection.5.7.4}%
-\contentsline {subsection}{\numberline {5.7.5}Tailwind CSS voor consistente en schaalbare styling}{27}{subsection.5.7.5}%
-\contentsline {subsection}{\numberline {5.7.6}Content als JSON eenvoudig uitbreiden met nieuwe cursussen}{27}{subsection.5.7.6}%
-\contentsline {subsection}{\numberline {5.7.7}Markdown en veilige HTML rendering}{27}{subsection.5.7.7}%
-\contentsline {subsection}{\numberline {5.7.8}Lokale media zonder extra backend}{28}{subsection.5.7.8}%
-\contentsline {subsection}{\numberline {5.7.9}Waarom geen backend of database?}{28}{subsection.5.7.9}%
-\contentsline {subsection}{\numberline {5.7.10}Conclusie technologieën}{28}{subsection.5.7.10}%
-\contentsline {section}{\numberline {5.8}Verschillende modules in de leersite}{28}{section.5.8}%
-\contentsline {subsection}{\numberline {5.8.1}Origins and Evolution of PL/I and CICS}{28}{subsection.5.8.1}%
-\contentsline {subsection}{\numberline {5.8.2}Environment Setup and ISPF Fundamentals}{29}{subsection.5.8.2}%
-\contentsline {subsection}{\numberline {5.8.3}PL/I Core Concepts}{29}{subsection.5.8.3}%
-\contentsline {subsection}{\numberline {5.8.4}CICS Core Concepts}{30}{subsection.5.8.4}%
-\contentsline {subsection}{\numberline {5.8.5}Debugging Basics}{30}{subsection.5.8.5}%
-\contentsline {subsection}{\numberline {5.8.6}PL/I and CICS Integration Mastery}{30}{subsection.5.8.6}%
-\contentsline {section}{\numberline {5.9}Bepalen opbouw van de modules}{31}{section.5.9}%
-\contentsline {subsection}{\numberline {5.9.1}Theorie in modules}{31}{subsection.5.9.1}%
-\contentsline {subsection}{\numberline {5.9.2}Oefeningen in modules}{32}{subsection.5.9.2}%
-\contentsline {subsection}{\numberline {5.9.3}Quiz in modules}{33}{subsection.5.9.3}%
-\contentsline {chapter}{\numberline {6}Conclusie}{35}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Antwoord op de onderzoeksvraag}{35}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Bijdrage aan het onderzoeksdomein}{36}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Kritische reflectie}{36}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Beperkingen van het onderzoek}{36}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}Verwachte resultaten van het onderzoek}{37}{subsection.6.3.2}%
-\contentsline {section}{\numberline {6.4}Aanbevelingen voor verder onderzoek}{37}{section.6.4}%
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{38}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Inleiding}{38}{section.A.1}%
-\contentsline {subsection}{\numberline {A.1.1}Probleemstelling en onderzoeksvragen}{38}{subsection.A.1.1}%
-\contentsline {subsection}{\numberline {A.1.2}Doelgroep}{39}{subsection.A.1.2}%
-\contentsline {subsection}{\numberline {A.1.3}Doelstelling}{39}{subsection.A.1.3}%
-\contentsline {section}{\numberline {A.2}Literatuurstudie}{39}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Methodologie}{40}{section.A.3}%
-\contentsline {subsection}{\numberline {A.3.1}Literatuurstudie en interviews}{41}{subsection.A.3.1}%
-\contentsline {subsection}{\numberline {A.3.2}Opstellen framework en PoC}{41}{subsection.A.3.2}%
-\contentsline {subsection}{\numberline {A.3.3}Rapporteren paper}{42}{subsection.A.3.3}%
-\contentsline {section}{\numberline {A.4}Verwacht resultaat, conclusie}{42}{section.A.4}%
-\contentsline {chapter}{Bibliografie}{44}{appendix*.14}%
+\contentsline {section}{\numberline {3.4}Fase 3: Ontwikkelen van de proof-of-concept}{15}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Fase 4: Valideren van het competentieframework en de PoC}{15}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Interviews}{17}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Structuur en opbouw van de interviews}{17}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Antwoorden van professionals}{18}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Conclusie van de interviews}{19}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Framework en PoC}{20}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Structuur en opbouw van het framework}{20}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Criteria voor het bepalen van de competenties}{21}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Basiskennis mainframe}{21}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Basis programmeerkennis}{21}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Praktijk gericht}{21}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}De link met CICS}{21}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}Hedendaagse IT landschap}{22}{subsection.5.2.5}%
+\contentsline {section}{\numberline {5.3}Nodige Competenties}{22}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Volgende niveau Competenties}{22}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Geavanceerde PL1}{23}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}CICS verdieping}{23}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Geavanceerde tooling en diagnostiek}{23}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}Performantie optimalisatie en efficiëntie}{23}{subsection.5.4.4}%
+\contentsline {subsection}{\numberline {5.4.5}Security architectuur}{23}{subsection.5.4.5}%
+\contentsline {subsection}{\numberline {5.4.6}Modernisering}{24}{subsection.5.4.6}%
+\contentsline {section}{\numberline {5.5}Van framework naar Proof of Concept}{24}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Structuur en opbouw van de PoC leersite}{24}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Bepalen van technologieën}{24}{section.5.7}%
+\contentsline {subsection}{\numberline {5.7.1}Selectiecriteria}{25}{subsection.5.7.1}%
+\contentsline {subsection}{\numberline {5.7.2}Gekozen basis van webtechnologieën}{25}{subsection.5.7.2}%
+\contentsline {subsection}{\numberline {5.7.3}React als UI laag}{25}{subsection.5.7.3}%
+\contentsline {subsection}{\numberline {5.7.4}Vite als build en ontwikkeltool}{26}{subsection.5.7.4}%
+\contentsline {subsection}{\numberline {5.7.5}Tailwind CSS voor consistente en schaalbare styling}{26}{subsection.5.7.5}%
+\contentsline {subsection}{\numberline {5.7.6}Content als JSON eenvoudig uitbreiden met nieuwe cursussen}{26}{subsection.5.7.6}%
+\contentsline {subsection}{\numberline {5.7.7}Markdown en veilige HTML rendering}{26}{subsection.5.7.7}%
+\contentsline {subsection}{\numberline {5.7.8}Lokale media zonder extra backend}{27}{subsection.5.7.8}%
+\contentsline {subsection}{\numberline {5.7.9}Waarom geen backend of database?}{27}{subsection.5.7.9}%
+\contentsline {subsection}{\numberline {5.7.10}Conclusie technologieën}{27}{subsection.5.7.10}%
+\contentsline {section}{\numberline {5.8}Verschillende modules in de leersite}{27}{section.5.8}%
+\contentsline {subsection}{\numberline {5.8.1}Origins and Evolution of PL/I and CICS}{27}{subsection.5.8.1}%
+\contentsline {subsection}{\numberline {5.8.2}Environment Setup and ISPF Fundamentals}{28}{subsection.5.8.2}%
+\contentsline {subsection}{\numberline {5.8.3}PL/I Core Concepts}{28}{subsection.5.8.3}%
+\contentsline {subsection}{\numberline {5.8.4}CICS Core Concepts}{29}{subsection.5.8.4}%
+\contentsline {subsection}{\numberline {5.8.5}Debugging Basics}{29}{subsection.5.8.5}%
+\contentsline {subsection}{\numberline {5.8.6}PL/I and CICS Integration Mastery}{29}{subsection.5.8.6}%
+\contentsline {section}{\numberline {5.9}Bepalen opbouw van de modules}{30}{section.5.9}%
+\contentsline {subsection}{\numberline {5.9.1}Theorie in modules}{30}{subsection.5.9.1}%
+\contentsline {subsection}{\numberline {5.9.2}Oefeningen in modules}{31}{subsection.5.9.2}%
+\contentsline {subsection}{\numberline {5.9.3}Quiz in modules}{32}{subsection.5.9.3}%
+\contentsline {chapter}{\numberline {6}Conclusie}{34}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Antwoord op de onderzoeksvraag}{34}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Bijdrage aan het onderzoeksdomein}{35}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Kritische reflectie}{35}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Beperkingen van het onderzoek}{35}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Verwachte resultaten van het onderzoek}{36}{subsection.6.3.2}%
+\contentsline {section}{\numberline {6.4}Aanbevelingen voor verder onderzoek}{36}{section.6.4}%
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{37}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Inleiding}{37}{section.A.1}%
+\contentsline {subsection}{\numberline {A.1.1}Probleemstelling en onderzoeksvragen}{37}{subsection.A.1.1}%
+\contentsline {subsection}{\numberline {A.1.2}Doelgroep}{38}{subsection.A.1.2}%
+\contentsline {subsection}{\numberline {A.1.3}Doelstelling}{38}{subsection.A.1.3}%
+\contentsline {section}{\numberline {A.2}Literatuurstudie}{38}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Methodologie}{39}{section.A.3}%
+\contentsline {subsection}{\numberline {A.3.1}Literatuurstudie en interviews}{40}{subsection.A.3.1}%
+\contentsline {subsection}{\numberline {A.3.2}Opstellen framework en PoC}{40}{subsection.A.3.2}%
+\contentsline {subsection}{\numberline {A.3.3}Rapporteren paper}{41}{subsection.A.3.3}%
+\contentsline {section}{\numberline {A.4}Verwacht resultaat, conclusie}{41}{section.A.4}%
+\contentsline {chapter}{Bibliografie}{43}{appendix*.13}%
 \contentsfinish 
