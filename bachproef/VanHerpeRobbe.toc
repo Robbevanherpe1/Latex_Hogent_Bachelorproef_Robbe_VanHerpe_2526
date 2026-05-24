@@ -99,4 +99,5 @@
 \contentsline {subsection}{\numberline {A.3.3}Rapporteren paper}{41}{subsection.A.3.3}%
 \contentsline {section}{\numberline {A.4}Verwacht resultaat, conclusie}{41}{section.A.4}%
 \contentsline {chapter}{Bibliografie}{43}{appendix*.13}%
+\contentsline {chapter}{\ignorespaces {Competentie framework}}{45}{appendix*.14}%
 \contentsfinish 
