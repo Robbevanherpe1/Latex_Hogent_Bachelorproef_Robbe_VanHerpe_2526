@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  25 MAY 2026 14:35
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  25 MAY 2026 15:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2004,6 +2004,11 @@ Overfull \hbox (65.77148pt too wide) in paragraph at lines 183--183
  []
 
 
+Overfull \hbox (7.27739pt too wide) in paragraph at lines 183--183
+\TU/Montserrat(2)/m/it/10.95 frame: z/OS Basics\TU/Montserrat(1)/m/n/10.95 . IBM Redbooks. [][]$[][][][][] [] [] [] [][][] [] [][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][] []
+ []
+
+
 
 [43
 
@@ -2101,7 +2106,7 @@ File: Competentie_framework_robbe.pdf Graphic file (type pdf)
 [52
 
 ]
-runsystem(latexminted cleantemp  --timestamp 20260525143544 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+runsystem(latexminted cleantemp  --timestamp 20260525154426 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
@@ -2115,10 +2120,10 @@ Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50174 strings out of 473832
- 1037706 string characters out of 5729480
- 2281793 words of memory out of 5000000
- 72447 multiletter control sequences out of 15000+600000
+ 50192 strings out of 473832
+ 1038379 string characters out of 5729480
+ 2282002 words of memory out of 5000000
+ 72465 multiletter control sequences out of 15000+600000
  561857 words of font info for 103 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,17n,131p,1186b,5923s stack positions out of 10000i,1000n,20000p,200000b,200000s

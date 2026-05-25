@@ -362,6 +362,7 @@
       \strng{authornamehash}{586c23d7114408b7fc45a8bba4e55abc}
       \strng{authorfullhash}{fd45cecea24a8d9af4c2c542ff8505aa}
       \strng{authorfullhashraw}{fd45cecea24a8d9af4c2c542ff8505aa}
+      \field{extraname}{1}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
@@ -377,6 +378,64 @@
       \endverb
       \verb{url}
       \verb https://www.mabu.org/zosbasic.pdf
+      \endverb
+    \endentry
+    \entry{ebbers2012zos}{book}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=0572753d621e10f0b9d63fd3e44eee30}{%
+           family={Ebbers},
+           familyi={E\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c8e8561bcb0d244eced5799ee2a682a}{%
+           family={Kettner},
+           familyi={K\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d453b5feab4ecc6964d2feca1835ad2}{%
+           family={O'Brien},
+           familyi={O\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c004d07fb47ba69885cb5b5b8347b064}{%
+           family={Ogden},
+           familyi={O\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Poughkeepsie, NY}%
+      }
+      \list{publisher}{1}{%
+        {IBM Redbooks}%
+      }
+      \strng{namehash}{586c23d7114408b7fc45a8bba4e55abc}
+      \strng{fullhash}{de860955e337571a44293b4053e846e6}
+      \strng{fullhashraw}{de860955e337571a44293b4053e846e6}
+      \strng{bibnamehash}{de860955e337571a44293b4053e846e6}
+      \strng{authorbibnamehash}{de860955e337571a44293b4053e846e6}
+      \strng{authornamehash}{586c23d7114408b7fc45a8bba4e55abc}
+      \strng{authorfullhash}{de860955e337571a44293b4053e846e6}
+      \strng{authorfullhashraw}{de860955e337571a44293b4053e846e6}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to the New Mainframe: z/OS Basics}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.redbooks.ibm.com/redbooks/pdfs/sg246366.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.redbooks.ibm.com/redbooks/pdfs/sg246366.pdf
       \endverb
     \endentry
     \entry{granatella}{article}{}{}
@@ -644,6 +703,47 @@
       \verb https://community.ibm.com/zsystems/uploads/document/slider/ujdg9js84fj.pdf
       \endverb
     \endentry
+    \entry{lascu2022z16}{book}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3f9580d5426df5a21bf8e5c8a1749b75}{%
+           family={Lascu},
+           familyi={L\bibinitperiod},
+           given={Octavian},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Poughkeepsie, NY}%
+      }
+      \list{publisher}{1}{%
+        {IBM Redbooks}%
+      }
+      \strng{namehash}{5c6e1db59e7946089b200d009bbc1f98}
+      \strng{fullhash}{5c6e1db59e7946089b200d009bbc1f98}
+      \strng{fullhashraw}{5c6e1db59e7946089b200d009bbc1f98}
+      \strng{bibnamehash}{5c6e1db59e7946089b200d009bbc1f98}
+      \strng{authorbibnamehash}{5c6e1db59e7946089b200d009bbc1f98}
+      \strng{authornamehash}{5c6e1db59e7946089b200d009bbc1f98}
+      \strng{authorfullhash}{5c6e1db59e7946089b200d009bbc1f98}
+      \strng{authorfullhashraw}{5c6e1db59e7946089b200d009bbc1f98}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{IBM z16 Technical Introduction}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.redbooks.ibm.com/redbooks/pdfs/sg248950.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.redbooks.ibm.com/redbooks/pdfs/sg248950.pdf
+      \endverb
+    \endentry
     \entry{lichtenau2022telum}{article}{}{}
       \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=3cbf82c4581b4579c276f13f3035e259}{%
@@ -862,12 +962,12 @@
     \endentry
     \entry{raju2024ras}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=057d3b6f8065d9e4389001b67dc038a4}{%
+        {{un=1,uniquepart=given,hash=057d3b6f8065d9e4389001b67dc038a4}{%
            family={Raju},
            familyi={R\bibinitperiod},
            given={Jagadish},
            giveni={J\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \strng{namehash}{057d3b6f8065d9e4389001b67dc038a4}
       \strng{fullhash}{057d3b6f8065d9e4389001b67dc038a4}
@@ -881,7 +981,6 @@
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2321-9653}
@@ -899,6 +998,46 @@
       \endverb
       \verb{url}
       \verb https://www.ijraset.com/research-paper/%20comprehensive-analysis-of-design-principles-and-operational-benefits
+      \endverb
+    \endentry
+    \entry{raju2024gdps}{book}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=1b712a193078e468687f46525f1aa8ee}{%
+           family={Raju},
+           familyi={R\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{location}{1}{%
+        {Poughkeepsie, NY}%
+      }
+      \list{publisher}{1}{%
+        {IBM Redbooks}%
+      }
+      \strng{namehash}{7b4aa642078d2146a087f0e4744755db}
+      \strng{fullhash}{7b4aa642078d2146a087f0e4744755db}
+      \strng{fullhashraw}{7b4aa642078d2146a087f0e4744755db}
+      \strng{bibnamehash}{7b4aa642078d2146a087f0e4744755db}
+      \strng{authorbibnamehash}{7b4aa642078d2146a087f0e4744755db}
+      \strng{authornamehash}{7b4aa642078d2146a087f0e4744755db}
+      \strng{authorfullhash}{7b4aa642078d2146a087f0e4744755db}
+      \strng{authorfullhashraw}{7b4aa642078d2146a087f0e4744755db}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{IBM GDPS Family: An Introduction to Concepts and Capabilities}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.redbooks.ibm.com/redbooks/pdfs/sg246374.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.redbooks.ibm.com/redbooks/pdfs/sg246374.pdf
       \endverb
     \endentry
     \entry{Sharma2011TeachOrNotTeach}{article}{}{}
@@ -1431,6 +1570,64 @@
       \verb 10.3390/computers13080196
       \endverb
     \endentry
+    \entry{ebbers2012zos}{book}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=0572753d621e10f0b9d63fd3e44eee30}{%
+           family={Ebbers},
+           familyi={E\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c8e8561bcb0d244eced5799ee2a682a}{%
+           family={Kettner},
+           familyi={K\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d453b5feab4ecc6964d2feca1835ad2}{%
+           family={O'Brien},
+           familyi={O\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c004d07fb47ba69885cb5b5b8347b064}{%
+           family={Ogden},
+           familyi={O\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Poughkeepsie, NY}%
+      }
+      \list{publisher}{1}{%
+        {IBM Redbooks}%
+      }
+      \strng{namehash}{586c23d7114408b7fc45a8bba4e55abc}
+      \strng{fullhash}{de860955e337571a44293b4053e846e6}
+      \strng{fullhashraw}{de860955e337571a44293b4053e846e6}
+      \strng{bibnamehash}{de860955e337571a44293b4053e846e6}
+      \strng{authorbibnamehash}{de860955e337571a44293b4053e846e6}
+      \strng{authornamehash}{586c23d7114408b7fc45a8bba4e55abc}
+      \strng{authorfullhash}{de860955e337571a44293b4053e846e6}
+      \strng{authorfullhashraw}{de860955e337571a44293b4053e846e6}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to the New Mainframe: z/OS Basics}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.redbooks.ibm.com/redbooks/pdfs/sg246366.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.redbooks.ibm.com/redbooks/pdfs/sg246366.pdf
+      \endverb
+    \endentry
     \entry{ebbers2005}{book}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=0572753d621e10f0b9d63fd3e44eee30}{%
@@ -1463,6 +1660,7 @@
       \strng{authornamehash}{586c23d7114408b7fc45a8bba4e55abc}
       \strng{authorfullhash}{fd45cecea24a8d9af4c2c542ff8505aa}
       \strng{authorfullhashraw}{fd45cecea24a8d9af4c2c542ff8505aa}
+      \field{extraname}{2}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
@@ -1745,6 +1943,47 @@
       \verb https://community.ibm.com/zsystems/uploads/document/slider/ujdg9js84fj.pdf
       \endverb
     \endentry
+    \entry{lascu2022z16}{book}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3f9580d5426df5a21bf8e5c8a1749b75}{%
+           family={Lascu},
+           familyi={L\bibinitperiod},
+           given={Octavian},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Poughkeepsie, NY}%
+      }
+      \list{publisher}{1}{%
+        {IBM Redbooks}%
+      }
+      \strng{namehash}{5c6e1db59e7946089b200d009bbc1f98}
+      \strng{fullhash}{5c6e1db59e7946089b200d009bbc1f98}
+      \strng{fullhashraw}{5c6e1db59e7946089b200d009bbc1f98}
+      \strng{bibnamehash}{5c6e1db59e7946089b200d009bbc1f98}
+      \strng{authorbibnamehash}{5c6e1db59e7946089b200d009bbc1f98}
+      \strng{authornamehash}{5c6e1db59e7946089b200d009bbc1f98}
+      \strng{authorfullhash}{5c6e1db59e7946089b200d009bbc1f98}
+      \strng{authorfullhashraw}{5c6e1db59e7946089b200d009bbc1f98}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{IBM z16 Technical Introduction}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.redbooks.ibm.com/redbooks/pdfs/sg248950.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.redbooks.ibm.com/redbooks/pdfs/sg248950.pdf
+      \endverb
+    \endentry
     \entry{lichtenau2022telum}{article}{}{}
       \name{author}{10}{}{%
         {{un=0,uniquepart=base,hash=3cbf82c4581b4579c276f13f3035e259}{%
@@ -1963,12 +2202,12 @@
     \endentry
     \entry{raju2024ras}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=057d3b6f8065d9e4389001b67dc038a4}{%
+        {{un=1,uniquepart=given,hash=057d3b6f8065d9e4389001b67dc038a4}{%
            family={Raju},
            familyi={R\bibinitperiod},
            given={Jagadish},
            giveni={J\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \strng{namehash}{057d3b6f8065d9e4389001b67dc038a4}
       \strng{fullhash}{057d3b6f8065d9e4389001b67dc038a4}
@@ -1982,7 +2221,6 @@
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2321-9653}
@@ -2000,6 +2238,46 @@
       \endverb
       \verb{url}
       \verb https://www.ijraset.com/research-paper/%20comprehensive-analysis-of-design-principles-and-operational-benefits
+      \endverb
+    \endentry
+    \entry{raju2024gdps}{book}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=1b712a193078e468687f46525f1aa8ee}{%
+           family={Raju},
+           familyi={R\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{location}{1}{%
+        {Poughkeepsie, NY}%
+      }
+      \list{publisher}{1}{%
+        {IBM Redbooks}%
+      }
+      \strng{namehash}{7b4aa642078d2146a087f0e4744755db}
+      \strng{fullhash}{7b4aa642078d2146a087f0e4744755db}
+      \strng{fullhashraw}{7b4aa642078d2146a087f0e4744755db}
+      \strng{bibnamehash}{7b4aa642078d2146a087f0e4744755db}
+      \strng{authorbibnamehash}{7b4aa642078d2146a087f0e4744755db}
+      \strng{authornamehash}{7b4aa642078d2146a087f0e4744755db}
+      \strng{authorfullhash}{7b4aa642078d2146a087f0e4744755db}
+      \strng{authorfullhashraw}{7b4aa642078d2146a087f0e4744755db}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{IBM GDPS Family: An Introduction to Concepts and Capabilities}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.redbooks.ibm.com/redbooks/pdfs/sg246374.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.redbooks.ibm.com/redbooks/pdfs/sg246374.pdf
       \endverb
     \endentry
     \entry{Sharma2011TeachOrNotTeach}{article}{}{}

@@ -118,17 +118,17 @@ Hierdoor is dit een van de meest geschikte machines voor bedrijfskritieke proces
 Om deze hoge uptime te kunnen garanderen maakt IBM gebruik van software en hardware features die samen in harmonie werken om tot een heel betrouwbaar systeem te leiden \cite{spruth2010}.
 Enkele voorbeelden van deze features zijn:
 Op het laagste niveau de Recovery Unit(RU), dit is een hardwarecomponent die geïntegreerd is in de chip zelf.
-Wanneer zich een fout voordoet in het systeem, bijvoorbeeld een bitflip of een defecte transistor detecteert en isoleert de RU dit probleem onmiddellijk.
+Wanneer zich een fout voordoet in het systeem, bijvoorbeeld een bitflip of een defecte transistor detecteert en isoleert de RU dit probleem onmiddellijk \cite{lascu2022z16}.
 Het getroffen component wordt automatisch vervangen door een backup component op dezelfde chip.
 Hierdoor is de impact op het complete systeem minimaal en kunnen andere processen ongestoord verder draaien.
 
 Een niveau hoger spreken we van de parallel sysplex architectuur.
-Hierbij werken verschillende mainframes samen als één logisch systeem en delen ze databases en resources.
+Hierbij werken verschillende mainframes samen als één logisch systeem en delen ze databases en resources \cite{ebbers2012zos}.
 Door deze verbondenheid tussen machines kan in het geval dat er een uitvalt de workload verplaatst worden naar een ander systeem.
 Dit herstel op een ander systeem verloopt heel snel en zonder dataverlies, dit kan enkele seconden tot minuten duren.
 
 Dan op het hoogste niveau staat IBM GDPS(Geographically Dispersed parallel sysplex).
-Aan de hand van deze technologie is een failover tussen verschillende gescheiden datacenters mogelijk.
+Aan de hand van deze technologie is een failover tussen verschillende gescheiden datacenters mogelijk \cite{raju2024gdps}.
 Dit systeem is in staat om de replicatie van data en overschakeling van werklasten  tussen verschillende locaties te controleren.
 In geval van een cyberaanval of stroompanne op een bepaalde site is dit een laatste maar drastische oplossing om het systeem draaiende te houden.
 
