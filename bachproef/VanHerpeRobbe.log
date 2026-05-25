@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  24 MAY 2026 16:36
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  25 MAY 2026 14:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1561,36 +1561,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'VanHerpeRobbe.bbl' found.
- (./VanHerpeRobbe.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                dinardo2024usage
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                granatella
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                holmes2018dimensions
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                sotaquira2024hackathons
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+ (./VanHerpeRobbe.bbl)
 Package biblatex Info: Reference section=0 on input line 78.
 Package biblatex Info: Reference segment=0 on input line 78.
 Package caption Info: Begin \AtBeginDocument code.
@@ -1847,32 +1818,6 @@ Overfull \hbox (11.9685pt too wide) in paragraph at lines 181--183
 
 [8]
 
-LaTeX Warning: Citation 'holmes2018dimensions' on page 9 undefined on input line 225.
-
-
-LaTeX Warning: Citation 'holmes2018dimensions' on page 9 undefined on input line 228.
-
-
-LaTeX Warning: Citation 'sotaquira2024hackathons' on page 9 undefined on input line 230.
-
-
-Overfull \hbox (45.70663pt too wide) in paragraph at lines 228--231
-\TU/Montserrat(1)/m/n/10.95 te gaan met authentieke taken en reële projecten uit de industrie ([]).
- []
-
-
-Overfull \hbox (1.81813pt too wide) in paragraph at lines 228--231
-\TU/Montserrat(1)/m/n/10.95 mando’s of CICS transacties) direct moeten kunnen toepassen in een veilige testom-
- []
-
-
-LaTeX Warning: Citation 'granatella' on page 9 undefined on input line 235.
-
-
-LaTeX Warning: Citation 'dinardo2024usage' on page 9 undefined on input line 237.
-
-
-
 [9]
 Overfull \hbox (21.58252pt too wide) in paragraph at lines 248--248
 |[][]\TU/Montserrat(0)/b/n/14.4 Competentieframeworks als fundament voor opleidings-
@@ -2054,11 +1999,18 @@ Overfull \hbox (7.64673pt too wide) in paragraph at lines 183--183
  []
 
 
+Overfull \hbox (65.77148pt too wide) in paragraph at lines 183--183
+\TU/Montserrat(1)/m/n/10.95 Training: A Systematic Review. \TU/Montserrat(2)/m/it/10.95 Computers\TU/Montserrat(1)/m/n/10.95 , \TU/Montserrat(2)/m/it/10.95 13\TU/Montserrat(1)/m/n/10.95 . [][]$[][][][][] [] [] [] [][][] [] [][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][][][][][]$[][] 
+ []
+
+
 
 [43
 
 
 ]
+
+[44]
 Overfull \hbox (5.75507pt too wide) in paragraph at lines 183--183
 \TU/Montserrat(1)/m/n/10.95 Nr. WSI-2010-03). Wilhelm-Schickard-Institut für Informatik, Universität Tübin-
  []
@@ -2071,7 +2023,7 @@ File: Competentie_framework_robbe.pdf Graphic file (type pdf)
 <use Competentie_framework_robbe.pdf, page 1>
 
 
-[44]
+[45]
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
 <use Competentie_framework_robbe.pdf, page 1>
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
@@ -2080,76 +2032,76 @@ File: Competentie_framework_robbe.pdf Graphic file (type pdf)
 
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
 <use Competentie_framework_robbe.pdf, page 1>
-[45
-
-]
-File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 2>
-File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 2>
-
-
-File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 2>
 [46
 
 ]
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 3>
+<use Competentie_framework_robbe.pdf, page 2>
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 3>
+<use Competentie_framework_robbe.pdf, page 2>
 
 
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 3>
+<use Competentie_framework_robbe.pdf, page 2>
 [47
 
 ]
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 4>
+<use Competentie_framework_robbe.pdf, page 3>
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 4>
+<use Competentie_framework_robbe.pdf, page 3>
 
 
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 4>
+<use Competentie_framework_robbe.pdf, page 3>
 [48
 
 ]
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 5>
+<use Competentie_framework_robbe.pdf, page 4>
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 5>
+<use Competentie_framework_robbe.pdf, page 4>
 
 
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 5>
+<use Competentie_framework_robbe.pdf, page 4>
 [49
 
 ]
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 6>
+<use Competentie_framework_robbe.pdf, page 5>
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 6>
+<use Competentie_framework_robbe.pdf, page 5>
 
 
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 6>
+<use Competentie_framework_robbe.pdf, page 5>
 [50
 
 ]
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 7>
+<use Competentie_framework_robbe.pdf, page 6>
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 7>
+<use Competentie_framework_robbe.pdf, page 6>
 
 
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 7>
+<use Competentie_framework_robbe.pdf, page 6>
 [51
 
 ]
-runsystem(latexminted cleantemp  --timestamp 20260524163618 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+File: Competentie_framework_robbe.pdf Graphic file (type pdf)
+<use Competentie_framework_robbe.pdf, page 7>
+File: Competentie_framework_robbe.pdf Graphic file (type pdf)
+<use Competentie_framework_robbe.pdf, page 7>
+
+
+File: Competentie_framework_robbe.pdf Graphic file (type pdf)
+<use Competentie_framework_robbe.pdf, page 7>
+[52
+
+]
+runsystem(latexminted cleantemp  --timestamp 20260525143544 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
@@ -2163,12 +2115,12 @@ Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50150 strings out of 473832
- 1036729 string characters out of 5729480
- 2281615 words of memory out of 5000000
- 72423 multiletter control sequences out of 15000+600000
+ 50174 strings out of 473832
+ 1037706 string characters out of 5729480
+ 2281793 words of memory out of 5000000
+ 72447 multiletter control sequences out of 15000+600000
  561857 words of font info for 103 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  110i,17n,131p,1186b,5923s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on VanHerpeRobbe.pdf (61 pages).
+Output written on VanHerpeRobbe.pdf (62 pages).

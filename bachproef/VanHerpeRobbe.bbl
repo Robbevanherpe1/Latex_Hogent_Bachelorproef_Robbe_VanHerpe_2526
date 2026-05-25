@@ -268,6 +268,68 @@
       \verb https://arxiv.org/abs/2408.04660
       \endverb
     \endentry
+    \entry{dinardo2024usage}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=8d7f7249a36c8566c2f6699a875fb601}{%
+           family={Di\bibnamedelima Nardo},
+           familyi={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Vincenzo},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddee1f769676713e1994f32d5ac40cf1}{%
+           family={Fino},
+           familyi={F\bibinitperiod},
+           given={Riccardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e957e53603988c0c5ccda8e36e301c4}{%
+           family={Fiore},
+           familyi={F\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3702a76c4a98341f571ca73d61a5b339}{%
+           family={Mignogna},
+           familyi={M\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfd1b3e481e61773f592ce653f3cdb95}{%
+           family={Mongiello},
+           familyi={M\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45d405fbecc49a53e9b1e4da029873a6}{%
+           family={Simeone},
+           familyi={S\bibinitperiod},
+           given={Gaetano},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4bc4f1bf3fdf70bc163a89886868204c}
+      \strng{fullhash}{e3fe06a75abbde36f9f26cfe098bc580}
+      \strng{fullhashraw}{e3fe06a75abbde36f9f26cfe098bc580}
+      \strng{bibnamehash}{e3fe06a75abbde36f9f26cfe098bc580}
+      \strng{authorbibnamehash}{e3fe06a75abbde36f9f26cfe098bc580}
+      \strng{authornamehash}{4bc4f1bf3fdf70bc163a89886868204c}
+      \strng{authorfullhash}{e3fe06a75abbde36f9f26cfe098bc580}
+      \strng{authorfullhashraw}{e3fe06a75abbde36f9f26cfe098bc580}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers}
+      \field{title}{Usage of Gamification Techniques in Software Engineering Education and Training: A Systematic Review}
+      \field{volume}{13}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.3390/computers13080196
+      \endverb
+    \endentry
     \entry{ebbers2005}{book}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=0572753d621e10f0b9d63fd3e44eee30}{%
@@ -315,6 +377,77 @@
       \endverb
       \verb{url}
       \verb https://www.mabu.org/zosbasic.pdf
+      \endverb
+    \endentry
+    \entry{granatella}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0cee295d09e76a12174ac90c2796070b}{%
+           family={Granatella},
+           familyi={G\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0cee295d09e76a12174ac90c2796070b}
+      \strng{fullhash}{0cee295d09e76a12174ac90c2796070b}
+      \strng{fullhashraw}{0cee295d09e76a12174ac90c2796070b}
+      \strng{bibnamehash}{0cee295d09e76a12174ac90c2796070b}
+      \strng{authorbibnamehash}{0cee295d09e76a12174ac90c2796070b}
+      \strng{authornamehash}{0cee295d09e76a12174ac90c2796070b}
+      \strng{authorfullhash}{0cee295d09e76a12174ac90c2796070b}
+      \strng{authorfullhashraw}{0cee295d09e76a12174ac90c2796070b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CEUR Workshop Proceedings}
+      \field{title}{AI-Driven Microlearning for Proactive DevSecOps: Closing the Security Skill Gap}
+    \endentry
+    \entry{holmes2018dimensions}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8bdde98f73b463c706c530c06454bdf9}{%
+           family={Holmes},
+           familyi={H\bibinitperiod},
+           given={Reid},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f033cbc0e4c107c969ec251530ed2f8d}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={Meghan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d05547752968b0233c70d8bf4c9b7535}{%
+           family={Craig},
+           familyi={C\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a111c0bf21421c6e3eb5f699ddf43679}
+      \strng{fullhash}{cbea36214eb8799ed31d7cd53df12240}
+      \strng{fullhashraw}{cbea36214eb8799ed31d7cd53df12240}
+      \strng{bibnamehash}{cbea36214eb8799ed31d7cd53df12240}
+      \strng{authorbibnamehash}{cbea36214eb8799ed31d7cd53df12240}
+      \strng{authornamehash}{a111c0bf21421c6e3eb5f699ddf43679}
+      \strng{authorfullhash}{cbea36214eb8799ed31d7cd53df12240}
+      \strng{authorfullhashraw}{cbea36214eb8799ed31d7cd53df12240}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 40th International Conference on Software Engineering: Software Engineering Education and Training}
+      \field{title}{Dimensions of experientialism for software engineering education}
+      \field{year}{2018}
+      \field{pages}{31\bibrangedash 39}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1145/3183377.3183380
       \endverb
     \endentry
     \entry{horswill2000cics}{book}{}{}
@@ -867,6 +1000,50 @@
       \endverb
       \verb{url}
       \verb https://scispace.com/pdf/analyzing-pl-1-legacy-ecosystems-an-experience-report-4q0q6a4ari.pdf
+      \endverb
+    \endentry
+    \entry{sotaquira2024hackathons}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=899e53cf06f0c39c6ef51328cc3a19b1}{%
+           family={Sotaquirá-Gutiérrez},
+           familyi={S\bibinithyphendelim G\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2724e9495230295a6066dcc9e8b7fc1f}{%
+           family={Beltran},
+           familyi={B\bibinitperiod},
+           given={Luis\bibnamedelima Miguel},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c471d586218336e8ca5af0e8e60cdcb}{%
+           family={Garzon\bibnamedelima Ruiz},
+           familyi={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Juan\bibnamedelima Pablo},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{145ef71f2425d7d5a1f2cdbde859ad19}
+      \strng{fullhash}{cd09e40fbda83015e4589e03e1a69ea0}
+      \strng{fullhashraw}{cd09e40fbda83015e4589e03e1a69ea0}
+      \strng{bibnamehash}{cd09e40fbda83015e4589e03e1a69ea0}
+      \strng{authorbibnamehash}{cd09e40fbda83015e4589e03e1a69ea0}
+      \strng{authornamehash}{145ef71f2425d7d5a1f2cdbde859ad19}
+      \strng{authorfullhash}{cd09e40fbda83015e4589e03e1a69ea0}
+      \strng{authorfullhashraw}{cd09e40fbda83015e4589e03e1a69ea0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cogent Education}
+      \field{title}{Hackathons as experiential learning platforms for engineering design skills}
+      \field{volume}{12}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1080/2331186x.2024.2442187
       \endverb
     \endentry
     \entry{spruth2010}{report}{}{}
@@ -1192,6 +1369,68 @@
       \verb https://arxiv.org/abs/2408.04660
       \endverb
     \endentry
+    \entry{dinardo2024usage}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=8d7f7249a36c8566c2f6699a875fb601}{%
+           family={Di\bibnamedelima Nardo},
+           familyi={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Vincenzo},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddee1f769676713e1994f32d5ac40cf1}{%
+           family={Fino},
+           familyi={F\bibinitperiod},
+           given={Riccardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e957e53603988c0c5ccda8e36e301c4}{%
+           family={Fiore},
+           familyi={F\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3702a76c4a98341f571ca73d61a5b339}{%
+           family={Mignogna},
+           familyi={M\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfd1b3e481e61773f592ce653f3cdb95}{%
+           family={Mongiello},
+           familyi={M\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45d405fbecc49a53e9b1e4da029873a6}{%
+           family={Simeone},
+           familyi={S\bibinitperiod},
+           given={Gaetano},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4bc4f1bf3fdf70bc163a89886868204c}
+      \strng{fullhash}{e3fe06a75abbde36f9f26cfe098bc580}
+      \strng{fullhashraw}{e3fe06a75abbde36f9f26cfe098bc580}
+      \strng{bibnamehash}{e3fe06a75abbde36f9f26cfe098bc580}
+      \strng{authorbibnamehash}{e3fe06a75abbde36f9f26cfe098bc580}
+      \strng{authornamehash}{4bc4f1bf3fdf70bc163a89886868204c}
+      \strng{authorfullhash}{e3fe06a75abbde36f9f26cfe098bc580}
+      \strng{authorfullhashraw}{e3fe06a75abbde36f9f26cfe098bc580}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers}
+      \field{title}{Usage of Gamification Techniques in Software Engineering Education and Training: A Systematic Review}
+      \field{volume}{13}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.3390/computers13080196
+      \endverb
+    \endentry
     \entry{ebbers2005}{book}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=0572753d621e10f0b9d63fd3e44eee30}{%
@@ -1239,6 +1478,77 @@
       \endverb
       \verb{url}
       \verb https://www.mabu.org/zosbasic.pdf
+      \endverb
+    \endentry
+    \entry{granatella}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0cee295d09e76a12174ac90c2796070b}{%
+           family={Granatella},
+           familyi={G\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0cee295d09e76a12174ac90c2796070b}
+      \strng{fullhash}{0cee295d09e76a12174ac90c2796070b}
+      \strng{fullhashraw}{0cee295d09e76a12174ac90c2796070b}
+      \strng{bibnamehash}{0cee295d09e76a12174ac90c2796070b}
+      \strng{authorbibnamehash}{0cee295d09e76a12174ac90c2796070b}
+      \strng{authornamehash}{0cee295d09e76a12174ac90c2796070b}
+      \strng{authorfullhash}{0cee295d09e76a12174ac90c2796070b}
+      \strng{authorfullhashraw}{0cee295d09e76a12174ac90c2796070b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CEUR Workshop Proceedings}
+      \field{title}{AI-Driven Microlearning for Proactive DevSecOps: Closing the Security Skill Gap}
+    \endentry
+    \entry{holmes2018dimensions}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8bdde98f73b463c706c530c06454bdf9}{%
+           family={Holmes},
+           familyi={H\bibinitperiod},
+           given={Reid},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f033cbc0e4c107c969ec251530ed2f8d}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={Meghan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d05547752968b0233c70d8bf4c9b7535}{%
+           family={Craig},
+           familyi={C\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a111c0bf21421c6e3eb5f699ddf43679}
+      \strng{fullhash}{cbea36214eb8799ed31d7cd53df12240}
+      \strng{fullhashraw}{cbea36214eb8799ed31d7cd53df12240}
+      \strng{bibnamehash}{cbea36214eb8799ed31d7cd53df12240}
+      \strng{authorbibnamehash}{cbea36214eb8799ed31d7cd53df12240}
+      \strng{authornamehash}{a111c0bf21421c6e3eb5f699ddf43679}
+      \strng{authorfullhash}{cbea36214eb8799ed31d7cd53df12240}
+      \strng{authorfullhashraw}{cbea36214eb8799ed31d7cd53df12240}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 40th International Conference on Software Engineering: Software Engineering Education and Training}
+      \field{title}{Dimensions of experientialism for software engineering education}
+      \field{year}{2018}
+      \field{pages}{31\bibrangedash 39}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1145/3183377.3183380
       \endverb
     \endentry
     \entry{horswill2000cics}{book}{}{}
@@ -1793,6 +2103,50 @@
       \verb https://scispace.com/pdf/analyzing-pl-1-legacy-ecosystems-an-experience-report-4q0q6a4ari.pdf
       \endverb
     \endentry
+    \entry{sotaquira2024hackathons}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=899e53cf06f0c39c6ef51328cc3a19b1}{%
+           family={Sotaquirá-Gutiérrez},
+           familyi={S\bibinithyphendelim G\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2724e9495230295a6066dcc9e8b7fc1f}{%
+           family={Beltran},
+           familyi={B\bibinitperiod},
+           given={Luis\bibnamedelima Miguel},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c471d586218336e8ca5af0e8e60cdcb}{%
+           family={Garzon\bibnamedelima Ruiz},
+           familyi={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Juan\bibnamedelima Pablo},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{145ef71f2425d7d5a1f2cdbde859ad19}
+      \strng{fullhash}{cd09e40fbda83015e4589e03e1a69ea0}
+      \strng{fullhashraw}{cd09e40fbda83015e4589e03e1a69ea0}
+      \strng{bibnamehash}{cd09e40fbda83015e4589e03e1a69ea0}
+      \strng{authorbibnamehash}{cd09e40fbda83015e4589e03e1a69ea0}
+      \strng{authornamehash}{145ef71f2425d7d5a1f2cdbde859ad19}
+      \strng{authorfullhash}{cd09e40fbda83015e4589e03e1a69ea0}
+      \strng{authorfullhashraw}{cd09e40fbda83015e4589e03e1a69ea0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cogent Education}
+      \field{title}{Hackathons as experiential learning platforms for engineering design skills}
+      \field{volume}{12}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1080/2331186x.2024.2442187
+      \endverb
+    \endentry
     \entry{spruth2010}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=985891ce5884a8a3b2608aad3d1d44e8}{%
@@ -1866,10 +2220,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{dinardo2024usage}
-  \missing{granatella}
-  \missing{holmes2018dimensions}
-  \missing{sotaquira2024hackathons}
 \endrefsection
 \endinput
 
