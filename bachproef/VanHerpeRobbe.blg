@@ -1,28 +1,28 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'VanHerpeRobbe.blg'
-[22] biber-darwin:340> INFO - === Mon May 25, 2026, 16:28:43
-[28] Biber.pm:420> INFO - Reading 'VanHerpeRobbe.bcf'
-[60] Biber.pm:994> INFO - Found 25 citekeys in bib section 0
-[67] Biber.pm:4463> INFO - Processing section 0
-[70] Biber.pm:4654> INFO - Looking for bibtex file 'bachproef.bib' for section 0
-[71] bibtex.pm:1713> INFO - LaTeX decoding ...
-[76] bibtex.pm:1519> INFO - Found BibTeX data source 'bachproef.bib'
-[123] Biber.pm:4654> INFO - Looking for bibtex file '../voorstel/voorstel.bib' for section 0
-[124] bibtex.pm:1713> INFO - LaTeX decoding ...
-[127] bibtex.pm:1519> INFO - Found BibTeX data source '../voorstel/voorstel.bib'
-[160] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[160] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[160] Biber.pm:4283> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
-[160] Biber.pm:4289> INFO - No sort tailoring available for locale 'nl-NL'
-[183] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[183] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[183] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
-[183] Biber.pm:4289> INFO - No sort tailoring available for locale 'nl-NL'
-[197] bbl.pm:676> INFO - Writing 'VanHerpeRobbe.bbl' with encoding 'UTF-8'
-[207] bbl.pm:779> INFO - Output to VanHerpeRobbe.bbl
-[207] Biber.pm:131> WARN - legacy month field 'september' in entry 'raju2024ras' is not an integer - this will probably not sort properly.
-[207] Biber.pm:131> WARN - legacy month field 'june' in entry 'lichtenau2022telum' is not an integer - this will probably not sort properly.
-[207] Biber.pm:131> WARN - legacy month field 'august' in entry 'dau2024xmainframe' is not an integer - this will probably not sort properly.
-[207] Biber.pm:131> WARN - legacy month field 'mar' in entry 'ibm_mainframe_apprentice_2023' is not an integer - this will probably not sort properly.
-[207] Biber.pm:131> WARN - legacy month field 'mar' in entry 'ibm_app_dev_z_2023' is not an integer - this will probably not sort properly.
-[207] Biber.pm:133> INFO - WARNINGS: 5
+[24] biber-darwin:340> INFO - === Mon May 25, 2026, 17:12:29
+[31] Biber.pm:420> INFO - Reading 'VanHerpeRobbe.bcf'
+[63] Biber.pm:994> INFO - Found 25 citekeys in bib section 0
+[70] Biber.pm:4463> INFO - Processing section 0
+[74] Biber.pm:4654> INFO - Looking for bibtex file 'bachproef.bib' for section 0
+[74] bibtex.pm:1713> INFO - LaTeX decoding ...
+[80] bibtex.pm:1519> INFO - Found BibTeX data source 'bachproef.bib'
+[129] Biber.pm:4654> INFO - Looking for bibtex file '../voorstel/voorstel.bib' for section 0
+[130] bibtex.pm:1713> INFO - LaTeX decoding ...
+[133] bibtex.pm:1519> INFO - Found BibTeX data source '../voorstel/voorstel.bib'
+[166] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[166] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[166] Biber.pm:4283> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[166] Biber.pm:4289> INFO - No sort tailoring available for locale 'nl-NL'
+[190] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[190] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[190] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[190] Biber.pm:4289> INFO - No sort tailoring available for locale 'nl-NL'
+[204] bbl.pm:676> INFO - Writing 'VanHerpeRobbe.bbl' with encoding 'UTF-8'
+[216] bbl.pm:779> INFO - Output to VanHerpeRobbe.bbl
+[217] Biber.pm:131> WARN - legacy month field 'september' in entry 'raju2024ras' is not an integer - this will probably not sort properly.
+[217] Biber.pm:131> WARN - legacy month field 'june' in entry 'lichtenau2022telum' is not an integer - this will probably not sort properly.
+[217] Biber.pm:131> WARN - legacy month field 'august' in entry 'dau2024xmainframe' is not an integer - this will probably not sort properly.
+[217] Biber.pm:131> WARN - legacy month field 'mar' in entry 'ibm_mainframe_apprentice_2023' is not an integer - this will probably not sort properly.
+[217] Biber.pm:131> WARN - legacy month field 'mar' in entry 'ibm_app_dev_z_2023' is not an integer - this will probably not sort properly.
+[217] Biber.pm:133> INFO - WARNINGS: 5
