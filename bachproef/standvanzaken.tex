@@ -60,7 +60,7 @@ Tenslotte wordt er gekeken naar andere frameworks en waarom een competentieframe
 Een essentieel onderdeel om deze bachelorproef goed te kunnen volgen, is een duidelijk begrip van het concept "mainframe".
 De term wordt in de praktijk soms gebruikt alsof het gewoon om een zeer grote server gaat, maar dat beeld is eigenlijk te beperkt.
 Binnen de literatuur en documentatie over enterprise computing verwijst een mainframe naar een specifiek type platform dat ontworpen is voor continuïteit,
-grootschalige verwerking, en hoge betrouwbaarheid \cite{spruth2010}.
+grootschalige verwerking, en hoge betrouwbaarheid \autocite{spruth2010}.
 
 \subsection{Definitie van een mainframe}%
 \label{sec:definitie-mainframe}
@@ -79,13 +79,13 @@ Een van de belangrijkste kenmerken van een mainframe is zijn hoge securability,
  wat besproken wordt in verschillende studies en papers van onder andere \cite{spruth2010} en \cite{ebbers2005}.
 Hoewel een mainframe is ontworpen met de architectuur om maximale veiligheid te faciliteren, 
 mag dit niet verward worden met secure by design. 
-Het systeem is uiteindelijk slechts zo veilig als de specifieke beveiligingsmaatregelen die erop zijn geconfigureerd \cite{buecker2016security}.
+Het systeem is uiteindelijk slechts zo veilig als de specifieke beveiligingsmaatregelen die erop zijn geconfigureerd \autocite{buecker2016security}.
 Maar over het algemeen is de mainframe in veel bedrijven het meest veilige systeem tegen cybercriminelen,
- mede doordat IBM de hardware en software ontwikkelt, wat mogelijk maakt om beveiligingen op alle niveaus te plaatsen \cite{buecker2016security}.
+ mede doordat IBM de hardware en software ontwikkelt, wat mogelijk maakt om beveiligingen op alle niveaus te plaatsen \autocite{buecker2016security}.
 
 Een voorbeeld van het hoge niveau aan veiligheid is dat vanaf de Z16 mainframe de beveiliging kwantum veilig is.
 De Z16 was het eerste systeem in de industrie die kwantumcryptografie over verschillende lagen van firmware toepaste.
-Dit werd bereikt door het toepassen van algoritmes bij versleuteling die geselecteerd zijn door NIST als post kwantum standaard \cite{bradbury2021quantumsafe}.
+Dit werd bereikt door het toepassen van algoritmes bij versleuteling die geselecteerd zijn door NIST als post kwantum standaard \autocite{bradbury2021quantumsafe}.
 Zo is de mainframe met zijn beveiligingsalgoritmes bestand tegen toekomstige kwantumcomputers, wat een extra troef is tegenover andere systemen.
 
 
@@ -93,7 +93,7 @@ Zo is de mainframe met zijn beveiligingsalgoritmes bestand tegen toekomstige kwa
 \label{sec:virtualisatie-mainframe}
 
 Een tweede kenmerk van een mainframe is de ondersteuning voor virtualisatie door het gebruik van logische partities (LPARS).
-Deze LPARS zijn logische partities die een fysieke machine opsplitsen in meerdere compleet onafhankelijke virtuele systemen \cite{buecker2016security}.
+Deze LPARS zijn logische partities die een fysieke machine opsplitsen in meerdere compleet onafhankelijke virtuele systemen \autocite{buecker2016security}.
 De mainframe wordt dan op softwareniveau verdeeld zodat elke LPAR over zijn eigen resources beschikt.
 Daarnaast kan iedere LPAR zijn eigen besturingssysteem draaien wat zorgt voor zeer hoge flexibiliteit.
 
@@ -108,27 +108,27 @@ Hierdoor is het gebruik van logische partities binnen een mainframe heel voordel
 \subsection{Beschikbaarheid en betrouwbaarheid}%
 \label{sec:beschikbaarheid-mainframe}
 
-Een derde en zeer belangrijke eigenschap van de mainframe is de zeer hoge betrouwbaarheid en beschikbaarheid \cite{raju2024ras}.
+Een derde en zeer belangrijke eigenschap van de mainframe is de zeer hoge betrouwbaarheid en beschikbaarheid \autocite{raju2024ras}.
 Doordat IBM de hardware en de software ontwikkelt kan men veel dieper gaan en veel lagen van veiligheid inbouwen.
 Volgens IBM is de uptime dan ook 99,999 procent wat uitkomt op een 5 minuten per jaar van downtime.
 Dit is veel lager dan gedistribueerde systemen en is vaak nog een onderschatting met nieuwe systemen zoals de Z17(nieuwste mainframe) die wel 99,9999999 procent uptime kunnen hebben.
 Hierdoor is dit een van de meest geschikte machines voor bedrijfskritieke processen op te draaien binnen grote organisatie.
 
-Om deze hoge uptime te kunnen garanderen maakt IBM gebruik van software en hardware features die samen in harmonie werken om tot een heel betrouwbaar systeem te leiden \cite{spruth2010}.
+Om deze hoge uptime te kunnen garanderen maakt IBM gebruik van software en hardware features die samen in harmonie werken om tot een heel betrouwbaar systeem te leiden \autocite{spruth2010}.
 Enkele voorbeelden van deze features zijn:
 Op het laagste niveau de Recovery Unit(RU), dit is een hardwarecomponent die geïntegreerd is in de chip zelf.
-Wanneer zich een fout voordoet in het systeem, bijvoorbeeld een bitflip of een defecte transistor detecteert en isoleert de RU dit probleem onmiddellijk \cite{lascu2022z16}.
+Wanneer zich een fout voordoet in het systeem, bijvoorbeeld een bitflip of een defecte transistor detecteert en isoleert de RU dit probleem onmiddellijk \autocite{lascu2022z16}.
 De getroffen component wordt automatisch vervangen door een backup component op dezelfde chip.
 Hierdoor is de impact op het complete systeem minimaal en kunnen andere processen ongestoord verder draaien.
 
 Een niveau hoger spreken we van de parallel sysplex architectuur.
-Hierbij werken verschillende mainframes samen als één logisch systeem en delen ze databases en resources \cite{ebbers2012zos}.
+Hierbij werken verschillende mainframes samen als één logisch systeem en delen ze databases en resources \autocite{ebbers2012zos}.
 Door deze verbondenheid tussen machines kan in het geval dat er één uitvalt de workload verplaatst worden naar een ander systeem.
 Dit herstel op een ander systeem verloopt heel snel en zonder dataverlies.
 De hersteltijd kan enkele seconden tot minuten duren.
 
 Op het hoogste niveau staat IBM GDPS(Geographically Dispersed parallel sysplex).
-Aan de hand van deze technologie is een failover tussen verschillende gescheiden datacenters mogelijk \cite{raju2024gdps}.
+Aan de hand van deze technologie is een failover tussen verschillende gescheiden datacenters mogelijk \autocite{raju2024gdps}.
 Dit systeem is in staat om de replicatie van data en overschakeling van werklasten  tussen verschillende locaties te controleren.
 In geval van een cyberaanval of stroompanne op een bepaalde site is dit een laatste maar drastische oplossing om het systeem draaiende te houden.
 
@@ -279,7 +279,7 @@ PL/1 werd in 1964 door IBM ontwikkeld met als doel een programmeertaal te maken 
 
 
 Je ziet PL/I bijvoorbeeld in de financiële sector bij organisaties zoals Euroclear, maar ook in andere omgevingen zoals in de staalindustrie bij ArcelorMittal. 
-Dat is niet toevallig, de taal is gebouwd om grote hoeveelheden transacties efficiënt te verwerken net zoals Cobol \cite{dau2024xmainframe}. 
+Dat is niet toevallig, de taal is gebouwd om grote hoeveelheden transacties efficiënt te verwerken net zoals Cobol \autocite{dau2024xmainframe}. 
 IBM probeerde de wiskundige kracht van Fortran en de zakelijke kracht van Cobol te combineren tot één taal die alles kan.
 Hierdoor is PL/I iets minder business georiënteerd, waardoor sommige developers het iets toegankelijker vinden om mee te starten.
 
@@ -296,7 +296,7 @@ Hierdoor zijn oplossingen niet altijd optimaal en de technische schuld blijft ve
 \subsection{CICS als transactieverwerker}%
 \label{sec:cics-transactie}
 
-CICS (Customer Information Control System) is een middlewareplatform dat werkt als een OLTP (online transactie verwerkings systeem) tussen het z/OS besturingssysteem en de bedrijfsapplicaties \cite{horswill2000cics}.
+CICS (Customer Information Control System) is een middlewareplatform dat werkt als een OLTP (online transactie verwerkings systeem) tussen het z/OS besturingssysteem en de bedrijfsapplicaties \autocite{horswill2000cics}.
 Het werd in 1968 ontwikkeld door IBM als een tijdelijke oplossing voor System/360 machines.
 Desondanks is deze technologie uitgegroeid tot een van de grootste softwareplatformen binnen de mainframe industrie.
 Vandaag verwerkt deze technologie meer dan tientallen miljarden transacties per dag, en wordt gebruikt in verschillende industrieën.

@@ -16,9 +16,9 @@
 \contentsline {subsection}{\numberline {2.2.3}Beschikbaarheid en betrouwbaarheid}{6}{subsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.2.4}Mainframe modernisatie}{6}{subsection.2.2.4}%
 \contentsline {section}{\numberline {2.3}Mainframe-ontwikkeling in een hedendaagse context}{7}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Skills gap en vergrijzing als structureel probleem}{7}{section.2.4}%
+\contentsline {section}{\numberline {2.4}Skills gap en vergrijzing als structureel probleem}{8}{section.2.4}%
 \contentsline {section}{\numberline {2.5}Initiatieven om instroom van nieuw talent te vergroten}{8}{section.2.5}%
-\contentsline {section}{\numberline {2.6}Onboarding van nieuwe ontwikkelaars in legacy omgevingen }{8}{section.2.6}%
+\contentsline {section}{\numberline {2.6}Onboarding van nieuwe ontwikkelaars in legacy omgevingen }{9}{section.2.6}%
 \contentsline {section}{\numberline {2.7}Leerstrategieën en kennisoverdracht bij jonge IT professionals}{9}{section.2.7}%
 \contentsline {subsection}{\numberline {2.7.1}Ervaringsgericht leren in een veilige context}{9}{subsection.2.7.1}%
 \contentsline {subsection}{\numberline {2.7.2}Gamification}{10}{subsection.2.7.2}%
