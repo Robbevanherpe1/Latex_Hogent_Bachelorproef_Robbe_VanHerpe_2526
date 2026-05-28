@@ -1,7 +1,7 @@
 \babel@toc {dutch}{}\relax 
-\contentsline {chapter}{L\ij st van figuren}{viii}{chapter*.4}%
-\contentsline {chapter}{L\ij st van tabellen}{ix}{chapter*.5}%
-\contentsline {chapter}{Lijst van codefragmenten }{x}{section*.6}%
+\contentsline {chapter}{L\ij st van figuren}{ix}{chapter*.4}%
+\contentsline {chapter}{L\ij st van tabellen}{x}{chapter*.5}%
+\contentsline {chapter}{Lijst van codefragmenten }{xi}{section*.6}%
 \contentsline {chapter}{\numberline {1}Inleiding}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Probleemstelling}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Onderzoeksvraag}{1}{section.1.2}%
@@ -80,24 +80,32 @@
 \contentsline {subsection}{\numberline {5.9.1}Theorie in modules}{30}{subsection.5.9.1}%
 \contentsline {subsection}{\numberline {5.9.2}Oefeningen in modules}{31}{subsection.5.9.2}%
 \contentsline {subsection}{\numberline {5.9.3}Quiz in modules}{32}{subsection.5.9.3}%
-\contentsline {chapter}{\numberline {6}Conclusie}{34}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Antwoord op de onderzoeksvraag}{34}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Bijdrage aan het onderzoeksdomein}{35}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Kritische reflectie}{35}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Beperkingen van het onderzoek}{35}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}Verwachte resultaten van het onderzoek}{36}{subsection.6.3.2}%
-\contentsline {section}{\numberline {6.4}Aanbevelingen voor verder onderzoek}{36}{section.6.4}%
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{37}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Inleiding}{37}{section.A.1}%
-\contentsline {subsection}{\numberline {A.1.1}Probleemstelling en onderzoeksvragen}{37}{subsection.A.1.1}%
-\contentsline {subsection}{\numberline {A.1.2}Doelgroep}{38}{subsection.A.1.2}%
-\contentsline {subsection}{\numberline {A.1.3}Doelstelling}{38}{subsection.A.1.3}%
-\contentsline {section}{\numberline {A.2}Literatuurstudie}{38}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Methodologie}{39}{section.A.3}%
-\contentsline {subsection}{\numberline {A.3.1}Literatuurstudie en interviews}{40}{subsection.A.3.1}%
-\contentsline {subsection}{\numberline {A.3.2}Opstellen framework en PoC}{40}{subsection.A.3.2}%
-\contentsline {subsection}{\numberline {A.3.3}Rapporteren paper}{41}{subsection.A.3.3}%
-\contentsline {section}{\numberline {A.4}Verwacht resultaat, conclusie}{41}{section.A.4}%
-\contentsline {chapter}{Bibliografie}{43}{appendix*.13}%
-\contentsline {chapter}{\ignorespaces {Competentie framework}}{46}{appendix*.14}%
+\contentsline {section}{\numberline {5.10}Validatie van het framework en de PoC}{33}{section.5.10}%
+\contentsline {subsection}{\numberline {5.10.1}Validatie door professionals}{33}{subsection.5.10.1}%
+\contentsline {subsection}{\numberline {5.10.2}Validatie door medestudenten}{34}{subsection.5.10.2}%
+\contentsline {subsection}{\numberline {5.10.3}Beperkingen van de validatie}{34}{subsection.5.10.3}%
+\contentsline {chapter}{\numberline {6}Conclusie}{35}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Antwoord op de onderzoeksvraag}{35}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Antwoord op de deelvragen}{36}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Welke competenties zijn essentieel voor een beginnende PL/1 en CICS developer binnen een z/OS omgeving?}{36}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Hoe kan een competentieframework worden opgebouwd dat aansluit bij de actuele noden van het werkveld?}{36}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Hoe kan een proof of concept leerplatform op basis van dit competentieframework meetbaar bijdragen aan het verkleinen van de kenniskloof en het verkorten van de tijd tot inzetbaarheid van startende mainframeontwikkelaars?}{37}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}Bijdrage aan het onderzoeksdomein}{37}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Kritische reflectie}{38}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Beperkingen van het onderzoek}{38}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Verwachte resultaten van het onderzoek}{38}{subsection.6.4.2}%
+\contentsline {section}{\numberline {6.5}Aanbevelingen voor verder onderzoek}{38}{section.6.5}%
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{40}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Inleiding}{40}{section.A.1}%
+\contentsline {subsection}{\numberline {A.1.1}Probleemstelling en onderzoeksvragen}{40}{subsection.A.1.1}%
+\contentsline {subsection}{\numberline {A.1.2}Doelgroep}{41}{subsection.A.1.2}%
+\contentsline {subsection}{\numberline {A.1.3}Doelstelling}{41}{subsection.A.1.3}%
+\contentsline {section}{\numberline {A.2}Literatuurstudie}{41}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Methodologie}{42}{section.A.3}%
+\contentsline {subsection}{\numberline {A.3.1}Literatuurstudie en interviews}{43}{subsection.A.3.1}%
+\contentsline {subsection}{\numberline {A.3.2}Opstellen framework en PoC}{43}{subsection.A.3.2}%
+\contentsline {subsection}{\numberline {A.3.3}Rapporteren paper}{44}{subsection.A.3.3}%
+\contentsline {section}{\numberline {A.4}Verwacht resultaat, conclusie}{44}{section.A.4}%
+\contentsline {chapter}{Bibliografie}{46}{appendix*.13}%
+\contentsline {chapter}{\ignorespaces {Competentie framework}}{49}{appendix*.14}%
 \contentsfinish 

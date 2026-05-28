@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  28 MAY 2026 10:42
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  28 MAY 2026 13:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1723,13 +1723,15 @@ Overfull \hbox (4.12587pt too wide) in paragraph at lines 14--4
 
 ]
 
-[6])
+[6]
+
+[7])
 \tf@toc=\write7
 \openout7 = `VanHerpeRobbe.toc'.
 
 
 
-[7] (./VanHerpeRobbe.lof
+[8] (./VanHerpeRobbe.lof
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FiraMathRegular' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1752,7 +1754,7 @@ LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
 
 
 
-[8
+[9
 
 ] (./VanHerpeRobbe.lot)
 \tf@lot=\write9
@@ -1760,7 +1762,7 @@ LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
 
 
 
-[9
+[10
 
 ] (./VanHerpeRobbe.lol)
 \tf@lol=\write10
@@ -1768,7 +1770,7 @@ LaTeX Font Info:    Font shape `TU/FiraMathRegular(3)/m/n' will be
 
 
 
-[10
+[11
 
 
 ] (./inleiding.tex
@@ -1933,28 +1935,34 @@ Overfull \hbox (3.99596pt too wide) in paragraph at lines 453--458
 
 
 
-[32]) (./conclusie.tex
+[32]
 
-[33]
+[33]) (./conclusie.tex
+
+[34]
 Hoofdstuk 6.
 
 
-[34
+[35
 
 ]
 
-[35]
-Overfull \hbox (10.07413pt too wide) in paragraph at lines 89--93
+[36]
+
+[37]
+
+[38]
+Overfull \hbox (10.07413pt too wide) in paragraph at lines 133--137
 \TU/Montserrat(1)/m/n/10.95 seerd op de vraag of externe begeleiding nodig is. Het integreren van een AI-assistent
  []
 
 )
 
-[36]
+[39]
 B\ij lage A.
 (../voorstel/voorstel-inhoud.tex
 
-[37
+[40
 
 ]
 Overfull \hbox (0.17656pt too wide) in paragraph at lines 92--93
@@ -1963,9 +1971,9 @@ Overfull \hbox (0.17656pt too wide) in paragraph at lines 92--93
 
 
 
-[38]
+[41]
 
-[39]
+[42]
 File: ../voorstel/Gantt Chart.png Graphic file (type bmp)
 <../voorstel/Gantt Chart.png>
 
@@ -1975,16 +1983,16 @@ Overfull \hbox (32.93776pt too wide) in paragraph at lines 160--168
 
 
 
-[40]
+[43]
 Overfull \hbox (7.41966pt too wide) in paragraph at lines 223--226
 \TU/Montserrat(1)/m/n/10.95 competentieframework voor PL1 en CICS developers. Aan de hand van deze learning-
  []
 
 
 
-[41])
+[44])
 
-[42]
+[45]
 Overfull \hbox (17.40071pt too wide) in paragraph at lines 183--183
 [][][][][][][][][][][][][][][] [][] [][][][][][][][][][] [] [][][][][][][][][] [] [][][][][][][][] [][] [][][][][][] [] [][][][] [][] [][][][] [][] [][][][][][][] [][]
  []
@@ -2010,12 +2018,12 @@ Overfull \hbox (7.27739pt too wide) in paragraph at lines 183--183
 
 
 
-[43
+[46
 
 
 ]
 
-[44]
+[47]
 Overfull \hbox (5.75507pt too wide) in paragraph at lines 183--183
 \TU/Montserrat(1)/m/n/10.95 Nr. WSI-2010-03). Wilhelm-Schickard-Institut für Informatik, Universität Tübin-
  []
@@ -2028,7 +2036,7 @@ File: Competentie_framework_robbe.pdf Graphic file (type pdf)
 <use Competentie_framework_robbe.pdf, page 1>
 
 
-[45]
+[48]
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
 <use Competentie_framework_robbe.pdf, page 1>
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
@@ -2037,76 +2045,76 @@ File: Competentie_framework_robbe.pdf Graphic file (type pdf)
 
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
 <use Competentie_framework_robbe.pdf, page 1>
-[46
-
-]
-File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 2>
-File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 2>
-
-
-File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 2>
-[47
-
-]
-File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 3>
-File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 3>
-
-
-File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 3>
-[48
-
-]
-File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 4>
-File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 4>
-
-
-File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 4>
 [49
 
 ]
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 5>
+<use Competentie_framework_robbe.pdf, page 2>
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 5>
+<use Competentie_framework_robbe.pdf, page 2>
 
 
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 5>
+<use Competentie_framework_robbe.pdf, page 2>
 [50
 
 ]
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 6>
+<use Competentie_framework_robbe.pdf, page 3>
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 6>
+<use Competentie_framework_robbe.pdf, page 3>
 
 
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 6>
+<use Competentie_framework_robbe.pdf, page 3>
 [51
 
 ]
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 7>
+<use Competentie_framework_robbe.pdf, page 4>
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 7>
+<use Competentie_framework_robbe.pdf, page 4>
 
 
 File: Competentie_framework_robbe.pdf Graphic file (type pdf)
-<use Competentie_framework_robbe.pdf, page 7>
+<use Competentie_framework_robbe.pdf, page 4>
 [52
 
 ]
-runsystem(latexminted cleantemp  --timestamp 20260528104214 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+File: Competentie_framework_robbe.pdf Graphic file (type pdf)
+<use Competentie_framework_robbe.pdf, page 5>
+File: Competentie_framework_robbe.pdf Graphic file (type pdf)
+<use Competentie_framework_robbe.pdf, page 5>
+
+
+File: Competentie_framework_robbe.pdf Graphic file (type pdf)
+<use Competentie_framework_robbe.pdf, page 5>
+[53
+
+]
+File: Competentie_framework_robbe.pdf Graphic file (type pdf)
+<use Competentie_framework_robbe.pdf, page 6>
+File: Competentie_framework_robbe.pdf Graphic file (type pdf)
+<use Competentie_framework_robbe.pdf, page 6>
+
+
+File: Competentie_framework_robbe.pdf Graphic file (type pdf)
+<use Competentie_framework_robbe.pdf, page 6>
+[54
+
+]
+File: Competentie_framework_robbe.pdf Graphic file (type pdf)
+<use Competentie_framework_robbe.pdf, page 7>
+File: Competentie_framework_robbe.pdf Graphic file (type pdf)
+<use Competentie_framework_robbe.pdf, page 7>
+
+
+File: Competentie_framework_robbe.pdf Graphic file (type pdf)
+<use Competentie_framework_robbe.pdf, page 7>
+[55
+
+]
+runsystem(latexminted cleantemp  --timestamp 20260528130457 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
@@ -2114,18 +2122,18 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `VanHerpeRobbe.out' has not changed.
-(rerunfilecheck)             Checksum: 9C6FE4AA142B137AFF461B3B38D9F889;20879.
+(rerunfilecheck)             Checksum: C82984C59909CC03614934F6D59B085C;24453.
 Package logreq Info: Writing requests to 'VanHerpeRobbe.run.xml'.
 \openout1 = `VanHerpeRobbe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50191 strings out of 473832
- 1038366 string characters out of 5729480
- 2282003 words of memory out of 5000000
- 72464 multiletter control sequences out of 15000+600000
+ 50205 strings out of 473832
+ 1038651 string characters out of 5729480
+ 2282868 words of memory out of 5000000
+ 72478 multiletter control sequences out of 15000+600000
  561857 words of font info for 103 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
- 110i,17n,131p,1186b,5923s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,17n,131p,1303b,5923s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on VanHerpeRobbe.pdf (62 pages).
+Output written on VanHerpeRobbe.pdf (66 pages).
