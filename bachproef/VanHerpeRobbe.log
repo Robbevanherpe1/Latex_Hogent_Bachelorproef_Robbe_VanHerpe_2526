@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  28 MAY 2026 13:04
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.24)  28 MAY 2026 13:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1703,11 +1703,6 @@ File: ../graphics/hogent_logo.eps Graphic file (type eps)
 [2]
 Package hyperref Info: Option `pageanchor' set `true' on input line 96.
  (./voorwoord.tex) (./samenvatting.tex
-Overfull \hbox (4.12587pt too wide) in paragraph at lines 14--4
-\TU/Montserrat(1)/m/n/10.95 Mijn bachelorproef is gericht op nieuwe geïnteresseerde studenten voor mainframe.
- []
-
-
 
 [3
 
@@ -2114,7 +2109,7 @@ File: Competentie_framework_robbe.pdf Graphic file (type pdf)
 [55
 
 ]
-runsystem(latexminted cleantemp  --timestamp 20260528130457 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
+runsystem(latexminted cleantemp  --timestamp 20260528131836 99C7459E4D890FA2680B3E985F903974)...executed safely (allowed).
 
  (./VanHerpeRobbe.aux)
  ***********
